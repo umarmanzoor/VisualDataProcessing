@@ -1,22 +1,22 @@
-Left,2,ground,3,ground 
-Left,2,ground,4,face-of-person 
-Above,2,ground,5,rock 
-Left,2,ground,5,rock 
-Left,2,ground,6,rock 
-Right,3,ground,2,ground 
-Right,3,ground,4,face-of-person 
-Right,3,ground,6,rock 
-Right,4,face-of-person,2,ground 
-Left,4,face-of-person,3,ground 
-Right,4,face-of-person,6,rock 
-Above,5,rock,2,ground 
-Left,5,rock,2,ground 
-Below,6,rock,5,rock 
-Below,7,rock,5,rock 
-Right,6,rock,2,ground 
-Left,6,rock,3,ground 
-Left,6,rock,4,face-of-person 
-Above,6,rock, 5,rock 
-Below,7,rock,6,rock 
-Above,7,rock, 5,rock 
-Above,7,rock, 6,rock 
+Left,2,ground,3,ground,y-aligned 
+Left,2,ground,4,face-of-person,y-aligned 
+Above,2,ground,5,rock,x-aligned 
+Left,2,ground,5,rock,y-aligned 
+Left,2,ground,6,rock,y-aligned 
+Right,3,ground,2,ground,y-aligned 
+Right,3,ground,4,face-of-person,y-aligned 
+Right,3,ground,6,rock,y-aligned 
+Right,4,face-of-person,2,ground,y-aligned 
+Left,4,face-of-person,3,ground,y-aligned 
+Right,4,face-of-person,6,rock,y-aligned 
+Above,5,rock,2,ground,x-aligned 
+Left,5,rock,2,ground,y-aligned 
+Below,6,rock,5,rock,x-aligned 
+Below,7,rock,5,rock,x-aligned 
+Right,6,rock,2,ground,y-aligned 
+Left,6,rock,3,ground,y-aligned 
+Left,6,rock,4,face-of-person,y-aligned 
+Above,6,rock, 5,rock,x-aligned 
+Below,7,rock,6,rock,x-aligned 
+Above,7,rock, 5,rock,x-aligned 
+Above,7,rock, 6,rock,x-aligned 

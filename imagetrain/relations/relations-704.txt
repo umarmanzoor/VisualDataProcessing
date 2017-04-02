@@ -1,56 +1,56 @@
-Left,1,child-boy,2,child 
-Left,1,child-boy,3,child 
-Left,1,child-boy,4,child 
-Left,1,child-boy,5,child 
-Right,2,child,1,child-boy 
-Left,2,child,3,child 
-Left,2,child,4,child 
-Left,2,child,5,child 
-Below,8,wall,2,child 
-Above,2,child,10,couple-of-persons 
-Right,2,child,12,wooden-furniture 
-Right,3,child,1,child-boy 
-Right,3,child,2,child 
-Left,3,child,4,child 
-Left,3,child,5,child 
-Above,3,child,9,child-girl 
-Right,3,child,12,wooden-furniture 
-Right,4,child,1,child-boy 
-Right,4,child,2,child 
-Left,4,child,3,child 
-Above,4,child,5,child 
-Left,4,child,5,child 
-Below,7,window,4,child 
-Right,4,child,12,wooden-furniture 
-Right,5,child,1,child-boy 
-Right,5,child,2,child 
-Right,5,child,3,child 
-Above,5,child,4,child 
-Left,5,child,4,child 
-Right,5,child,12,wooden-furniture 
-Left,6,window,7,window 
-Above,6,window, 11,group-of-persons 
-Above,7,window, 4,child 
-Right,7,window,6,window 
-Above,8,wall, 2,child 
-Above,8,wall, 10,couple-of-persons 
-Right,9,child-girl,10,couple-of-persons 
-Right,9,child-girl,11,group-of-persons 
-Right,9,child-girl,13,face-of-person 
-Below,8,wall,10,couple-of-persons 
-Left,10,couple-of-persons,9,child-girl 
-Right,10,couple-of-persons,11,group-of-persons 
-Right,10,couple-of-persons,13,face-of-person 
-Below,6,window,11,group-of-persons 
-Left,11,group-of-persons,9,child-girl 
-Left,11,group-of-persons,10,couple-of-persons 
-Above,11,group-of-persons, 12,wooden-furniture 
-Left,11,group-of-persons,13,face-of-person 
-Left,12,wooden-furniture,2,child 
-Left,12,wooden-furniture,3,child 
-Left,12,wooden-furniture,4,child 
-Left,12,wooden-furniture,5,child 
-Below,11,group-of-persons,12,wooden-furniture 
-Left,13,face-of-person,9,child-girl 
-Left,13,face-of-person,10,couple-of-persons 
-Right,13,face-of-person,11,group-of-persons 
+Left,1,child-boy,2,child,y-aligned 
+Left,1,child-boy,3,child,y-aligned 
+Left,1,child-boy,4,child,y-aligned 
+Left,1,child-boy,5,child,y-aligned 
+Right,2,child,1,child-boy,y-aligned 
+Left,2,child,3,child,y-aligned 
+Left,2,child,4,child,y-aligned 
+Left,2,child,5,child,y-aligned 
+Below,8,wall,2,child,x-aligned 
+Above,2,child,10,couple-of-persons,x-aligned 
+Right,2,child,12,wooden-furniture,y-aligned 
+Right,3,child,1,child-boy,y-aligned 
+Right,3,child,2,child,y-aligned 
+Left,3,child,4,child,y-aligned 
+Left,3,child,5,child,y-aligned 
+Above,3,child,9,child-girl,x-aligned 
+Right,3,child,12,wooden-furniture,y-aligned 
+Right,4,child,1,child-boy,y-aligned 
+Right,4,child,2,child,y-aligned 
+Left,4,child,3,child,y-aligned 
+Above,4,child,5,child,x-aligned 
+Left,4,child,5,child,y-aligned 
+Below,7,window,4,child,x-aligned 
+Right,4,child,12,wooden-furniture,y-aligned 
+Right,5,child,1,child-boy,y-aligned 
+Right,5,child,2,child,y-aligned 
+Right,5,child,3,child,y-aligned 
+Above,5,child,4,child,x-aligned 
+Left,5,child,4,child,y-aligned 
+Right,5,child,12,wooden-furniture,y-aligned 
+Left,6,window,7,window,y-aligned 
+Above,6,window, 11,group-of-persons,x-aligned 
+Above,7,window, 4,child,x-aligned 
+Right,7,window,6,window,y-aligned 
+Above,8,wall, 2,child,x-aligned 
+Above,8,wall, 10,couple-of-persons,x-aligned 
+Right,9,child-girl,10,couple-of-persons,y-aligned 
+Right,9,child-girl,11,group-of-persons,y-aligned 
+Right,9,child-girl,13,face-of-person,y-aligned 
+Below,8,wall,10,couple-of-persons,x-aligned 
+Left,10,couple-of-persons,9,child-girl,y-aligned 
+Right,10,couple-of-persons,11,group-of-persons,y-aligned 
+Right,10,couple-of-persons,13,face-of-person,y-aligned 
+Below,6,window,11,group-of-persons,x-aligned 
+Left,11,group-of-persons,9,child-girl,y-aligned 
+Left,11,group-of-persons,10,couple-of-persons,y-aligned 
+Above,11,group-of-persons, 12,wooden-furniture,x-aligned 
+Left,11,group-of-persons,13,face-of-person,y-aligned 
+Left,12,wooden-furniture,2,child,y-aligned 
+Left,12,wooden-furniture,3,child,y-aligned 
+Left,12,wooden-furniture,4,child,y-aligned 
+Left,12,wooden-furniture,5,child,y-aligned 
+Below,11,group-of-persons,12,wooden-furniture,x-aligned 
+Left,13,face-of-person,9,child-girl,y-aligned 
+Left,13,face-of-person,10,couple-of-persons,y-aligned 
+Right,13,face-of-person,11,group-of-persons,y-aligned 

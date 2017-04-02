@@ -1,2 +1,2 @@
-Below,2,face-of-person,1,baby 
-Above,2,face-of-person, 1,baby 
+Below,2,face-of-person,1,baby,x-aligned 
+Above,2,face-of-person, 1,baby,x-aligned 

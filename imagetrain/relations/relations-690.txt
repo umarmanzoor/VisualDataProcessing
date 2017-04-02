@@ -1,33 +1,33 @@
-Above,1,sky-blue, 9,woman 
-Above,2,mountain, 3,ground 
-Above,2,mountain, 7,man 
-Above,2,mountain, 8,child-boy 
-Left,2,mountain,10,house 
-Below,2,mountain,3,ground 
-Right,3,ground,4,ground 
-Right,3,ground,6,child 
-Below,7,man,3,ground 
-Above,3,ground,8,child-boy 
-Left,3,ground,8,child-boy 
-Left,4,ground,3,ground 
-Below,10,house,4,ground 
-Left,6,child,3,ground 
-Left,6,child,8,child-boy 
-Left,6,child,9,woman 
-Below,2,mountain,7,man 
-Above,7,man, 3,ground 
-Above,7,man,8,child-boy 
-Left,7,man,8,child-boy 
-Right,7,man,9,woman 
-Below,2,mountain,8,child-boy 
-Left,8,child-boy,3,ground 
-Right,8,child-boy,6,child 
-Above,8,child-boy,7,man 
-Left,8,child-boy,7,man 
-Right,8,child-boy,9,woman 
-Below,1,sky-blue,9,woman 
-Right,9,woman,6,child 
-Left,9,woman,7,man 
-Left,9,woman,8,child-boy 
-Left,10,house,2,mountain 
-Above,10,house, 4,ground 
+Above,1,sky-blue, 9,woman,x-aligned 
+Above,2,mountain, 3,ground,x-aligned 
+Above,2,mountain, 7,man,x-aligned 
+Above,2,mountain, 8,child-boy,x-aligned 
+Left,2,mountain,10,house,y-aligned 
+Below,2,mountain,3,ground,x-aligned 
+Right,3,ground,4,ground,y-aligned 
+Right,3,ground,6,child,y-aligned 
+Below,7,man,3,ground,x-aligned 
+Above,3,ground,8,child-boy,x-aligned 
+Left,3,ground,8,child-boy,y-aligned 
+Left,4,ground,3,ground,y-aligned 
+Below,10,house,4,ground,x-aligned 
+Left,6,child,3,ground,y-aligned 
+Left,6,child,8,child-boy,y-aligned 
+Left,6,child,9,woman,y-aligned 
+Below,2,mountain,7,man,x-aligned 
+Above,7,man, 3,ground,x-aligned 
+Above,7,man,8,child-boy,x-aligned 
+Left,7,man,8,child-boy,y-aligned 
+Right,7,man,9,woman,y-aligned 
+Below,2,mountain,8,child-boy,x-aligned 
+Left,8,child-boy,3,ground,y-aligned 
+Right,8,child-boy,6,child,y-aligned 
+Above,8,child-boy,7,man,x-aligned 
+Left,8,child-boy,7,man,y-aligned 
+Right,8,child-boy,9,woman,y-aligned 
+Below,1,sky-blue,9,woman,x-aligned 
+Right,9,woman,6,child,y-aligned 
+Left,9,woman,7,man,y-aligned 
+Left,9,woman,8,child-boy,y-aligned 
+Left,10,house,2,mountain,y-aligned 
+Above,10,house, 4,ground,x-aligned 

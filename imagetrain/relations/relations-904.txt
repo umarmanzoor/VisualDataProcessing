@@ -1,2 +1,2 @@
-Below,3,rock,2,ground 
-Above,3,rock, 2,ground 
+Below,3,rock,2,ground,x-aligned 
+Above,3,rock, 2,ground,x-aligned 

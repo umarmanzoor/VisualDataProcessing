@@ -1,6 +1,6 @@
-Below,3,face-of-person,1,child-girl 
-Below,4,hand-of-person,1,child-girl 
-Left,1,child-girl,4,hand-of-person 
-Above,3,face-of-person, 1,child-girl 
-Above,4,hand-of-person, 1,child-girl 
-Right,4,hand-of-person,1,child-girl 
+Below,3,face-of-person,1,child-girl,x-aligned 
+Below,4,hand-of-person,1,child-girl,x-aligned 
+Left,1,child-girl,4,hand-of-person,y-aligned 
+Above,3,face-of-person, 1,child-girl,x-aligned 
+Above,4,hand-of-person, 1,child-girl,x-aligned 
+Right,4,hand-of-person,1,child-girl,y-aligned 

@@ -1,34 +1,34 @@
-Right,1,woman,2,woman 
-Right,1,woman,3,woman 
-Left,2,woman,1,woman 
-Left,2,woman,3,woman 
-Above,2,woman, 4,floor-other 
-Left,2,woman,6,wall 
-Below,10,face-of-person,2,woman 
-Left,3,woman,1,woman 
-Left,3,woman,2,woman 
-Left,3,woman,6,wall 
-Above,3,woman, 8,face-of-person 
-Below,2,woman,4,floor-other 
-Below,10,face-of-person,4,floor-other 
-Left,5,wall,7,face-of-person 
-Left,5,wall,8,face-of-person 
-Left,5,wall,10,face-of-person 
-Right,6,wall,2,woman 
-Right,6,wall,3,woman 
-Right,6,wall,9,door 
-Right,7,face-of-person,5,wall 
-Right,7,face-of-person,8,face-of-person 
-Right,7,face-of-person,10,face-of-person 
-Below,3,woman,8,face-of-person 
-Right,8,face-of-person,5,wall 
-Left,8,face-of-person,7,face-of-person 
-Right,8,face-of-person,9,door 
-Left,8,face-of-person,10,face-of-person 
-Left,9,door,6,wall 
-Left,9,door,8,face-of-person 
-Above,10,face-of-person, 2,woman 
-Above,10,face-of-person, 4,floor-other 
-Right,10,face-of-person,5,wall 
-Left,10,face-of-person,7,face-of-person 
-Right,10,face-of-person,8,face-of-person 
+Right,1,woman,2,woman,y-aligned 
+Right,1,woman,3,woman,y-aligned 
+Left,2,woman,1,woman,y-aligned 
+Left,2,woman,3,woman,y-aligned 
+Above,2,woman, 4,floor-other,x-aligned 
+Left,2,woman,6,wall,y-aligned 
+Below,10,face-of-person,2,woman,x-aligned 
+Left,3,woman,1,woman,y-aligned 
+Left,3,woman,2,woman,y-aligned 
+Left,3,woman,6,wall,y-aligned 
+Above,3,woman, 8,face-of-person,x-aligned 
+Below,2,woman,4,floor-other,x-aligned 
+Below,10,face-of-person,4,floor-other,x-aligned 
+Left,5,wall,7,face-of-person,y-aligned 
+Left,5,wall,8,face-of-person,y-aligned 
+Left,5,wall,10,face-of-person,y-aligned 
+Right,6,wall,2,woman,y-aligned 
+Right,6,wall,3,woman,y-aligned 
+Right,6,wall,9,door,y-aligned 
+Right,7,face-of-person,5,wall,y-aligned 
+Right,7,face-of-person,8,face-of-person,y-aligned 
+Right,7,face-of-person,10,face-of-person,y-aligned 
+Below,3,woman,8,face-of-person,x-aligned 
+Right,8,face-of-person,5,wall,y-aligned 
+Left,8,face-of-person,7,face-of-person,y-aligned 
+Right,8,face-of-person,9,door,y-aligned 
+Left,8,face-of-person,10,face-of-person,y-aligned 
+Left,9,door,6,wall,y-aligned 
+Left,9,door,8,face-of-person,y-aligned 
+Above,10,face-of-person, 2,woman,x-aligned 
+Above,10,face-of-person, 4,floor-other,x-aligned 
+Right,10,face-of-person,5,wall,y-aligned 
+Left,10,face-of-person,7,face-of-person,y-aligned 
+Right,10,face-of-person,8,face-of-person,y-aligned 

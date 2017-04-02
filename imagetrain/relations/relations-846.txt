@@ -1,13 +1,13 @@
-Above,1,child-girl, 2,face-of-person 
-Right,1,child-girl,2,face-of-person 
-Above,1,child-girl, 3,paper 
-Above,1,child-girl,4,wood 
-Below,1,child-girl,2,face-of-person 
-Left,2,face-of-person,1,child-girl 
-Above,2,face-of-person, 3,paper 
-Below,4,wood,2,face-of-person 
-Below,1,child-girl,3,paper 
-Below,2,face-of-person,3,paper 
-Above,4,wood, 2,face-of-person 
-Left,4,wood,5,wall 
-Left,5,wall,4,wood 
+Above,1,child-girl, 2,face-of-person,x-aligned 
+Right,1,child-girl,2,face-of-person,y-aligned 
+Above,1,child-girl, 3,paper,x-aligned 
+Above,1,child-girl,4,wood,x-aligned 
+Below,1,child-girl,2,face-of-person,x-aligned 
+Left,2,face-of-person,1,child-girl,y-aligned 
+Above,2,face-of-person, 3,paper,x-aligned 
+Below,4,wood,2,face-of-person,x-aligned 
+Below,1,child-girl,3,paper,x-aligned 
+Below,2,face-of-person,3,paper,x-aligned 
+Above,4,wood, 2,face-of-person,x-aligned 
+Left,4,wood,5,wall,y-aligned 
+Left,5,wall,4,wood,y-aligned 

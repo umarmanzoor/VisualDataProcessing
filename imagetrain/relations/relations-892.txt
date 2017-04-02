@@ -1,7 +1,7 @@
-Below,2,face-of-person,1,child-boy 
-Above,1,child-boy,4,wall 
-Above,2,face-of-person, 1,child-boy 
-Right,2,face-of-person,3,child-boy 
-Below,4,wall,2,face-of-person 
-Left,3,child-boy,2,face-of-person 
-Above,4,wall, 2,face-of-person 
+Below,2,face-of-person,1,child-boy,x-aligned 
+Above,1,child-boy,4,wall,x-aligned 
+Above,2,face-of-person, 1,child-boy,x-aligned 
+Right,2,face-of-person,3,child-boy,y-aligned 
+Below,4,wall,2,face-of-person,x-aligned 
+Left,3,child-boy,2,face-of-person,y-aligned 
+Above,4,wall, 2,face-of-person,x-aligned 

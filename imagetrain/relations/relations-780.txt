@@ -1,4 +1,4 @@
-Below,2,face-of-person,1,child-girl 
-Left,1,child-girl,2,face-of-person 
-Above,2,face-of-person, 1,child-girl 
-Right,2,face-of-person,1,child-girl 
+Below,2,face-of-person,1,child-girl,x-aligned 
+Left,1,child-girl,2,face-of-person,y-aligned 
+Above,2,face-of-person, 1,child-girl,x-aligned 
+Right,2,face-of-person,1,child-girl,y-aligned 

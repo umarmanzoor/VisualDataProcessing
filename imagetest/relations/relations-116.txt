@@ -1,7 +1,7 @@
-Right,1,man,2,man 
-Left,2,man,1,man 
-Above,2,man, 4,rock 
-Above,3,ground,2,man 
-Above,3,ground, 4,rock 
-Below,2,man,4,rock 
-Below,3,ground,4,rock 
+Right,1,man,2,man,y-aligned 
+Left,2,man,1,man,y-aligned 
+Above,2,man, 4,rock,x-aligned 
+Above,3,ground,2,man,x-aligned 
+Above,3,ground, 4,rock,x-aligned 
+Below,2,man,4,rock,x-aligned 
+Below,3,ground,4,rock,x-aligned 

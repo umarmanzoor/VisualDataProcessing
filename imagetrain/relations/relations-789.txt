@@ -1,6 +1,6 @@
-Left,1,child-boy,4,group-of-persons 
-Below,5,wall,1,child-boy 
-Below,3,group-of-persons,2,wooden-furniture 
-Above,3,group-of-persons, 2,wooden-furniture 
-Left,4,group-of-persons,1,child-boy 
-Above,5,wall, 1,child-boy 
+Left,1,child-boy,4,group-of-persons,y-aligned 
+Below,5,wall,1,child-boy,x-aligned 
+Below,3,group-of-persons,2,wooden-furniture,x-aligned 
+Above,3,group-of-persons, 2,wooden-furniture,x-aligned 
+Left,4,group-of-persons,1,child-boy,y-aligned 
+Above,5,wall, 1,child-boy,x-aligned 

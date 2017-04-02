@@ -1,20 +1,20 @@
-Above,1,child-boy,3,cloth 
-Left,1,child-boy,3,cloth 
-Above,1,child-boy,7,wall 
-Above,2,cloth,3,cloth 
-Below,4,face-of-person,2,cloth 
-Left,2,cloth,5,hand-of-person 
-Left,2,cloth,6,hand-of-person 
-Above,2,cloth, 7,wall 
-Above,3,cloth,1,child-boy 
-Left,3,cloth,1,child-boy 
-Above,3,cloth,4,face-of-person 
-Above,3,cloth, 7,wall 
-Above,4,face-of-person, 2,cloth 
-Left,5,hand-of-person,2,cloth 
-Left,5,hand-of-person,6,hand-of-person 
-Left,6,hand-of-person,2,cloth 
-Right,6,hand-of-person,5,hand-of-person 
-Above,7,wall,1,child-boy 
-Below,2,cloth,7,wall 
-Below,3,cloth,7,wall 
+Above,1,child-boy,3,cloth,x-aligned 
+Left,1,child-boy,3,cloth,y-aligned 
+Above,1,child-boy,7,wall,x-aligned 
+Above,2,cloth,3,cloth,x-aligned 
+Below,4,face-of-person,2,cloth,x-aligned 
+Left,2,cloth,5,hand-of-person,y-aligned 
+Left,2,cloth,6,hand-of-person,y-aligned 
+Above,2,cloth, 7,wall,x-aligned 
+Above,3,cloth,1,child-boy,x-aligned 
+Left,3,cloth,1,child-boy,y-aligned 
+Above,3,cloth,4,face-of-person,x-aligned 
+Above,3,cloth, 7,wall,x-aligned 
+Above,4,face-of-person, 2,cloth,x-aligned 
+Left,5,hand-of-person,2,cloth,y-aligned 
+Left,5,hand-of-person,6,hand-of-person,y-aligned 
+Left,6,hand-of-person,2,cloth,y-aligned 
+Right,6,hand-of-person,5,hand-of-person,y-aligned 
+Above,7,wall,1,child-boy,x-aligned 
+Below,2,cloth,7,wall,x-aligned 
+Below,3,cloth,7,wall,x-aligned 

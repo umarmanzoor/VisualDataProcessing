@@ -1,58 +1,58 @@
-Left,1,group-of-persons,2,child-boy 
-Right,1,group-of-persons,3,child-girl 
-Right,1,group-of-persons,6,child-girl 
-Above,1,group-of-persons,9,house 
-Below,10,hill,1,group-of-persons 
-Left,2,child-boy,1,group-of-persons 
-Right,2,child-boy,3,child-girl 
-Right,2,child-boy,5,child-boy 
-Right,2,child-boy,6,child-girl 
-Above,2,child-boy,8,house 
-Below,14,clock,2,child-boy 
-Left,3,child-girl,1,group-of-persons 
-Left,3,child-girl,2,child-boy 
-Right,3,child-girl,4,child-girl 
-Left,3,child-girl,5,child-boy 
-Below,6,child-girl,3,child-girl 
-Right,3,child-girl,6,child-girl 
-Below,11,tree,3,child-girl 
-Left,4,child-girl,3,child-girl 
-Left,4,child-girl,6,child-girl 
-Below,12,tree,4,child-girl 
-Left,5,child-boy,2,child-boy 
-Right,5,child-boy,3,child-girl 
-Right,5,child-boy,6,child-girl 
-Above,5,child-boy, 7,floor-other 
-Below,10,hill,5,child-boy 
-Left,6,child-girl,1,group-of-persons 
-Left,6,child-girl,2,child-boy 
-Above,6,child-girl, 3,child-girl 
-Left,6,child-girl,3,child-girl 
-Right,6,child-girl,4,child-girl 
-Left,6,child-girl,5,child-boy 
-Below,11,tree,6,child-girl 
-Below,5,child-boy,7,floor-other 
-Left,8,house,9,house 
-Above,8,house,14,clock 
-Left,8,house,14,clock 
-Left,9,house,8,house 
-Below,10,hill,9,house 
-Left,9,house,13,door 
-Left,9,house,14,clock 
-Above,10,hill, 1,group-of-persons 
-Above,10,hill, 5,child-boy 
-Above,10,hill, 9,house 
-Left,10,hill,11,tree 
-Above,11,tree, 3,child-girl 
-Above,11,tree, 6,child-girl 
-Left,11,tree,10,hill 
-Right,11,tree,12,tree 
-Above,12,tree, 4,child-girl 
-Left,12,tree,11,tree 
-Right,13,door,9,house 
-Right,13,door,14,clock 
-Above,14,clock, 2,child-boy 
-Above,14,clock,8,house 
-Left,14,clock,8,house 
-Right,14,clock,9,house 
-Left,14,clock,13,door 
+Left,1,group-of-persons,2,child-boy,y-aligned 
+Right,1,group-of-persons,3,child-girl,y-aligned 
+Right,1,group-of-persons,6,child-girl,y-aligned 
+Above,1,group-of-persons,9,house,x-aligned 
+Below,10,hill,1,group-of-persons,x-aligned 
+Left,2,child-boy,1,group-of-persons,y-aligned 
+Right,2,child-boy,3,child-girl,y-aligned 
+Right,2,child-boy,5,child-boy,y-aligned 
+Right,2,child-boy,6,child-girl,y-aligned 
+Above,2,child-boy,8,house,x-aligned 
+Below,14,clock,2,child-boy,x-aligned 
+Left,3,child-girl,1,group-of-persons,y-aligned 
+Left,3,child-girl,2,child-boy,y-aligned 
+Right,3,child-girl,4,child-girl,y-aligned 
+Left,3,child-girl,5,child-boy,y-aligned 
+Below,6,child-girl,3,child-girl,x-aligned 
+Right,3,child-girl,6,child-girl,y-aligned 
+Below,11,tree,3,child-girl,x-aligned 
+Left,4,child-girl,3,child-girl,y-aligned 
+Left,4,child-girl,6,child-girl,y-aligned 
+Below,12,tree,4,child-girl,x-aligned 
+Left,5,child-boy,2,child-boy,y-aligned 
+Right,5,child-boy,3,child-girl,y-aligned 
+Right,5,child-boy,6,child-girl,y-aligned 
+Above,5,child-boy, 7,floor-other,x-aligned 
+Below,10,hill,5,child-boy,x-aligned 
+Left,6,child-girl,1,group-of-persons,y-aligned 
+Left,6,child-girl,2,child-boy,y-aligned 
+Above,6,child-girl, 3,child-girl,x-aligned 
+Left,6,child-girl,3,child-girl,y-aligned 
+Right,6,child-girl,4,child-girl,y-aligned 
+Left,6,child-girl,5,child-boy,y-aligned 
+Below,11,tree,6,child-girl,x-aligned 
+Below,5,child-boy,7,floor-other,x-aligned 
+Left,8,house,9,house,y-aligned 
+Above,8,house,14,clock,x-aligned 
+Left,8,house,14,clock,y-aligned 
+Left,9,house,8,house,y-aligned 
+Below,10,hill,9,house,x-aligned 
+Left,9,house,13,door,y-aligned 
+Left,9,house,14,clock,y-aligned 
+Above,10,hill, 1,group-of-persons,x-aligned 
+Above,10,hill, 5,child-boy,x-aligned 
+Above,10,hill, 9,house,x-aligned 
+Left,10,hill,11,tree,y-aligned 
+Above,11,tree, 3,child-girl,x-aligned 
+Above,11,tree, 6,child-girl,x-aligned 
+Left,11,tree,10,hill,y-aligned 
+Right,11,tree,12,tree,y-aligned 
+Above,12,tree, 4,child-girl,x-aligned 
+Left,12,tree,11,tree,y-aligned 
+Right,13,door,9,house,y-aligned 
+Right,13,door,14,clock,y-aligned 
+Above,14,clock, 2,child-boy,x-aligned 
+Above,14,clock,8,house,x-aligned 
+Left,14,clock,8,house,y-aligned 
+Right,14,clock,9,house,y-aligned 
+Left,14,clock,13,door,y-aligned 

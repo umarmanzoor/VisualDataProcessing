@@ -1,12 +1,12 @@
-Right,1,bed,2,chair 
-Below,6,wall,1,bed 
-Left,2,chair,1,bed 
-Above,2,chair,4,man 
-Left,3,painting,5,wall 
-Left,3,painting,6,wall 
-Above,4,man,2,chair 
-Left,5,wall,3,painting 
-Left,5,wall,6,wall 
-Above,6,wall, 1,bed 
-Right,6,wall,3,painting 
-Right,6,wall,5,wall 
+Right,1,bed,2,chair,y-aligned 
+Below,6,wall,1,bed,x-aligned 
+Left,2,chair,1,bed,y-aligned 
+Above,2,chair,4,man,x-aligned 
+Left,3,painting,5,wall,y-aligned 
+Left,3,painting,6,wall,y-aligned 
+Above,4,man,2,chair,x-aligned 
+Left,5,wall,3,painting,y-aligned 
+Left,5,wall,6,wall,y-aligned 
+Above,6,wall, 1,bed,x-aligned 
+Right,6,wall,3,painting,y-aligned 
+Right,6,wall,5,wall,y-aligned 

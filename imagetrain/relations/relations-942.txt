@@ -1,18 +1,18 @@
-Above,1,woman,2,hat 
-Above,1,woman, 7,face-of-person 
-Above,2,hat,5,house 
-Above,2,hat, 7,face-of-person 
-Right,3,ground,4,ground 
-Right,3,ground,7,face-of-person 
-Left,4,ground,3,ground 
-Left,4,ground,6,rock 
-Left,4,ground,7,face-of-person 
-Above,5,house, 7,face-of-person 
-Right,6,rock,4,ground 
-Right,6,rock,7,face-of-person 
-Below,1,woman,7,face-of-person 
-Below,2,hat,7,face-of-person 
-Left,7,face-of-person,3,ground 
-Right,7,face-of-person,4,ground 
-Below,5,house,7,face-of-person 
-Left,7,face-of-person,6,rock 
+Above,1,woman,2,hat,x-aligned 
+Above,1,woman, 7,face-of-person,x-aligned 
+Above,2,hat,5,house,x-aligned 
+Above,2,hat, 7,face-of-person,x-aligned 
+Right,3,ground,4,ground,y-aligned 
+Right,3,ground,7,face-of-person,y-aligned 
+Left,4,ground,3,ground,y-aligned 
+Left,4,ground,6,rock,y-aligned 
+Left,4,ground,7,face-of-person,y-aligned 
+Above,5,house, 7,face-of-person,x-aligned 
+Right,6,rock,4,ground,y-aligned 
+Right,6,rock,7,face-of-person,y-aligned 
+Below,1,woman,7,face-of-person,x-aligned 
+Below,2,hat,7,face-of-person,x-aligned 
+Left,7,face-of-person,3,ground,y-aligned 
+Right,7,face-of-person,4,ground,y-aligned 
+Below,5,house,7,face-of-person,x-aligned 
+Left,7,face-of-person,6,rock,y-aligned 

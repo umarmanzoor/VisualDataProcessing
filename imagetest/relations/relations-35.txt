@@ -1,3 +1,3 @@
-Above,1,cloud, 4,couple-of-persons 
-Above,3,vegetation,4,couple-of-persons 
-Below,1,cloud,4,couple-of-persons 
+Above,1,cloud, 4,couple-of-persons,x-aligned 
+Above,3,vegetation,4,couple-of-persons,x-aligned 
+Below,1,cloud,4,couple-of-persons,x-aligned 

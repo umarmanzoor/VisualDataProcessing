@@ -1,6 +1,6 @@
-Above,2,woman,3,person 
-Left,2,woman,4,food 
-Left,3,person,5,wall 
-Left,4,food,2,woman 
-Above,4,food,5,wall 
-Left,5,wall,3,person 
+Above,2,woman,3,person,x-aligned 
+Left,2,woman,4,food,y-aligned 
+Left,3,person,5,wall,y-aligned 
+Left,4,food,2,woman,y-aligned 
+Above,4,food,5,wall,x-aligned 
+Left,5,wall,3,person,y-aligned 

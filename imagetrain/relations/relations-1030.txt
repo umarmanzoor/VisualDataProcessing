@@ -1,8 +1,8 @@
-Left,2,sky-light,4,lamp 
-Left,2,sky-light,5,lamp 
-Above,3,edifice, 4,lamp 
-Below,6,public-sign,3,edifice 
-Right,4,lamp,2,sky-light 
-Below,3,edifice,4,lamp 
-Right,5,lamp,2,sky-light 
-Above,6,public-sign, 3,edifice 
+Left,2,sky-light,4,lamp,y-aligned 
+Left,2,sky-light,5,lamp,y-aligned 
+Above,3,edifice, 4,lamp,x-aligned 
+Below,6,public-sign,3,edifice,x-aligned 
+Right,4,lamp,2,sky-light,y-aligned 
+Below,3,edifice,4,lamp,x-aligned 
+Right,5,lamp,2,sky-light,y-aligned 
+Above,6,public-sign, 3,edifice,x-aligned 

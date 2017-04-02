@@ -1,20 +1,20 @@
-Left,1,couple-of-persons,2,face-of-person 
-Right,2,face-of-person,1,couple-of-persons 
-Left,2,face-of-person,4,apple 
-Above,2,face-of-person, 6,wooden-furniture 
-Above,2,face-of-person, 8,wooden-furniture 
-Left,3,hand-of-person,4,apple 
-Right,4,apple,2,face-of-person 
-Left,4,apple,3,hand-of-person 
-Above,5,child,7,child 
-Left,5,child,7,child 
-Above,6,wooden-furniture,1,couple-of-persons 
-Below,2,face-of-person,6,wooden-furniture 
-Above,6,wooden-furniture,8,wooden-furniture 
-Left,6,wooden-furniture,8,wooden-furniture 
-Above,7,child,5,child 
-Left,7,child,5,child 
-Above,8,wooden-furniture,1,couple-of-persons 
-Below,2,face-of-person,8,wooden-furniture 
-Above,8,wooden-furniture,6,wooden-furniture 
-Left,8,wooden-furniture,6,wooden-furniture 
+Left,1,couple-of-persons,2,face-of-person,y-aligned 
+Right,2,face-of-person,1,couple-of-persons,y-aligned 
+Left,2,face-of-person,4,apple,y-aligned 
+Above,2,face-of-person, 6,wooden-furniture,x-aligned 
+Above,2,face-of-person, 8,wooden-furniture,x-aligned 
+Left,3,hand-of-person,4,apple,y-aligned 
+Right,4,apple,2,face-of-person,y-aligned 
+Left,4,apple,3,hand-of-person,y-aligned 
+Above,5,child,7,child,x-aligned 
+Left,5,child,7,child,y-aligned 
+Above,6,wooden-furniture,1,couple-of-persons,x-aligned 
+Below,2,face-of-person,6,wooden-furniture,x-aligned 
+Above,6,wooden-furniture,8,wooden-furniture,x-aligned 
+Left,6,wooden-furniture,8,wooden-furniture,y-aligned 
+Above,7,child,5,child,x-aligned 
+Left,7,child,5,child,y-aligned 
+Above,8,wooden-furniture,1,couple-of-persons,x-aligned 
+Below,2,face-of-person,8,wooden-furniture,x-aligned 
+Above,8,wooden-furniture,6,wooden-furniture,x-aligned 
+Left,8,wooden-furniture,6,wooden-furniture,y-aligned 

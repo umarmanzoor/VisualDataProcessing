@@ -1,8 +1,8 @@
-Left,1,bed,2,wooden-furniture 
-Below,3,lamp,1,bed 
-Below,6,wall,1,bed 
-Left,2,wooden-furniture,1,bed 
-Above,3,lamp, 1,bed 
-Left,5,wall,6,wall 
-Above,6,wall, 1,bed 
-Right,6,wall,5,wall 
+Left,1,bed,2,wooden-furniture,y-aligned 
+Below,3,lamp,1,bed,x-aligned 
+Below,6,wall,1,bed,x-aligned 
+Left,2,wooden-furniture,1,bed,y-aligned 
+Above,3,lamp, 1,bed,x-aligned 
+Left,5,wall,6,wall,y-aligned 
+Above,6,wall, 1,bed,x-aligned 
+Right,6,wall,5,wall,y-aligned 

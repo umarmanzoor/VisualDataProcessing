@@ -1,40 +1,40 @@
-Below,2,sky-blue,1,group-of-persons 
-Left,1,group-of-persons,4,ground 
-Left,1,group-of-persons,5,rock 
-Above,2,sky-blue, 1,group-of-persons 
-Above,2,sky-blue, 4,ground 
-Above,2,sky-blue, 7,child-boy 
-Above,3,mountain, 8,child 
-Left,3,mountain,9,man 
-Above,4,ground,1,group-of-persons 
-Left,4,ground,1,group-of-persons 
-Below,2,sky-blue,4,ground 
-Left,4,ground,6,child-boy 
-Above,4,ground,7,child-boy 
-Left,4,ground,7,child-boy 
-Left,4,ground,8,child 
-Left,4,ground,11,child-girl 
-Right,5,rock,1,group-of-persons 
-Right,5,rock,6,child-boy 
-Left,6,child-boy,4,ground 
-Left,6,child-boy,5,rock 
-Right,6,child-boy,7,child-boy 
-Below,2,sky-blue,7,child-boy 
-Left,7,child-boy,4,ground 
-Left,7,child-boy,6,child-boy 
-Right,7,child-boy,8,child 
-Right,7,child-boy,11,child-girl 
-Below,3,mountain,8,child 
-Left,8,child,4,ground 
-Left,8,child,7,child-boy 
-Left,8,child,11,child-girl 
-Right,9,man,3,mountain 
-Above,9,man, 10,woman 
-Above,9,man, 11,child-girl 
-Below,9,man,10,woman 
-Above,10,woman, 11,child-girl 
-Left,11,child-girl,4,ground 
-Left,11,child-girl,7,child-boy 
-Right,11,child-girl,8,child 
-Below,9,man,11,child-girl 
-Below,10,woman,11,child-girl 
+Below,2,sky-blue,1,group-of-persons,x-aligned 
+Left,1,group-of-persons,4,ground,y-aligned 
+Left,1,group-of-persons,5,rock,y-aligned 
+Above,2,sky-blue, 1,group-of-persons,x-aligned 
+Above,2,sky-blue, 4,ground,x-aligned 
+Above,2,sky-blue, 7,child-boy,x-aligned 
+Above,3,mountain, 8,child,x-aligned 
+Left,3,mountain,9,man,y-aligned 
+Above,4,ground,1,group-of-persons,x-aligned 
+Left,4,ground,1,group-of-persons,y-aligned 
+Below,2,sky-blue,4,ground,x-aligned 
+Left,4,ground,6,child-boy,y-aligned 
+Above,4,ground,7,child-boy,x-aligned 
+Left,4,ground,7,child-boy,y-aligned 
+Left,4,ground,8,child,y-aligned 
+Left,4,ground,11,child-girl,y-aligned 
+Right,5,rock,1,group-of-persons,y-aligned 
+Right,5,rock,6,child-boy,y-aligned 
+Left,6,child-boy,4,ground,y-aligned 
+Left,6,child-boy,5,rock,y-aligned 
+Right,6,child-boy,7,child-boy,y-aligned 
+Below,2,sky-blue,7,child-boy,x-aligned 
+Left,7,child-boy,4,ground,y-aligned 
+Left,7,child-boy,6,child-boy,y-aligned 
+Right,7,child-boy,8,child,y-aligned 
+Right,7,child-boy,11,child-girl,y-aligned 
+Below,3,mountain,8,child,x-aligned 
+Left,8,child,4,ground,y-aligned 
+Left,8,child,7,child-boy,y-aligned 
+Left,8,child,11,child-girl,y-aligned 
+Right,9,man,3,mountain,y-aligned 
+Above,9,man, 10,woman,x-aligned 
+Above,9,man, 11,child-girl,x-aligned 
+Below,9,man,10,woman,x-aligned 
+Above,10,woman, 11,child-girl,x-aligned 
+Left,11,child-girl,4,ground,y-aligned 
+Left,11,child-girl,7,child-boy,y-aligned 
+Right,11,child-girl,8,child,y-aligned 
+Below,9,man,11,child-girl,x-aligned 
+Below,10,woman,11,child-girl,x-aligned 

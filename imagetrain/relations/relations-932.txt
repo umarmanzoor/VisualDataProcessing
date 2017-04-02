@@ -1,5 +1,5 @@
-Above,1,child-boy,2,cloth 
-Below,3,face-of-person,1,child-boy 
-Above,2,cloth, 3,face-of-person 
-Above,3,face-of-person, 1,child-boy 
-Below,2,cloth,3,face-of-person 
+Above,1,child-boy,2,cloth,x-aligned 
+Below,3,face-of-person,1,child-boy,x-aligned 
+Above,2,cloth, 3,face-of-person,x-aligned 
+Above,3,face-of-person, 1,child-boy,x-aligned 
+Below,2,cloth,3,face-of-person,x-aligned 

@@ -1,4 +1,4 @@
-Left,1,child-boy,3,wooden-furniture 
-Left,2,child-boy,5,face-of-person 
-Left,3,wooden-furniture,1,child-boy 
-Left,5,face-of-person,2,child-boy 
+Left,1,child-boy,3,wooden-furniture,y-aligned 
+Left,2,child-boy,5,face-of-person,y-aligned 
+Left,3,wooden-furniture,1,child-boy,y-aligned 
+Left,5,face-of-person,2,child-boy,y-aligned 

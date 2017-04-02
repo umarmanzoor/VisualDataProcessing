@@ -1,18 +1,18 @@
-Left,1,child-boy,3,couple-of-persons 
-Left,2,head-of-person,4,face-of-person 
-Left,2,head-of-person,5,child 
-Below,7,paper,2,head-of-person 
-Left,3,couple-of-persons,1,child-boy 
-Right,4,face-of-person,2,head-of-person 
-Right,4,face-of-person,5,child 
-Right,4,face-of-person,6,face-of-person 
-Right,5,child,2,head-of-person 
-Left,5,child,4,face-of-person 
-Right,5,child,6,face-of-person 
-Right,5,child,7,paper 
-Left,6,face-of-person,4,face-of-person 
-Left,6,face-of-person,5,child 
-Right,6,face-of-person,7,paper 
-Above,7,paper, 2,head-of-person 
-Left,7,paper,5,child 
-Left,7,paper,6,face-of-person 
+Left,1,child-boy,3,couple-of-persons,y-aligned 
+Left,2,head-of-person,4,face-of-person,y-aligned 
+Left,2,head-of-person,5,child,y-aligned 
+Below,7,paper,2,head-of-person,x-aligned 
+Left,3,couple-of-persons,1,child-boy,y-aligned 
+Right,4,face-of-person,2,head-of-person,y-aligned 
+Right,4,face-of-person,5,child,y-aligned 
+Right,4,face-of-person,6,face-of-person,y-aligned 
+Right,5,child,2,head-of-person,y-aligned 
+Left,5,child,4,face-of-person,y-aligned 
+Right,5,child,6,face-of-person,y-aligned 
+Right,5,child,7,paper,y-aligned 
+Left,6,face-of-person,4,face-of-person,y-aligned 
+Left,6,face-of-person,5,child,y-aligned 
+Right,6,face-of-person,7,paper,y-aligned 
+Above,7,paper, 2,head-of-person,x-aligned 
+Left,7,paper,5,child,y-aligned 
+Left,7,paper,6,face-of-person,y-aligned 

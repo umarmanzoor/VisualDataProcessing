@@ -1,4 +1,4 @@
-Above,1,child-boy,2,ground 
-Above,2,ground,1,child-boy 
-Below,3,face-of-person,2,ground 
-Above,3,face-of-person, 2,ground 
+Above,1,child-boy,2,ground,x-aligned 
+Above,2,ground,1,child-boy,x-aligned 
+Below,3,face-of-person,2,ground,x-aligned 
+Above,3,face-of-person, 2,ground,x-aligned 

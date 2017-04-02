@@ -1,2 +1,2 @@
-Left,1,group-of-persons,2,child-boy 
-Left,2,child-boy,1,group-of-persons 
+Left,1,group-of-persons,2,child-boy,y-aligned 
+Left,2,child-boy,1,group-of-persons,y-aligned 

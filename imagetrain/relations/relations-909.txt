@@ -1,8 +1,8 @@
-Below,2,face-of-person,1,child-boy 
-Right,1,child-boy,2,face-of-person 
-Above,1,child-boy,3,ground 
-Above,2,face-of-person, 1,child-boy 
-Left,2,face-of-person,1,child-boy 
-Above,2,face-of-person, 3,ground 
-Above,3,ground,1,child-boy 
-Below,2,face-of-person,3,ground 
+Below,2,face-of-person,1,child-boy,x-aligned 
+Right,1,child-boy,2,face-of-person,y-aligned 
+Above,1,child-boy,3,ground,x-aligned 
+Above,2,face-of-person, 1,child-boy,x-aligned 
+Left,2,face-of-person,1,child-boy,y-aligned 
+Above,2,face-of-person, 3,ground,x-aligned 
+Above,3,ground,1,child-boy,x-aligned 
+Below,2,face-of-person,3,ground,x-aligned 

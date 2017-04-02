@@ -1,36 +1,36 @@
-Above,1,group-of-persons,3,sky-light 
-Left,1,group-of-persons,6,ground 
-Left,2,hut,5,rock 
-Above,2,hut,10,man 
-Above,3,sky-light, 4,ground 
-Above,3,sky-light, 9,man 
-Left,3,sky-light,12,rock 
-Above,4,ground,1,group-of-persons 
-Below,3,sky-light,4,ground 
-Above,4,ground,9,man 
-Right,5,rock,2,hut 
-Above,5,rock, 7,rock 
-Right,6,ground,1,group-of-persons 
-Above,6,ground,5,rock 
-Above,6,ground, 7,rock 
-Right,6,ground,9,man 
-Right,6,ground,10,man 
-Right,6,ground,11,man 
-Below,5,rock,7,rock 
-Below,6,ground,7,rock 
-Right,7,rock,8,rock 
-Left,8,rock,7,rock 
-Right,8,rock,9,man 
-Below,3,sky-light,9,man 
-Left,9,man,6,ground 
-Left,9,man,8,rock 
-Right,9,man,10,man 
-Above,10,man,2,hut 
-Left,10,man,6,ground 
-Left,10,man,9,man 
-Left,10,man,11,man 
-Left,11,man,6,ground 
-Right,11,man,10,man 
-Below,12,rock,11,man 
-Left,12,rock,3,sky-light 
-Above,12,rock, 11,man 
+Above,1,group-of-persons,3,sky-light,x-aligned 
+Left,1,group-of-persons,6,ground,y-aligned 
+Left,2,hut,5,rock,y-aligned 
+Above,2,hut,10,man,x-aligned 
+Above,3,sky-light, 4,ground,x-aligned 
+Above,3,sky-light, 9,man,x-aligned 
+Left,3,sky-light,12,rock,y-aligned 
+Above,4,ground,1,group-of-persons,x-aligned 
+Below,3,sky-light,4,ground,x-aligned 
+Above,4,ground,9,man,x-aligned 
+Right,5,rock,2,hut,y-aligned 
+Above,5,rock, 7,rock,x-aligned 
+Right,6,ground,1,group-of-persons,y-aligned 
+Above,6,ground,5,rock,x-aligned 
+Above,6,ground, 7,rock,x-aligned 
+Right,6,ground,9,man,y-aligned 
+Right,6,ground,10,man,y-aligned 
+Right,6,ground,11,man,y-aligned 
+Below,5,rock,7,rock,x-aligned 
+Below,6,ground,7,rock,x-aligned 
+Right,7,rock,8,rock,y-aligned 
+Left,8,rock,7,rock,y-aligned 
+Right,8,rock,9,man,y-aligned 
+Below,3,sky-light,9,man,x-aligned 
+Left,9,man,6,ground,y-aligned 
+Left,9,man,8,rock,y-aligned 
+Right,9,man,10,man,y-aligned 
+Above,10,man,2,hut,x-aligned 
+Left,10,man,6,ground,y-aligned 
+Left,10,man,9,man,y-aligned 
+Left,10,man,11,man,y-aligned 
+Left,11,man,6,ground,y-aligned 
+Right,11,man,10,man,y-aligned 
+Below,12,rock,11,man,x-aligned 
+Left,12,rock,3,sky-light,y-aligned 
+Above,12,rock, 11,man,x-aligned 

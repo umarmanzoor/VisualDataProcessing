@@ -1,9 +1,9 @@
-Above,1,child-girl,4,wall 
-Above,2,group-of-persons, 3,paper 
-Right,2,group-of-persons,6,child-boy 
-Below,2,group-of-persons,3,paper 
-Below,5,window,3,paper 
-Left,4,wall,5,window 
-Above,5,window, 3,paper 
-Left,5,window,4,wall 
-Left,6,child-boy,2,group-of-persons 
+Above,1,child-girl,4,wall,x-aligned 
+Above,2,group-of-persons, 3,paper,x-aligned 
+Right,2,group-of-persons,6,child-boy,y-aligned 
+Below,2,group-of-persons,3,paper,x-aligned 
+Below,5,window,3,paper,x-aligned 
+Left,4,wall,5,window,y-aligned 
+Above,5,window, 3,paper,x-aligned 
+Left,5,window,4,wall,y-aligned 
+Left,6,child-boy,2,group-of-persons,y-aligned 

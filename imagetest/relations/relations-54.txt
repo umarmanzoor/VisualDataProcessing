@@ -1,19 +1,19 @@
-Below,1,train,2,road 
-Below,3,branch,2,road 
-Below,5,tire,2,road 
-Above,3,branch, 2,road 
-Left,3,branch,4,branch 
-Above,3,branch, 5,tire 
-Left,3,branch,6,sky-light 
-Left,3,branch,7,sky-light 
-Right,4,branch,3,branch 
-Right,4,branch,6,sky-light 
-Left,4,branch,7,sky-light 
-Above,5,tire, 2,road 
-Below,3,branch,5,tire 
-Left,6,sky-light,3,branch 
-Left,6,sky-light,4,branch 
-Left,6,sky-light,7,sky-light 
-Left,7,sky-light,3,branch 
-Left,7,sky-light,4,branch 
-Right,7,sky-light,6,sky-light 
+Below,1,train,2,road,x-aligned 
+Below,3,branch,2,road,x-aligned 
+Below,5,tire,2,road,x-aligned 
+Above,3,branch, 2,road,x-aligned 
+Left,3,branch,4,branch,y-aligned 
+Above,3,branch, 5,tire,x-aligned 
+Left,3,branch,6,sky-light,y-aligned 
+Left,3,branch,7,sky-light,y-aligned 
+Right,4,branch,3,branch,y-aligned 
+Right,4,branch,6,sky-light,y-aligned 
+Left,4,branch,7,sky-light,y-aligned 
+Above,5,tire, 2,road,x-aligned 
+Below,3,branch,5,tire,x-aligned 
+Left,6,sky-light,3,branch,y-aligned 
+Left,6,sky-light,4,branch,y-aligned 
+Left,6,sky-light,7,sky-light,y-aligned 
+Left,7,sky-light,3,branch,y-aligned 
+Left,7,sky-light,4,branch,y-aligned 
+Right,7,sky-light,6,sky-light,y-aligned 

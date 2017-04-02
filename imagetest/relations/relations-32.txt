@@ -1,6 +1,6 @@
-Left,1,city,3,edifice 
-Below,4,edifice,2,hill 
-Right,3,edifice,1,city 
-Left,3,edifice,4,edifice 
-Above,4,edifice, 2,hill 
-Right,4,edifice,3,edifice 
+Left,1,city,3,edifice,y-aligned 
+Below,4,edifice,2,hill,x-aligned 
+Right,3,edifice,1,city,y-aligned 
+Left,3,edifice,4,edifice,y-aligned 
+Above,4,edifice, 2,hill,x-aligned 
+Right,4,edifice,3,edifice,y-aligned 

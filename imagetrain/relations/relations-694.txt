@@ -1,25 +1,25 @@
-Below,2,sky-blue,1,man 
-Below,3,city,1,man 
-Left,1,man,4,man 
-Right,1,man,5,car 
-Left,1,man,6,road 
-Left,1,man,7,road 
-Above,2,sky-blue, 1,man 
-Above,3,city, 1,man 
-Above,3,city,2,sky-blue 
-Right,4,man,1,man 
-Right,4,man,5,car 
-Left,4,man,6,road 
-Right,4,man,7,road 
-Left,5,car,1,man 
-Left,5,car,4,man 
-Left,5,car,6,road 
-Left,5,car,7,road 
-Left,6,road,1,man 
-Left,6,road,4,man 
-Right,6,road,5,car 
-Right,6,road,7,road 
-Left,7,road,1,man 
-Left,7,road,4,man 
-Right,7,road,5,car 
-Left,7,road,6,road 
+Below,2,sky-blue,1,man,x-aligned 
+Below,3,city,1,man,x-aligned 
+Left,1,man,4,man,y-aligned 
+Right,1,man,5,car,y-aligned 
+Left,1,man,6,road,y-aligned 
+Left,1,man,7,road,y-aligned 
+Above,2,sky-blue, 1,man,x-aligned 
+Above,3,city, 1,man,x-aligned 
+Above,3,city,2,sky-blue,x-aligned 
+Right,4,man,1,man,y-aligned 
+Right,4,man,5,car,y-aligned 
+Left,4,man,6,road,y-aligned 
+Right,4,man,7,road,y-aligned 
+Left,5,car,1,man,y-aligned 
+Left,5,car,4,man,y-aligned 
+Left,5,car,6,road,y-aligned 
+Left,5,car,7,road,y-aligned 
+Left,6,road,1,man,y-aligned 
+Left,6,road,4,man,y-aligned 
+Right,6,road,5,car,y-aligned 
+Right,6,road,7,road,y-aligned 
+Left,7,road,1,man,y-aligned 
+Left,7,road,4,man,y-aligned 
+Right,7,road,5,car,y-aligned 
+Left,7,road,6,road,y-aligned 

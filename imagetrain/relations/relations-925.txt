@@ -1,10 +1,10 @@
-Above,1,child-girl, 2,face-of-person 
-Above,1,child-girl,3,ground 
-Below,1,child-girl,2,face-of-person 
-Below,3,ground,2,face-of-person 
-Left,2,face-of-person,3,ground 
-Above,3,ground,1,child-girl 
-Above,3,ground, 2,face-of-person 
-Right,3,ground,2,face-of-person 
-Right,4,rock,5,rock 
-Left,5,rock,4,rock 
+Above,1,child-girl, 2,face-of-person,x-aligned 
+Above,1,child-girl,3,ground,x-aligned 
+Below,1,child-girl,2,face-of-person,x-aligned 
+Below,3,ground,2,face-of-person,x-aligned 
+Left,2,face-of-person,3,ground,y-aligned 
+Above,3,ground,1,child-girl,x-aligned 
+Above,3,ground, 2,face-of-person,x-aligned 
+Right,3,ground,2,face-of-person,y-aligned 
+Right,4,rock,5,rock,y-aligned 
+Left,5,rock,4,rock,y-aligned 

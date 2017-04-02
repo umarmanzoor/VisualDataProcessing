@@ -1,32 +1,32 @@
-Below,4,door,1,public-sign 
-Below,6,window,1,public-sign 
-Left,1,public-sign,9,leaf 
-Below,6,window,2,swimming-pool 
-Below,10,edifice,2,swimming-pool 
-Below,7,window,3,plant 
-Left,3,plant,8,leaf 
-Left,3,plant,9,leaf 
-Above,4,door, 1,public-sign 
-Right,4,door,5,door 
-Right,4,door,6,window 
-Right,4,door,7,window 
-Left,5,door,4,door 
-Left,5,door,6,window 
-Right,5,door,7,window 
-Above,6,window, 1,public-sign 
-Above,6,window, 2,swimming-pool 
-Left,6,window,4,door 
-Right,6,window,5,door 
-Right,6,window,7,window 
-Above,7,window, 3,plant 
-Left,7,window,4,door 
-Left,7,window,5,door 
-Left,7,window,6,window 
-Right,8,leaf,3,plant 
-Above,8,leaf,9,leaf 
-Left,8,leaf,9,leaf 
-Left,9,leaf,1,public-sign 
-Right,9,leaf,3,plant 
-Above,9,leaf,8,leaf 
-Left,9,leaf,8,leaf 
-Above,10,edifice, 2,swimming-pool 
+Below,4,door,1,public-sign,x-aligned 
+Below,6,window,1,public-sign,x-aligned 
+Left,1,public-sign,9,leaf,y-aligned 
+Below,6,window,2,swimming-pool,x-aligned 
+Below,10,edifice,2,swimming-pool,x-aligned 
+Below,7,window,3,plant,x-aligned 
+Left,3,plant,8,leaf,y-aligned 
+Left,3,plant,9,leaf,y-aligned 
+Above,4,door, 1,public-sign,x-aligned 
+Right,4,door,5,door,y-aligned 
+Right,4,door,6,window,y-aligned 
+Right,4,door,7,window,y-aligned 
+Left,5,door,4,door,y-aligned 
+Left,5,door,6,window,y-aligned 
+Right,5,door,7,window,y-aligned 
+Above,6,window, 1,public-sign,x-aligned 
+Above,6,window, 2,swimming-pool,x-aligned 
+Left,6,window,4,door,y-aligned 
+Right,6,window,5,door,y-aligned 
+Right,6,window,7,window,y-aligned 
+Above,7,window, 3,plant,x-aligned 
+Left,7,window,4,door,y-aligned 
+Left,7,window,5,door,y-aligned 
+Left,7,window,6,window,y-aligned 
+Right,8,leaf,3,plant,y-aligned 
+Above,8,leaf,9,leaf,x-aligned 
+Left,8,leaf,9,leaf,y-aligned 
+Left,9,leaf,1,public-sign,y-aligned 
+Right,9,leaf,3,plant,y-aligned 
+Above,9,leaf,8,leaf,x-aligned 
+Left,9,leaf,8,leaf,y-aligned 
+Above,10,edifice, 2,swimming-pool,x-aligned 

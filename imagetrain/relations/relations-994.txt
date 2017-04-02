@@ -1,6 +1,6 @@
-Below,2,face-of-person,1,child-boy 
-Above,1,child-boy,3,wood 
-Above,2,face-of-person, 1,child-boy 
-Right,2,face-of-person,3,wood 
-Above,3,wood,1,child-boy 
-Left,3,wood,2,face-of-person 
+Below,2,face-of-person,1,child-boy,x-aligned 
+Above,1,child-boy,3,wood,x-aligned 
+Above,2,face-of-person, 1,child-boy,x-aligned 
+Right,2,face-of-person,3,wood,y-aligned 
+Above,3,wood,1,child-boy,x-aligned 
+Left,3,wood,2,face-of-person,y-aligned 

@@ -1,30 +1,30 @@
-Above,1,fountain,2,tree 
-Left,1,fountain,4,road 
-Below,8,cloud,1,fountain 
-Left,1,fountain,9,grass 
-Left,1,fountain,10,car 
-Right,2,tree,3,tree 
-Left,2,tree,6,trees 
-Left,2,tree,7,building 
-Above,2,tree,8,cloud 
-Left,3,tree,2,tree 
-Left,3,tree,6,trees 
-Left,3,tree,7,building 
-Left,4,road,1,fountain 
-Below,5,tree,4,road 
-Below,7,building,4,road 
-Above,5,tree, 4,road 
-Above,5,tree,7,building 
-Right,6,trees,2,tree 
-Right,6,trees,3,tree 
-Left,6,trees,7,building 
-Left,7,building,2,tree 
-Right,7,building,3,tree 
-Above,7,building, 4,road 
-Above,7,building,5,tree 
-Left,7,building,6,trees 
-Above,8,cloud, 1,fountain 
-Right,9,grass,1,fountain 
-Below,10,car,9,grass 
-Right,10,car,1,fountain 
-Above,10,car, 9,grass 
+Above,1,fountain,2,tree,x-aligned 
+Left,1,fountain,4,road,y-aligned 
+Below,8,cloud,1,fountain,x-aligned 
+Left,1,fountain,9,grass,y-aligned 
+Left,1,fountain,10,car,y-aligned 
+Right,2,tree,3,tree,y-aligned 
+Left,2,tree,6,trees,y-aligned 
+Left,2,tree,7,building,y-aligned 
+Above,2,tree,8,cloud,x-aligned 
+Left,3,tree,2,tree,y-aligned 
+Left,3,tree,6,trees,y-aligned 
+Left,3,tree,7,building,y-aligned 
+Left,4,road,1,fountain,y-aligned 
+Below,5,tree,4,road,x-aligned 
+Below,7,building,4,road,x-aligned 
+Above,5,tree, 4,road,x-aligned 
+Above,5,tree,7,building,x-aligned 
+Right,6,trees,2,tree,y-aligned 
+Right,6,trees,3,tree,y-aligned 
+Left,6,trees,7,building,y-aligned 
+Left,7,building,2,tree,y-aligned 
+Right,7,building,3,tree,y-aligned 
+Above,7,building, 4,road,x-aligned 
+Above,7,building,5,tree,x-aligned 
+Left,7,building,6,trees,y-aligned 
+Above,8,cloud, 1,fountain,x-aligned 
+Right,9,grass,1,fountain,y-aligned 
+Below,10,car,9,grass,x-aligned 
+Right,10,car,1,fountain,y-aligned 
+Above,10,car, 9,grass,x-aligned 

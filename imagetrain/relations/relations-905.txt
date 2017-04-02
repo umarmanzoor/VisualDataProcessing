@@ -1,4 +1,4 @@
-Above,1,child-boy, 5,hand-of-person 
-Right,1,child-boy,5,hand-of-person 
-Below,1,child-boy,5,hand-of-person 
-Left,5,hand-of-person,1,child-boy 
+Above,1,child-boy, 5,hand-of-person,x-aligned 
+Right,1,child-boy,5,hand-of-person,y-aligned 
+Below,1,child-boy,5,hand-of-person,x-aligned 
+Left,5,hand-of-person,1,child-boy,y-aligned 

@@ -1,52 +1,52 @@
-Above,1,group-of-persons,2,ground 
-Above,1,group-of-persons,3,house 
-Above,1,group-of-persons, 8,face-of-person 
-Left,1,group-of-persons,10,sidewalk 
-Left,1,group-of-persons,11,sidewalk 
-Above,2,ground,1,group-of-persons 
-Below,3,house,2,ground 
-Below,7,child-boy,2,ground 
-Right,2,ground,7,child-boy 
-Below,8,face-of-person,2,ground 
-Above,3,house,1,group-of-persons 
-Above,3,house, 2,ground 
-Left,3,house,4,window 
-Above,3,house, 7,child-boy 
-Right,3,house,8,face-of-person 
-Left,3,house,9,face-of-person 
-Right,4,window,3,house 
-Right,4,window,5,furniture 
-Right,4,window,8,face-of-person 
-Right,4,window,9,face-of-person 
-Above,4,window, 10,sidewalk 
-Left,5,furniture,4,window 
-Left,5,furniture,8,face-of-person 
-Left,5,furniture,9,face-of-person 
-Left,6,child-boy,7,child-boy 
-Below,8,face-of-person,6,child-boy 
-Left,6,child-boy,10,sidewalk 
-Above,7,child-boy, 2,ground 
-Left,7,child-boy,2,ground 
-Below,3,house,7,child-boy 
-Left,7,child-boy,6,child-boy 
-Below,8,face-of-person,7,child-boy 
-Below,9,face-of-person,7,child-boy 
-Below,1,group-of-persons,8,face-of-person 
-Above,8,face-of-person, 2,ground 
-Left,8,face-of-person,3,house 
-Left,8,face-of-person,4,window 
-Right,8,face-of-person,5,furniture 
-Above,8,face-of-person, 6,child-boy 
-Above,8,face-of-person, 7,child-boy 
-Right,8,face-of-person,9,face-of-person 
-Left,9,face-of-person,3,house 
-Left,9,face-of-person,4,window 
-Right,9,face-of-person,5,furniture 
-Above,9,face-of-person, 7,child-boy 
-Left,9,face-of-person,8,face-of-person 
-Left,10,sidewalk,1,group-of-persons 
-Below,4,window,10,sidewalk 
-Left,10,sidewalk,6,child-boy 
-Right,10,sidewalk,11,sidewalk 
-Left,11,sidewalk,1,group-of-persons 
-Left,11,sidewalk,10,sidewalk 
+Above,1,group-of-persons,2,ground,x-aligned 
+Above,1,group-of-persons,3,house,x-aligned 
+Above,1,group-of-persons, 8,face-of-person,x-aligned 
+Left,1,group-of-persons,10,sidewalk,y-aligned 
+Left,1,group-of-persons,11,sidewalk,y-aligned 
+Above,2,ground,1,group-of-persons,x-aligned 
+Below,3,house,2,ground,x-aligned 
+Below,7,child-boy,2,ground,x-aligned 
+Right,2,ground,7,child-boy,y-aligned 
+Below,8,face-of-person,2,ground,x-aligned 
+Above,3,house,1,group-of-persons,x-aligned 
+Above,3,house, 2,ground,x-aligned 
+Left,3,house,4,window,y-aligned 
+Above,3,house, 7,child-boy,x-aligned 
+Right,3,house,8,face-of-person,y-aligned 
+Left,3,house,9,face-of-person,y-aligned 
+Right,4,window,3,house,y-aligned 
+Right,4,window,5,furniture,y-aligned 
+Right,4,window,8,face-of-person,y-aligned 
+Right,4,window,9,face-of-person,y-aligned 
+Above,4,window, 10,sidewalk,x-aligned 
+Left,5,furniture,4,window,y-aligned 
+Left,5,furniture,8,face-of-person,y-aligned 
+Left,5,furniture,9,face-of-person,y-aligned 
+Left,6,child-boy,7,child-boy,y-aligned 
+Below,8,face-of-person,6,child-boy,x-aligned 
+Left,6,child-boy,10,sidewalk,y-aligned 
+Above,7,child-boy, 2,ground,x-aligned 
+Left,7,child-boy,2,ground,y-aligned 
+Below,3,house,7,child-boy,x-aligned 
+Left,7,child-boy,6,child-boy,y-aligned 
+Below,8,face-of-person,7,child-boy,x-aligned 
+Below,9,face-of-person,7,child-boy,x-aligned 
+Below,1,group-of-persons,8,face-of-person,x-aligned 
+Above,8,face-of-person, 2,ground,x-aligned 
+Left,8,face-of-person,3,house,y-aligned 
+Left,8,face-of-person,4,window,y-aligned 
+Right,8,face-of-person,5,furniture,y-aligned 
+Above,8,face-of-person, 6,child-boy,x-aligned 
+Above,8,face-of-person, 7,child-boy,x-aligned 
+Right,8,face-of-person,9,face-of-person,y-aligned 
+Left,9,face-of-person,3,house,y-aligned 
+Left,9,face-of-person,4,window,y-aligned 
+Right,9,face-of-person,5,furniture,y-aligned 
+Above,9,face-of-person, 7,child-boy,x-aligned 
+Left,9,face-of-person,8,face-of-person,y-aligned 
+Left,10,sidewalk,1,group-of-persons,y-aligned 
+Below,4,window,10,sidewalk,x-aligned 
+Left,10,sidewalk,6,child-boy,y-aligned 
+Right,10,sidewalk,11,sidewalk,y-aligned 
+Left,11,sidewalk,1,group-of-persons,y-aligned 
+Left,11,sidewalk,10,sidewalk,y-aligned 

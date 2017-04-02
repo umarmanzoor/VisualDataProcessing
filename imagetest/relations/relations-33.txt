@@ -1,11 +1,11 @@
-Above,1,sky-light, 3,waterfall 
-Above,1,sky-light, 4,water 
-Left,2,trees,3,waterfall 
-Above,2,trees,4,water 
-Below,1,sky-light,3,waterfall 
-Left,3,waterfall,2,trees 
-Below,1,sky-light,4,water 
-Above,4,water,2,trees 
-Above,4,water,3,waterfall 
-Left,4,water,5,vegetation 
-Left,5,vegetation,4,water 
+Above,1,sky-light, 3,waterfall,x-aligned 
+Above,1,sky-light, 4,water,x-aligned 
+Left,2,trees,3,waterfall,y-aligned 
+Above,2,trees,4,water,x-aligned 
+Below,1,sky-light,3,waterfall,x-aligned 
+Left,3,waterfall,2,trees,y-aligned 
+Below,1,sky-light,4,water,x-aligned 
+Above,4,water,2,trees,x-aligned 
+Above,4,water,3,waterfall,x-aligned 
+Left,4,water,5,vegetation,y-aligned 
+Left,5,vegetation,4,water,y-aligned 

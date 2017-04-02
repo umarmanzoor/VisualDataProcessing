@@ -1,5 +1,5 @@
-Below,2,face-of-person,1,child-boy 
-Above,1,child-boy,3,construction 
-Above,2,face-of-person, 1,child-boy 
-Below,3,construction,2,face-of-person 
-Above,3,construction, 2,face-of-person 
+Below,2,face-of-person,1,child-boy,x-aligned 
+Above,1,child-boy,3,construction,x-aligned 
+Above,2,face-of-person, 1,child-boy,x-aligned 
+Below,3,construction,2,face-of-person,x-aligned 
+Above,3,construction, 2,face-of-person,x-aligned 

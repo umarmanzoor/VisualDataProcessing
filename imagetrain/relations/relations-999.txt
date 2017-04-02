@@ -1,8 +1,8 @@
-Above,2,water, 3,ground 
-Right,2,water,4,face-of-person 
-Below,2,water,3,ground 
-Right,3,ground,5,ground 
-Left,4,face-of-person,2,water 
-Above,4,face-of-person,6,cloth 
-Left,5,ground,3,ground 
-Above,6,cloth,4,face-of-person 
+Above,2,water, 3,ground,x-aligned 
+Right,2,water,4,face-of-person,y-aligned 
+Below,2,water,3,ground,x-aligned 
+Right,3,ground,5,ground,y-aligned 
+Left,4,face-of-person,2,water,y-aligned 
+Above,4,face-of-person,6,cloth,x-aligned 
+Left,5,ground,3,ground,y-aligned 
+Above,6,cloth,4,face-of-person,x-aligned 

@@ -1,6 +1,6 @@
-Right,2,face-of-person,3,child 
-Left,2,face-of-person,4,head-of-person 
-Left,3,child,2,face-of-person 
-Left,3,child,4,head-of-person 
-Right,4,head-of-person,2,face-of-person 
-Right,4,head-of-person,3,child 
+Right,2,face-of-person,3,child,y-aligned 
+Left,2,face-of-person,4,head-of-person,y-aligned 
+Left,3,child,2,face-of-person,y-aligned 
+Left,3,child,4,head-of-person,y-aligned 
+Right,4,head-of-person,2,face-of-person,y-aligned 
+Right,4,head-of-person,3,child,y-aligned 

@@ -1,14 +1,14 @@
-Above,1,child-boy,2,cloth 
-Above,1,child-boy,4,hat 
-Above,2,cloth,1,child-boy 
-Below,3,face-of-person,2,cloth 
-Below,4,hat,2,cloth 
-Above,3,face-of-person, 2,cloth 
-Above,3,face-of-person,4,hat 
-Above,3,face-of-person, 5,wall 
-Above,4,hat, 2,cloth 
-Above,4,hat,5,wall 
-Left,4,hat,5,wall 
-Below,3,face-of-person,5,wall 
-Above,5,wall,4,hat 
-Left,5,wall,4,hat 
+Above,1,child-boy,2,cloth,x-aligned 
+Above,1,child-boy,4,hat,x-aligned 
+Above,2,cloth,1,child-boy,x-aligned 
+Below,3,face-of-person,2,cloth,x-aligned 
+Below,4,hat,2,cloth,x-aligned 
+Above,3,face-of-person, 2,cloth,x-aligned 
+Above,3,face-of-person,4,hat,x-aligned 
+Above,3,face-of-person, 5,wall,x-aligned 
+Above,4,hat, 2,cloth,x-aligned 
+Above,4,hat,5,wall,x-aligned 
+Left,4,hat,5,wall,y-aligned 
+Below,3,face-of-person,5,wall,x-aligned 
+Above,5,wall,4,hat,x-aligned 
+Left,5,wall,4,hat,y-aligned 

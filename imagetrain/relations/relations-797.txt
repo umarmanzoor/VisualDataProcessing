@@ -1,8 +1,8 @@
-Above,1,child-boy,4,wall 
-Above,2,face-of-person, 3,cloth 
-Right,2,face-of-person,4,wall 
-Below,2,face-of-person,3,cloth 
-Above,3,cloth,4,wall 
-Above,4,wall,1,child-boy 
-Left,4,wall,2,face-of-person 
-Above,4,wall,3,cloth 
+Above,1,child-boy,4,wall,x-aligned 
+Above,2,face-of-person, 3,cloth,x-aligned 
+Right,2,face-of-person,4,wall,y-aligned 
+Below,2,face-of-person,3,cloth,x-aligned 
+Above,3,cloth,4,wall,x-aligned 
+Above,4,wall,1,child-boy,x-aligned 
+Left,4,wall,2,face-of-person,y-aligned 
+Above,4,wall,3,cloth,x-aligned 

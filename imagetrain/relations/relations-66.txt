@@ -1,2 +1,2 @@
-Left,1,water,3,rock 
-Left,3,rock,1,water 
+Left,1,water,3,rock,y-aligned 
+Left,3,rock,1,water,y-aligned 

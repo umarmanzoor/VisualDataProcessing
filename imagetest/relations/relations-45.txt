@@ -1,4 +1,4 @@
-Left,1,church,2,building 
-Above,1,church,3,sky-blue 
-Left,2,building,1,church 
-Above,2,building,4,sky-blue 
+Left,1,church,2,building,y-aligned 
+Above,1,church,3,sky-blue,x-aligned 
+Left,2,building,1,church,y-aligned 
+Above,2,building,4,sky-blue,x-aligned 

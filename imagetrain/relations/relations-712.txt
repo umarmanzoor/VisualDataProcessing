@@ -1,49 +1,49 @@
-Below,4,child-boy,1,child-boy 
-Above,1,child-boy, 8,orange 
-Left,1,child-boy,8,orange 
-Above,1,child-boy,9,face-of-person 
-Below,10,wall,1,child-boy 
-Right,1,child-boy,11,chair 
-Right,2,child-boy,3,couple-of-persons 
-Right,2,child-boy,9,face-of-person 
-Right,2,child-boy,11,chair 
-Left,3,couple-of-persons,2,child-boy 
-Above,3,couple-of-persons,6,paper 
-Above,3,couple-of-persons,7,chair 
-Left,3,couple-of-persons,9,face-of-person 
-Left,3,couple-of-persons,11,chair 
-Above,4,child-boy, 1,child-boy 
-Left,4,child-boy,5,child-boy 
-Above,4,child-boy, 8,orange 
-Above,4,child-boy, 9,face-of-person 
-Left,4,child-boy,12,face-of-person 
-Right,5,child-boy,4,child-boy 
-Left,5,child-boy,12,face-of-person 
-Above,6,paper, 7,chair 
-Left,6,paper,10,wall 
-Above,6,paper, 11,chair 
-Above,7,chair,3,couple-of-persons 
-Below,6,paper,7,chair 
-Left,7,chair,8,orange 
-Below,1,child-boy,8,orange 
-Right,8,orange,1,child-boy 
-Below,4,child-boy,8,orange 
-Right,8,orange,7,chair 
-Below,9,face-of-person,8,orange 
-Below,10,wall,8,orange 
-Left,9,face-of-person,2,child-boy 
-Right,9,face-of-person,3,couple-of-persons 
-Below,4,child-boy,9,face-of-person 
-Above,9,face-of-person, 8,orange 
-Below,10,wall,9,face-of-person 
-Above,10,wall, 1,child-boy 
-Above,10,wall, 4,child-boy 
-Left,10,wall,6,paper 
-Above,10,wall, 8,orange 
-Above,10,wall, 9,face-of-person 
-Left,11,chair,1,child-boy 
-Left,11,chair,2,child-boy 
-Left,11,chair,3,couple-of-persons 
-Below,6,paper,11,chair 
-Right,12,face-of-person,4,child-boy 
-Right,12,face-of-person,5,child-boy 
+Below,4,child-boy,1,child-boy,x-aligned 
+Above,1,child-boy, 8,orange,x-aligned 
+Left,1,child-boy,8,orange,y-aligned 
+Above,1,child-boy,9,face-of-person,x-aligned 
+Below,10,wall,1,child-boy,x-aligned 
+Right,1,child-boy,11,chair,y-aligned 
+Right,2,child-boy,3,couple-of-persons,y-aligned 
+Right,2,child-boy,9,face-of-person,y-aligned 
+Right,2,child-boy,11,chair,y-aligned 
+Left,3,couple-of-persons,2,child-boy,y-aligned 
+Above,3,couple-of-persons,6,paper,x-aligned 
+Above,3,couple-of-persons,7,chair,x-aligned 
+Left,3,couple-of-persons,9,face-of-person,y-aligned 
+Left,3,couple-of-persons,11,chair,y-aligned 
+Above,4,child-boy, 1,child-boy,x-aligned 
+Left,4,child-boy,5,child-boy,y-aligned 
+Above,4,child-boy, 8,orange,x-aligned 
+Above,4,child-boy, 9,face-of-person,x-aligned 
+Left,4,child-boy,12,face-of-person,y-aligned 
+Right,5,child-boy,4,child-boy,y-aligned 
+Left,5,child-boy,12,face-of-person,y-aligned 
+Above,6,paper, 7,chair,x-aligned 
+Left,6,paper,10,wall,y-aligned 
+Above,6,paper, 11,chair,x-aligned 
+Above,7,chair,3,couple-of-persons,x-aligned 
+Below,6,paper,7,chair,x-aligned 
+Left,7,chair,8,orange,y-aligned 
+Below,1,child-boy,8,orange,x-aligned 
+Right,8,orange,1,child-boy,y-aligned 
+Below,4,child-boy,8,orange,x-aligned 
+Right,8,orange,7,chair,y-aligned 
+Below,9,face-of-person,8,orange,x-aligned 
+Below,10,wall,8,orange,x-aligned 
+Left,9,face-of-person,2,child-boy,y-aligned 
+Right,9,face-of-person,3,couple-of-persons,y-aligned 
+Below,4,child-boy,9,face-of-person,x-aligned 
+Above,9,face-of-person, 8,orange,x-aligned 
+Below,10,wall,9,face-of-person,x-aligned 
+Above,10,wall, 1,child-boy,x-aligned 
+Above,10,wall, 4,child-boy,x-aligned 
+Left,10,wall,6,paper,y-aligned 
+Above,10,wall, 8,orange,x-aligned 
+Above,10,wall, 9,face-of-person,x-aligned 
+Left,11,chair,1,child-boy,y-aligned 
+Left,11,chair,2,child-boy,y-aligned 
+Left,11,chair,3,couple-of-persons,y-aligned 
+Below,6,paper,11,chair,x-aligned 
+Right,12,face-of-person,4,child-boy,y-aligned 
+Right,12,face-of-person,5,child-boy,y-aligned 

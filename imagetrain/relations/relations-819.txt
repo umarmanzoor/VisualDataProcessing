@@ -1,12 +1,12 @@
-Above,1,child-girl,2,cloud 
-Left,1,child-girl,5,rock 
-Right,1,child-girl,6,rock 
-Left,3,ground,4,ground 
-Above,3,ground,6,rock 
-Right,4,ground,3,ground 
-Below,5,rock,4,ground 
-Left,5,rock,1,child-girl 
-Above,5,rock, 4,ground 
-Right,5,rock,6,rock 
-Left,6,rock,1,child-girl 
-Left,6,rock,5,rock 
+Above,1,child-girl,2,cloud,x-aligned 
+Left,1,child-girl,5,rock,y-aligned 
+Right,1,child-girl,6,rock,y-aligned 
+Left,3,ground,4,ground,y-aligned 
+Above,3,ground,6,rock,x-aligned 
+Right,4,ground,3,ground,y-aligned 
+Below,5,rock,4,ground,x-aligned 
+Left,5,rock,1,child-girl,y-aligned 
+Above,5,rock, 4,ground,x-aligned 
+Right,5,rock,6,rock,y-aligned 
+Left,6,rock,1,child-girl,y-aligned 
+Left,6,rock,5,rock,y-aligned 

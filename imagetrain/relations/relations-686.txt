@@ -1,58 +1,58 @@
-Right,1,child-boy,2,child-girl 
-Right,1,child-boy,3,toy 
-Left,1,child-boy,4,toy 
-Below,6,child-girl,1,child-boy 
-Below,10,paper,1,child-boy 
-Below,12,face-of-person,1,child-boy 
-Right,1,child-boy,13,hand-of-person 
-Left,2,child-girl,1,child-boy 
-Left,2,child-girl,3,toy 
-Left,2,child-girl,4,toy 
-Left,2,child-girl,13,hand-of-person 
-Below,14,head-of-person,2,child-girl 
-Left,3,toy,1,child-boy 
-Right,3,toy,2,child-girl 
-Above,3,toy, 4,toy 
-Below,11,wall,3,toy 
-Above,3,toy, 13,hand-of-person 
-Left,4,toy,1,child-boy 
-Right,4,toy,2,child-girl 
-Below,3,toy,4,toy 
-Below,13,hand-of-person,4,toy 
-Right,4,toy,13,hand-of-person 
-Left,5,group-of-persons,6,child-girl 
-Left,5,group-of-persons,7,child-boy 
-Above,5,group-of-persons,11,wall 
-Left,5,group-of-persons,12,face-of-person 
-Above,6,child-girl, 1,child-boy 
-Right,6,child-girl,5,group-of-persons 
-Above,6,child-girl,10,paper 
-Left,6,child-girl,12,face-of-person 
-Right,7,child-boy,5,group-of-persons 
-Below,9,couple-of-persons,7,child-boy 
-Left,8,woman,10,paper 
-Left,8,woman,12,face-of-person 
-Left,8,woman,14,head-of-person 
-Above,9,couple-of-persons, 7,child-boy 
-Right,9,couple-of-persons,11,wall 
-Above,10,paper, 1,child-boy 
-Right,10,paper,8,woman 
-Above,10,paper, 12,face-of-person 
-Right,10,paper,14,head-of-person 
-Above,11,wall, 3,toy 
-Left,11,wall,9,couple-of-persons 
-Above,11,wall, 13,hand-of-person 
-Above,12,face-of-person, 1,child-boy 
-Right,12,face-of-person,5,group-of-persons 
-Right,12,face-of-person,6,child-girl 
-Right,12,face-of-person,8,woman 
-Below,10,paper,12,face-of-person 
-Left,13,hand-of-person,1,child-boy 
-Right,13,hand-of-person,2,child-girl 
-Below,3,toy,13,hand-of-person 
-Above,13,hand-of-person, 4,toy 
-Left,13,hand-of-person,4,toy 
-Below,11,wall,13,hand-of-person 
-Above,14,head-of-person, 2,child-girl 
-Right,14,head-of-person,8,woman 
-Left,14,head-of-person,10,paper 
+Right,1,child-boy,2,child-girl,y-aligned 
+Right,1,child-boy,3,toy,y-aligned 
+Left,1,child-boy,4,toy,y-aligned 
+Below,6,child-girl,1,child-boy,x-aligned 
+Below,10,paper,1,child-boy,x-aligned 
+Below,12,face-of-person,1,child-boy,x-aligned 
+Right,1,child-boy,13,hand-of-person,y-aligned 
+Left,2,child-girl,1,child-boy,y-aligned 
+Left,2,child-girl,3,toy,y-aligned 
+Left,2,child-girl,4,toy,y-aligned 
+Left,2,child-girl,13,hand-of-person,y-aligned 
+Below,14,head-of-person,2,child-girl,x-aligned 
+Left,3,toy,1,child-boy,y-aligned 
+Right,3,toy,2,child-girl,y-aligned 
+Above,3,toy, 4,toy,x-aligned 
+Below,11,wall,3,toy,x-aligned 
+Above,3,toy, 13,hand-of-person,x-aligned 
+Left,4,toy,1,child-boy,y-aligned 
+Right,4,toy,2,child-girl,y-aligned 
+Below,3,toy,4,toy,x-aligned 
+Below,13,hand-of-person,4,toy,x-aligned 
+Right,4,toy,13,hand-of-person,y-aligned 
+Left,5,group-of-persons,6,child-girl,y-aligned 
+Left,5,group-of-persons,7,child-boy,y-aligned 
+Above,5,group-of-persons,11,wall,x-aligned 
+Left,5,group-of-persons,12,face-of-person,y-aligned 
+Above,6,child-girl, 1,child-boy,x-aligned 
+Right,6,child-girl,5,group-of-persons,y-aligned 
+Above,6,child-girl,10,paper,x-aligned 
+Left,6,child-girl,12,face-of-person,y-aligned 
+Right,7,child-boy,5,group-of-persons,y-aligned 
+Below,9,couple-of-persons,7,child-boy,x-aligned 
+Left,8,woman,10,paper,y-aligned 
+Left,8,woman,12,face-of-person,y-aligned 
+Left,8,woman,14,head-of-person,y-aligned 
+Above,9,couple-of-persons, 7,child-boy,x-aligned 
+Right,9,couple-of-persons,11,wall,y-aligned 
+Above,10,paper, 1,child-boy,x-aligned 
+Right,10,paper,8,woman,y-aligned 
+Above,10,paper, 12,face-of-person,x-aligned 
+Right,10,paper,14,head-of-person,y-aligned 
+Above,11,wall, 3,toy,x-aligned 
+Left,11,wall,9,couple-of-persons,y-aligned 
+Above,11,wall, 13,hand-of-person,x-aligned 
+Above,12,face-of-person, 1,child-boy,x-aligned 
+Right,12,face-of-person,5,group-of-persons,y-aligned 
+Right,12,face-of-person,6,child-girl,y-aligned 
+Right,12,face-of-person,8,woman,y-aligned 
+Below,10,paper,12,face-of-person,x-aligned 
+Left,13,hand-of-person,1,child-boy,y-aligned 
+Right,13,hand-of-person,2,child-girl,y-aligned 
+Below,3,toy,13,hand-of-person,x-aligned 
+Above,13,hand-of-person, 4,toy,x-aligned 
+Left,13,hand-of-person,4,toy,y-aligned 
+Below,11,wall,13,hand-of-person,x-aligned 
+Above,14,head-of-person, 2,child-girl,x-aligned 
+Right,14,head-of-person,8,woman,y-aligned 
+Left,14,head-of-person,10,paper,y-aligned 

@@ -1,11 +1,11 @@
-Above,1,church,2,sky-blue 
-Above,1,church,3,sidewalk 
-Above,2,sky-blue, 3,sidewalk 
-Above,3,sidewalk,1,church 
-Below,2,sky-blue,3,sidewalk 
-Right,4,clock,5,tower 
-Right,4,clock,6,tower 
-Left,5,tower,4,clock 
-Right,5,tower,6,tower 
-Left,6,tower,4,clock 
-Left,6,tower,5,tower 
+Above,1,church,2,sky-blue,x-aligned 
+Above,1,church,3,sidewalk,x-aligned 
+Above,2,sky-blue, 3,sidewalk,x-aligned 
+Above,3,sidewalk,1,church,x-aligned 
+Below,2,sky-blue,3,sidewalk,x-aligned 
+Right,4,clock,5,tower,y-aligned 
+Right,4,clock,6,tower,y-aligned 
+Left,5,tower,4,clock,y-aligned 
+Right,5,tower,6,tower,y-aligned 
+Left,6,tower,4,clock,y-aligned 
+Left,6,tower,5,tower,y-aligned 

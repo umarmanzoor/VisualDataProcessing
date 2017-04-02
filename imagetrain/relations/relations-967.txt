@@ -1,10 +1,10 @@
-Above,1,child-boy,3,vegetation 
-Above,1,child-boy,4,hat 
-Above,2,face-of-person, 3,vegetation 
-Below,4,hat,2,face-of-person 
-Below,2,face-of-person,3,vegetation 
-Above,3,vegetation,4,hat 
-Left,3,vegetation,4,hat 
-Above,4,hat, 2,face-of-person 
-Above,4,hat,3,vegetation 
-Left,4,hat,3,vegetation 
+Above,1,child-boy,3,vegetation,x-aligned 
+Above,1,child-boy,4,hat,x-aligned 
+Above,2,face-of-person, 3,vegetation,x-aligned 
+Below,4,hat,2,face-of-person,x-aligned 
+Below,2,face-of-person,3,vegetation,x-aligned 
+Above,3,vegetation,4,hat,x-aligned 
+Left,3,vegetation,4,hat,y-aligned 
+Above,4,hat, 2,face-of-person,x-aligned 
+Above,4,hat,3,vegetation,x-aligned 
+Left,4,hat,3,vegetation,y-aligned 

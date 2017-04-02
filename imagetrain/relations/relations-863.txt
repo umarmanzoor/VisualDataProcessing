@@ -1,11 +1,11 @@
-Above,1,child-girl, 3,face-of-person 
-Above,2,window, 4,wooden-furniture 
-Below,1,child-girl,3,face-of-person 
-Right,3,face-of-person,5,wall 
-Below,2,window,4,wooden-furniture 
-Below,5,wall,4,wooden-furniture 
-Above,5,wall,2,window 
-Left,5,wall,3,face-of-person 
-Above,5,wall, 4,wooden-furniture 
-Left,5,wall,6,wood 
-Right,6,wood,5,wall 
+Above,1,child-girl, 3,face-of-person,x-aligned 
+Above,2,window, 4,wooden-furniture,x-aligned 
+Below,1,child-girl,3,face-of-person,x-aligned 
+Right,3,face-of-person,5,wall,y-aligned 
+Below,2,window,4,wooden-furniture,x-aligned 
+Below,5,wall,4,wooden-furniture,x-aligned 
+Above,5,wall,2,window,x-aligned 
+Left,5,wall,3,face-of-person,y-aligned 
+Above,5,wall, 4,wooden-furniture,x-aligned 
+Left,5,wall,6,wood,y-aligned 
+Right,6,wood,5,wall,y-aligned 

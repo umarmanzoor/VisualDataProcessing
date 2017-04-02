@@ -1,16 +1,16 @@
-Above,2,paper, 8,floor-other 
-Left,4,table,5,chair 
-Left,4,table,6,chair 
-Left,5,chair,4,table 
-Left,5,chair,6,chair 
-Above,5,chair,7,floor-other 
-Left,5,chair,7,floor-other 
-Above,6,chair,2,paper 
-Left,6,chair,4,table 
-Right,6,chair,5,chair 
-Above,7,floor-other,5,chair 
-Left,7,floor-other,5,chair 
-Left,7,floor-other,8,floor-other 
-Below,2,paper,8,floor-other 
-Above,8,floor-other,6,chair 
-Right,8,floor-other,7,floor-other 
+Above,2,paper, 8,floor-other,x-aligned 
+Left,4,table,5,chair,y-aligned 
+Left,4,table,6,chair,y-aligned 
+Left,5,chair,4,table,y-aligned 
+Left,5,chair,6,chair,y-aligned 
+Above,5,chair,7,floor-other,x-aligned 
+Left,5,chair,7,floor-other,y-aligned 
+Above,6,chair,2,paper,x-aligned 
+Left,6,chair,4,table,y-aligned 
+Right,6,chair,5,chair,y-aligned 
+Above,7,floor-other,5,chair,x-aligned 
+Left,7,floor-other,5,chair,y-aligned 
+Left,7,floor-other,8,floor-other,y-aligned 
+Below,2,paper,8,floor-other,x-aligned 
+Above,8,floor-other,6,chair,x-aligned 
+Right,8,floor-other,7,floor-other,y-aligned 

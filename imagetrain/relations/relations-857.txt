@@ -1,4 +1,4 @@
-Left,2,child,4,face-of-person 
-Above,3,wall, 4,face-of-person 
-Right,4,face-of-person,2,child 
-Below,3,wall,4,face-of-person 
+Left,2,child,4,face-of-person,y-aligned 
+Above,3,wall, 4,face-of-person,x-aligned 
+Right,4,face-of-person,2,child,y-aligned 
+Below,3,wall,4,face-of-person,x-aligned 

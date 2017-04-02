@@ -1,7 +1,7 @@
-Right,2,woman,6,child-boy 
-Below,4,face-of-person,3,book 
-Left,3,book,6,child-boy 
-Above,4,face-of-person, 3,book 
-Left,5,child-girl,2,woman 
-Left,6,child-boy,2,woman 
-Left,6,child-boy,3,book 
+Right,2,woman,6,child-boy,y-aligned 
+Below,4,face-of-person,3,book,x-aligned 
+Left,3,book,6,child-boy,y-aligned 
+Above,4,face-of-person, 3,book,x-aligned 
+Left,5,child-girl,2,woman,y-aligned 
+Left,6,child-boy,2,woman,y-aligned 
+Left,6,child-boy,3,book,y-aligned 

@@ -1,48 +1,48 @@
-Left,1,branch,2,cloud 
-Left,1,branch,5,palm 
-Left,1,branch,6,cloud 
-Left,1,branch,7,cloud 
-Above,1,branch, 10,couple-of-persons 
-Left,2,cloud,1,branch 
-Left,2,cloud,6,cloud 
-Above,2,cloud, 8,car 
-Above,2,cloud, 12,window 
-Left,3,building,4,trunk 
-Below,12,window,3,building 
-Right,3,building,12,window 
-Above,4,trunk,3,building 
-Left,4,trunk,3,building 
-Left,4,trunk,12,window 
-Right,5,palm,1,branch 
-Above,5,palm,6,cloud 
-Right,5,palm,7,cloud 
-Right,6,cloud,1,branch 
-Right,6,cloud,2,cloud 
-Above,6,cloud,5,palm 
-Right,6,cloud,7,cloud 
-Left,7,cloud,1,branch 
-Left,7,cloud,5,palm 
-Left,7,cloud,6,cloud 
-Above,7,cloud, 9,group-of-persons 
-Above,7,cloud, 11,road 
-Below,2,cloud,8,car 
-Right,8,car,9,group-of-persons 
-Right,8,car,10,couple-of-persons 
-Below,12,window,8,car 
-Below,7,cloud,9,group-of-persons 
-Left,9,group-of-persons,8,car 
-Right,9,group-of-persons,10,couple-of-persons 
-Left,9,group-of-persons,11,road 
-Below,1,branch,10,couple-of-persons 
-Left,10,couple-of-persons,8,car 
-Left,10,couple-of-persons,9,group-of-persons 
-Left,10,couple-of-persons,11,road 
-Above,11,road,4,trunk 
-Below,7,cloud,11,road 
-Left,11,road,9,group-of-persons 
-Left,11,road,10,couple-of-persons 
-Below,2,cloud,12,window 
-Above,12,window, 3,building 
-Left,12,window,3,building 
-Left,12,window,4,trunk 
-Above,12,window, 8,car 
+Left,1,branch,2,cloud,y-aligned 
+Left,1,branch,5,palm,y-aligned 
+Left,1,branch,6,cloud,y-aligned 
+Left,1,branch,7,cloud,y-aligned 
+Above,1,branch, 10,couple-of-persons,x-aligned 
+Left,2,cloud,1,branch,y-aligned 
+Left,2,cloud,6,cloud,y-aligned 
+Above,2,cloud, 8,car,x-aligned 
+Above,2,cloud, 12,window,x-aligned 
+Left,3,building,4,trunk,y-aligned 
+Below,12,window,3,building,x-aligned 
+Right,3,building,12,window,y-aligned 
+Above,4,trunk,3,building,x-aligned 
+Left,4,trunk,3,building,y-aligned 
+Left,4,trunk,12,window,y-aligned 
+Right,5,palm,1,branch,y-aligned 
+Above,5,palm,6,cloud,x-aligned 
+Right,5,palm,7,cloud,y-aligned 
+Right,6,cloud,1,branch,y-aligned 
+Right,6,cloud,2,cloud,y-aligned 
+Above,6,cloud,5,palm,x-aligned 
+Right,6,cloud,7,cloud,y-aligned 
+Left,7,cloud,1,branch,y-aligned 
+Left,7,cloud,5,palm,y-aligned 
+Left,7,cloud,6,cloud,y-aligned 
+Above,7,cloud, 9,group-of-persons,x-aligned 
+Above,7,cloud, 11,road,x-aligned 
+Below,2,cloud,8,car,x-aligned 
+Right,8,car,9,group-of-persons,y-aligned 
+Right,8,car,10,couple-of-persons,y-aligned 
+Below,12,window,8,car,x-aligned 
+Below,7,cloud,9,group-of-persons,x-aligned 
+Left,9,group-of-persons,8,car,y-aligned 
+Right,9,group-of-persons,10,couple-of-persons,y-aligned 
+Left,9,group-of-persons,11,road,y-aligned 
+Below,1,branch,10,couple-of-persons,x-aligned 
+Left,10,couple-of-persons,8,car,y-aligned 
+Left,10,couple-of-persons,9,group-of-persons,y-aligned 
+Left,10,couple-of-persons,11,road,y-aligned 
+Above,11,road,4,trunk,x-aligned 
+Below,7,cloud,11,road,x-aligned 
+Left,11,road,9,group-of-persons,y-aligned 
+Left,11,road,10,couple-of-persons,y-aligned 
+Below,2,cloud,12,window,x-aligned 
+Above,12,window, 3,building,x-aligned 
+Left,12,window,3,building,y-aligned 
+Left,12,window,4,trunk,y-aligned 
+Above,12,window, 8,car,x-aligned 

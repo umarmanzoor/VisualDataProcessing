@@ -1,30 +1,30 @@
-Above,1,group-of-persons, 10,face-of-person 
-Left,1,group-of-persons,10,face-of-person 
-Left,2,man,4,woman 
-Below,10,face-of-person,2,man 
-Left,3,man,4,woman 
-Left,3,man,10,face-of-person 
-Right,4,woman,2,man 
-Right,4,woman,3,man 
-Below,8,man,4,woman 
-Below,9,balloon,4,woman 
-Right,4,woman,10,face-of-person 
-Left,5,man,10,face-of-person 
-Below,7,hand-of-person,6,woman 
-Above,7,hand-of-person, 6,woman 
-Right,7,hand-of-person,8,man 
-Right,7,hand-of-person,9,balloon 
-Above,8,man, 4,woman 
-Left,8,man,7,hand-of-person 
-Above,8,man,9,balloon 
-Left,8,man,9,balloon 
-Above,9,balloon, 4,woman 
-Left,9,balloon,7,hand-of-person 
-Above,9,balloon,8,man 
-Left,9,balloon,8,man 
-Below,1,group-of-persons,10,face-of-person 
-Right,10,face-of-person,1,group-of-persons 
-Above,10,face-of-person, 2,man 
-Right,10,face-of-person,3,man 
-Left,10,face-of-person,4,woman 
-Right,10,face-of-person,5,man 
+Above,1,group-of-persons, 10,face-of-person,x-aligned 
+Left,1,group-of-persons,10,face-of-person,y-aligned 
+Left,2,man,4,woman,y-aligned 
+Below,10,face-of-person,2,man,x-aligned 
+Left,3,man,4,woman,y-aligned 
+Left,3,man,10,face-of-person,y-aligned 
+Right,4,woman,2,man,y-aligned 
+Right,4,woman,3,man,y-aligned 
+Below,8,man,4,woman,x-aligned 
+Below,9,balloon,4,woman,x-aligned 
+Right,4,woman,10,face-of-person,y-aligned 
+Left,5,man,10,face-of-person,y-aligned 
+Below,7,hand-of-person,6,woman,x-aligned 
+Above,7,hand-of-person, 6,woman,x-aligned 
+Right,7,hand-of-person,8,man,y-aligned 
+Right,7,hand-of-person,9,balloon,y-aligned 
+Above,8,man, 4,woman,x-aligned 
+Left,8,man,7,hand-of-person,y-aligned 
+Above,8,man,9,balloon,x-aligned 
+Left,8,man,9,balloon,y-aligned 
+Above,9,balloon, 4,woman,x-aligned 
+Left,9,balloon,7,hand-of-person,y-aligned 
+Above,9,balloon,8,man,x-aligned 
+Left,9,balloon,8,man,y-aligned 
+Below,1,group-of-persons,10,face-of-person,x-aligned 
+Right,10,face-of-person,1,group-of-persons,y-aligned 
+Above,10,face-of-person, 2,man,x-aligned 
+Right,10,face-of-person,3,man,y-aligned 
+Left,10,face-of-person,4,woman,y-aligned 
+Right,10,face-of-person,5,man,y-aligned 

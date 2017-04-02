@@ -1,2 +1,2 @@
-Left,1,child-boy,3,head-of-person 
-Left,3,head-of-person,1,child-boy 
+Left,1,child-boy,3,head-of-person,y-aligned 
+Left,3,head-of-person,1,child-boy,y-aligned 

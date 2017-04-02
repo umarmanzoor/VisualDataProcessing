@@ -1,14 +1,14 @@
-Below,6,wall,2,paper 
-Below,7,non-wooden-furniture,2,paper 
-Left,3,window,5,wood 
-Above,3,window, 7,non-wooden-furniture 
-Right,4,face-of-person,7,non-wooden-furniture 
-Left,5,wood,3,window 
-Right,5,wood,6,wall 
-Above,6,wall, 2,paper 
-Left,6,wall,5,wood 
-Above,6,wall,7,non-wooden-furniture 
-Above,7,non-wooden-furniture, 2,paper 
-Below,3,window,7,non-wooden-furniture 
-Left,7,non-wooden-furniture,4,face-of-person 
-Above,7,non-wooden-furniture,6,wall 
+Below,6,wall,2,paper,x-aligned 
+Below,7,non-wooden-furniture,2,paper,x-aligned 
+Left,3,window,5,wood,y-aligned 
+Above,3,window, 7,non-wooden-furniture,x-aligned 
+Right,4,face-of-person,7,non-wooden-furniture,y-aligned 
+Left,5,wood,3,window,y-aligned 
+Right,5,wood,6,wall,y-aligned 
+Above,6,wall, 2,paper,x-aligned 
+Left,6,wall,5,wood,y-aligned 
+Above,6,wall,7,non-wooden-furniture,x-aligned 
+Above,7,non-wooden-furniture, 2,paper,x-aligned 
+Below,3,window,7,non-wooden-furniture,x-aligned 
+Left,7,non-wooden-furniture,4,face-of-person,y-aligned 
+Above,7,non-wooden-furniture,6,wall,x-aligned 

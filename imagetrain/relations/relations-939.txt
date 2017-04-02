@@ -1,4 +1,4 @@
-Below,2,hat,1,child-boy 
-Above,2,hat, 1,child-boy 
-Above,2,hat, 3,face-of-person 
-Below,2,hat,3,face-of-person 
+Below,2,hat,1,child-boy,x-aligned 
+Above,2,hat, 1,child-boy,x-aligned 
+Above,2,hat, 3,face-of-person,x-aligned 
+Below,2,hat,3,face-of-person,x-aligned 

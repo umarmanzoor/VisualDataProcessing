@@ -1,11 +1,11 @@
-Above,1,child-boy,2,cloud 
-Left,1,child-boy,3,wooden-furniture 
-Above,2,cloud, 7,face-of-person 
-Left,3,wooden-furniture,1,child-boy 
-Below,4,construction,3,wooden-furniture 
-Above,4,construction, 3,wooden-furniture 
-Left,4,construction,7,face-of-person 
-Above,5,construction, 6,ground 
-Below,5,construction,6,ground 
-Below,2,cloud,7,face-of-person 
-Right,7,face-of-person,4,construction 
+Above,1,child-boy,2,cloud,x-aligned 
+Left,1,child-boy,3,wooden-furniture,y-aligned 
+Above,2,cloud, 7,face-of-person,x-aligned 
+Left,3,wooden-furniture,1,child-boy,y-aligned 
+Below,4,construction,3,wooden-furniture,x-aligned 
+Above,4,construction, 3,wooden-furniture,x-aligned 
+Left,4,construction,7,face-of-person,y-aligned 
+Above,5,construction, 6,ground,x-aligned 
+Below,5,construction,6,ground,x-aligned 
+Below,2,cloud,7,face-of-person,x-aligned 
+Right,7,face-of-person,4,construction,y-aligned 

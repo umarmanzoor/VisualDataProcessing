@@ -1,5 +1,5 @@
-Above,1,child-boy,3,wall 
-Below,4,face-of-person,3,wall 
-Right,3,wall,4,face-of-person 
-Above,4,face-of-person, 3,wall 
-Left,4,face-of-person,3,wall 
+Above,1,child-boy,3,wall,x-aligned 
+Below,4,face-of-person,3,wall,x-aligned 
+Right,3,wall,4,face-of-person,y-aligned 
+Above,4,face-of-person, 3,wall,x-aligned 
+Left,4,face-of-person,3,wall,y-aligned 

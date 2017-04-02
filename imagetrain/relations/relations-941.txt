@@ -1,9 +1,9 @@
-Above,1,child-boy,2,ground 
-Below,3,construction,1,child-boy 
-Above,2,ground,1,child-boy 
-Below,3,construction,2,ground 
-Above,2,ground,4,cloth 
-Above,3,construction, 1,child-boy 
-Above,3,construction, 2,ground 
-Above,3,construction, 4,cloth 
-Below,3,construction,4,cloth 
+Above,1,child-boy,2,ground,x-aligned 
+Below,3,construction,1,child-boy,x-aligned 
+Above,2,ground,1,child-boy,x-aligned 
+Below,3,construction,2,ground,x-aligned 
+Above,2,ground,4,cloth,x-aligned 
+Above,3,construction, 1,child-boy,x-aligned 
+Above,3,construction, 2,ground,x-aligned 
+Above,3,construction, 4,cloth,x-aligned 
+Below,3,construction,4,cloth,x-aligned 
