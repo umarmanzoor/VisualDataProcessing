@@ -1,0 +1,20 @@
+Below,3,boat,1,vegetation 
+Below,4,sky-blue,1,vegetation 
+Above,1,vegetation,5,water-reflection 
+Left,2,branch,3,boat 
+Right,2,branch,6,water 
+Right,2,branch,7,wood 
+Above,3,boat, 1,vegetation 
+Left,3,boat,2,branch 
+Left,3,boat,6,water 
+Above,4,sky-blue, 1,vegetation 
+Above,4,sky-blue, 5,water-reflection 
+Above,5,water-reflection,3,boat 
+Below,4,sky-blue,5,water-reflection 
+Left,5,water-reflection,7,wood 
+Left,6,water,2,branch 
+Left,6,water,3,boat 
+Above,6,water, 7,wood 
+Left,7,wood,2,branch 
+Left,7,wood,5,water-reflection 
+Below,6,water,7,wood 

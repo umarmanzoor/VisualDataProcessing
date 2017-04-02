@@ -1,0 +1,65 @@
+Left,1,woman,3,woman 
+Above,1,woman, 5,hand-of-person 
+Below,11,person,1,woman 
+Left,1,woman,13,wall 
+Left,2,man,3,woman 
+Left,2,man,4,woman 
+Below,10,person,2,man 
+Right,2,man,13,wall 
+Right,3,woman,1,woman 
+Left,3,woman,2,man 
+Below,7,window,3,woman 
+Right,3,woman,13,wall 
+Right,4,woman,2,man 
+Above,4,woman,8,wall 
+Right,4,woman,13,wall 
+Below,1,woman,5,hand-of-person 
+Below,11,person,5,hand-of-person 
+Left,5,hand-of-person,14,face-of-person 
+Right,6,window,7,window 
+Above,6,window,8,wall 
+Above,6,window, 9,floor-other 
+Right,6,window,10,person 
+Right,6,window,11,person 
+Right,6,window,12,person 
+Above,7,window, 3,woman 
+Left,7,window,6,window 
+Left,7,window,10,person 
+Right,7,window,11,person 
+Right,7,window,12,person 
+Above,7,window, 14,face-of-person 
+Above,8,wall,4,woman 
+Above,8,wall,6,window 
+Above,8,wall, 9,floor-other 
+Right,8,wall,10,person 
+Right,8,wall,11,person 
+Right,8,wall,12,person 
+Right,8,wall,14,face-of-person 
+Below,6,window,9,floor-other 
+Below,8,wall,9,floor-other 
+Above,10,person, 2,man 
+Left,10,person,6,window 
+Left,10,person,7,window 
+Left,10,person,8,wall 
+Right,10,person,11,person 
+Right,10,person,12,person 
+Above,11,person, 1,woman 
+Above,11,person, 5,hand-of-person 
+Left,11,person,6,window 
+Left,11,person,7,window 
+Left,11,person,8,wall 
+Left,11,person,10,person 
+Right,11,person,12,person 
+Left,12,person,6,window 
+Left,12,person,7,window 
+Left,12,person,8,wall 
+Left,12,person,10,person 
+Left,12,person,11,person 
+Left,13,wall,1,woman 
+Left,13,wall,2,man 
+Left,13,wall,3,woman 
+Left,13,wall,4,woman 
+Above,13,wall,12,person 
+Right,14,face-of-person,5,hand-of-person 
+Below,7,window,14,face-of-person 
+Left,14,face-of-person,8,wall 

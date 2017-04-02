@@ -1,0 +1,39 @@
+Above,1,group-of-persons,6,construction 
+Left,1,group-of-persons,10,public-sign 
+Left,2,rock,3,rock 
+Below,4,branch,2,rock 
+Left,2,rock,8,child-girl 
+Right,3,rock,2,rock 
+Below,5,branch,3,rock 
+Left,3,rock,7,woman 
+Right,3,rock,8,child-girl 
+Right,3,rock,9,child-girl 
+Above,3,rock,10,public-sign 
+Above,4,branch, 2,rock 
+Left,4,branch,5,branch 
+Left,4,branch,6,construction 
+Above,5,branch, 3,rock 
+Right,5,branch,4,branch 
+Left,5,branch,6,construction 
+Above,5,branch, 10,public-sign 
+Right,5,branch,11,sky-light 
+Right,6,construction,4,branch 
+Left,6,construction,5,branch 
+Left,6,construction,11,sky-light 
+Left,7,woman,3,rock 
+Right,7,woman,8,child-girl 
+Right,7,woman,9,child-girl 
+Right,8,child-girl,2,rock 
+Left,8,child-girl,3,rock 
+Left,8,child-girl,7,woman 
+Right,8,child-girl,9,child-girl 
+Below,11,sky-light,8,child-girl 
+Left,9,child-girl,3,rock 
+Left,9,child-girl,7,woman 
+Left,9,child-girl,8,child-girl 
+Right,10,public-sign,1,group-of-persons 
+Above,10,public-sign,3,rock 
+Below,5,branch,10,public-sign 
+Left,11,sky-light,5,branch 
+Left,11,sky-light,6,construction 
+Above,11,sky-light, 8,child-girl 

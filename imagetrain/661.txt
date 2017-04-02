@@ -1,0 +1,8 @@
+1,2,x-aligned,house,grass
+1,6,x-aligned,house,window
+2,1,x-aligned,grass,house
+2,4,y-aligned,grass,sidewalk
+2,6,x-aligned,grass,window
+4,2,y-aligned,sidewalk,grass
+6,1,x-aligned,window,house
+6,2,x-aligned,window,grass

@@ -1,0 +1,30 @@
+Right,1,group-of-persons,10,face-of-person 
+Right,2,man,8,face-of-person 
+Right,2,man,9,face-of-person 
+Left,3,child,4,child-boy 
+Below,7,child-girl,3,child 
+Above,3,child,9,face-of-person 
+Left,3,child,9,face-of-person 
+Right,4,child-boy,3,child 
+Above,4,child-boy,5,woman 
+Right,4,child-boy,9,face-of-person 
+Above,5,woman,6,woman 
+Right,5,woman,7,child-girl 
+Right,5,woman,10,face-of-person 
+Above,6,woman,5,woman 
+Above,6,woman,11,face-of-person 
+Above,7,child-girl, 3,child 
+Left,7,child-girl,5,woman 
+Above,7,child-girl, 9,face-of-person 
+Left,7,child-girl,10,face-of-person 
+Left,7,child-girl,11,face-of-person 
+Left,8,face-of-person,2,man 
+Left,9,face-of-person,2,man 
+Left,9,face-of-person,3,child 
+Left,9,face-of-person,4,child-boy 
+Below,7,child-girl,9,face-of-person 
+Left,10,face-of-person,1,group-of-persons 
+Left,10,face-of-person,5,woman 
+Right,10,face-of-person,7,child-girl 
+Above,11,face-of-person,6,woman 
+Right,11,face-of-person,7,child-girl 

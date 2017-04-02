@@ -1,0 +1,8 @@
+1,4,x-aligned,paper,paper
+1,5,y-aligned,paper,wood
+2,3,y-aligned,can,paper
+3,2,y-aligned,paper,can
+4,1,x-aligned,paper,paper
+4,5,x-aligned,paper,wood
+5,1,y-aligned,wood,paper
+5,4,x-aligned,wood,paper

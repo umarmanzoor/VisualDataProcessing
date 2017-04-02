@@ -1,0 +1,6 @@
+1,2,y-aligned,group-of-persons,child-boy
+2,1,y-aligned,child-boy,group-of-persons
+2,4,x-aligned,child-boy,face-of-person
+3,5,x-aligned,child-boy,cup
+4,2,x-aligned,face-of-person,child-boy
+5,3,x-aligned,cup,child-boy

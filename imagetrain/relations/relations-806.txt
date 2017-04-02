@@ -1,0 +1,8 @@
+Left,1,child-girl,3,wooden-furniture 
+Left,3,wooden-furniture,1,child-girl 
+Right,4,house,5,face-of-person 
+Right,4,house,6,hand-of-person 
+Left,5,face-of-person,4,house 
+Right,5,face-of-person,6,hand-of-person 
+Left,6,hand-of-person,4,house 
+Left,6,hand-of-person,5,face-of-person 

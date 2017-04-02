@@ -1,0 +1,6 @@
+Above,1,child-boy,3,wall 
+Above,2,face-of-person,3,wall 
+Above,2,face-of-person, 4,cloth 
+Above,3,wall,2,face-of-person 
+Below,2,face-of-person,4,cloth 
+Above,4,cloth,3,wall 

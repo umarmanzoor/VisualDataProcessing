@@ -1,0 +1,24 @@
+Left,2,sky-light,5,palm 
+Above,3,trees,4,palm 
+Left,3,trees,4,palm 
+Left,3,trees,5,palm 
+Left,3,trees,7,person 
+Above,3,trees, 8,sand-beach 
+Left,3,trees,9,person 
+Left,4,palm,3,trees 
+Left,4,palm,5,palm 
+Above,4,palm, 8,sand-beach 
+Right,5,palm,2,sky-light 
+Left,5,palm,3,trees 
+Right,5,palm,4,palm 
+Above,6,water,2,sky-light 
+Left,6,water,8,sand-beach 
+Above,6,water, 9,person 
+Left,7,person,3,trees 
+Right,7,person,9,person 
+Below,3,trees,8,sand-beach 
+Below,4,palm,8,sand-beach 
+Left,8,sand-beach,6,water 
+Left,9,person,3,trees 
+Below,6,water,9,person 
+Left,9,person,7,person 

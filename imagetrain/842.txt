@@ -1,0 +1,14 @@
+1,5,x-aligned,child-boy,window
+1,6,x-aligned,child-boy,face-of-person
+2,3,y-aligned,woman,child-girl
+2,6,y-aligned,woman,face-of-person
+3,2,y-aligned,child-girl,woman
+3,4,x-aligned,child-girl,wall
+3,6,y-aligned,child-girl,face-of-person
+4,3,x-aligned,wall,child-girl
+5,1,x-aligned,window,child-boy
+5,6,x-aligned,window,face-of-person
+6,1,x-aligned,face-of-person,child-boy
+6,2,y-aligned,face-of-person,woman
+6,3,y-aligned,face-of-person,child-girl
+6,5,x-aligned,face-of-person,window

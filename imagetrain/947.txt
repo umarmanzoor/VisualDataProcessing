@@ -1,0 +1,8 @@
+1,2,x-aligned,child-girl,face-of-person
+1,5,x-aligned,child-girl,construction
+2,1,x-aligned,face-of-person,child-girl
+2,5,x-aligned,face-of-person,construction
+3,4,y-aligned,ground,ground
+4,3,y-aligned,ground,ground
+5,1,x-aligned,construction,child-girl
+5,2,x-aligned,construction,face-of-person

@@ -1,0 +1,6 @@
+Above,1,public-sign,2,wall 
+Left,1,public-sign,2,wall 
+Above,2,wall,1,public-sign 
+Left,2,wall,1,public-sign 
+Left,3,wall,4,wall 
+Right,4,wall,3,wall 

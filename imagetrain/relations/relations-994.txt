@@ -1,0 +1,6 @@
+Below,2,face-of-person,1,child-boy 
+Above,1,child-boy,3,wood 
+Above,2,face-of-person, 1,child-boy 
+Right,2,face-of-person,3,wood 
+Above,3,wood,1,child-boy 
+Left,3,wood,2,face-of-person 

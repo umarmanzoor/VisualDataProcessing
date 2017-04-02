@@ -1,0 +1,9 @@
+Above,1,vegetation,2,rock 
+Below,3,construction,1,vegetation 
+Below,3,construction,2,rock 
+Left,2,rock,4,water 
+Below,5,sky,2,rock 
+Above,3,construction, 1,vegetation 
+Above,3,construction, 2,rock 
+Left,4,water,2,rock 
+Above,5,sky, 2,rock 

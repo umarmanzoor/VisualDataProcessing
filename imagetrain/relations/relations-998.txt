@@ -1,0 +1,3 @@
+Above,1,child-boy,3,wall 
+Above,3,wall,1,child-boy 
+Above,3,wall,2,face-of-person 

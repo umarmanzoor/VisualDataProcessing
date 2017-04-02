@@ -1,0 +1,33 @@
+Above,2,cloud, 6,building 
+Above,2,cloud, 8,car 
+Above,2,cloud, 10,group-of-persons 
+Above,3,sky-blue,2,cloud 
+Left,3,sky-blue,4,church 
+Above,3,sky-blue,6,building 
+Above,3,sky-blue, 8,car 
+Left,3,sky-blue,9,tower 
+Above,3,sky-blue, 10,group-of-persons 
+Left,4,church,3,sky-blue 
+Right,4,church,9,tower 
+Right,5,building,6,building 
+Below,2,cloud,6,building 
+Above,6,building,3,sky-blue 
+Left,6,building,5,building 
+Above,6,building,8,car 
+Above,7,group-of-persons,4,church 
+Left,7,group-of-persons,8,car 
+Left,7,group-of-persons,10,group-of-persons 
+Below,2,cloud,8,car 
+Below,3,sky-blue,8,car 
+Above,8,car,6,building 
+Left,8,car,7,group-of-persons 
+Below,9,tower,8,car 
+Below,10,group-of-persons,8,car 
+Left,9,tower,3,sky-blue 
+Left,9,tower,4,church 
+Above,9,tower, 8,car 
+Below,2,cloud,10,group-of-persons 
+Below,3,sky-blue,10,group-of-persons 
+Above,10,group-of-persons,6,building 
+Left,10,group-of-persons,7,group-of-persons 
+Above,10,group-of-persons, 8,car 

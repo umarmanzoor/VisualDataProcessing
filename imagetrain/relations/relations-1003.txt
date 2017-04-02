@@ -1,0 +1,9 @@
+Above,1,child-girl,5,hat 
+Below,6,sky-light,1,child-girl 
+Below,5,hat,2,face-of-person 
+Below,6,sky-light,2,face-of-person 
+Left,3,cloth,4,cloth 
+Right,4,cloth,3,cloth 
+Above,5,hat, 2,face-of-person 
+Above,6,sky-light, 1,child-girl 
+Above,6,sky-light, 2,face-of-person 

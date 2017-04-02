@@ -1,0 +1,2 @@
+1,2,x-aligned,child-girl,child-girl
+2,1,x-aligned,child-girl,child-girl

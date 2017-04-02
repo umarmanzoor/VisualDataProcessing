@@ -1,0 +1,10 @@
+Left,1,couple-of-persons,3,woman 
+Left,2,head-of-person,4,window 
+Left,2,head-of-person,5,head-of-person 
+Right,3,woman,1,couple-of-persons 
+Right,4,window,2,head-of-person 
+Right,4,window,5,head-of-person 
+Right,5,head-of-person,2,head-of-person 
+Left,5,head-of-person,4,window 
+Above,5,head-of-person, 6,hand-of-person 
+Below,5,head-of-person,6,hand-of-person 

@@ -1,0 +1,8 @@
+Above,1,child-boy,3,wall 
+Above,2,cloth,3,wall 
+Left,2,cloth,5,plant 
+Below,6,face-of-person,2,cloth 
+Above,4,paper, 5,plant 
+Left,5,plant,2,cloth 
+Below,4,paper,5,plant 
+Above,6,face-of-person, 2,cloth 

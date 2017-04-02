@@ -1,0 +1,3 @@
+Above,1,child-girl, 4,jewelry 
+Above,2,face-of-person,3,hat 
+Below,1,child-girl,4,jewelry 

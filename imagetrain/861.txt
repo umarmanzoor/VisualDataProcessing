@@ -1,0 +1,2 @@
+1,2,x-aligned,child,face-of-person
+2,1,x-aligned,face-of-person,child

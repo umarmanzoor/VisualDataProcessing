@@ -1,0 +1,2 @@
+1,2,x-aligned,cloud,waterfall
+2,1,x-aligned,waterfall,cloud

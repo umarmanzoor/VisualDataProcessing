@@ -1,0 +1,12 @@
+Above,1,child-boy,2,cloth 
+Left,1,child-boy,2,cloth 
+Above,1,child-boy,3,hat 
+Above,2,cloth,1,child-boy 
+Left,2,cloth,1,child-boy 
+Below,3,hat,2,cloth 
+Below,4,face-of-person,2,cloth 
+Above,3,hat, 2,cloth 
+Above,4,face-of-person, 2,cloth 
+Above,4,face-of-person,3,hat 
+Left,4,face-of-person,5,wall 
+Right,5,wall,4,face-of-person 

@@ -1,0 +1,11 @@
+Below,6,window,2,wooden-furniture 
+Above,3,paper,4,child 
+Right,4,child,5,couple-of-persons 
+Right,4,child,8,face-of-person 
+Left,5,couple-of-persons,4,child 
+Left,5,couple-of-persons,8,face-of-person 
+Above,6,window, 2,wooden-furniture 
+Right,6,window,7,window 
+Left,7,window,6,window 
+Left,8,face-of-person,4,child 
+Right,8,face-of-person,5,couple-of-persons 

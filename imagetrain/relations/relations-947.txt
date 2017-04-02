@@ -1,0 +1,8 @@
+Below,2,face-of-person,1,child-girl 
+Below,5,construction,1,child-girl 
+Above,2,face-of-person, 1,child-girl 
+Below,5,construction,2,face-of-person 
+Right,3,ground,4,ground 
+Left,4,ground,3,ground 
+Above,5,construction, 1,child-girl 
+Above,5,construction, 2,face-of-person 

@@ -1,0 +1,2 @@
+1,2,x-aligned,sky-blue,construction
+2,1,x-aligned,construction,sky-blue

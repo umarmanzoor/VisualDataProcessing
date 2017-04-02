@@ -1,0 +1,2 @@
+Left,2,face-of-person,3,wood 
+Right,3,wood,2,face-of-person 

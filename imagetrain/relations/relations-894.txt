@@ -1,0 +1,4 @@
+Left,2,group-of-persons,3,child-girl 
+Left,2,group-of-persons,4,face-of-person 
+Right,3,child-girl,2,group-of-persons 
+Left,4,face-of-person,2,group-of-persons 

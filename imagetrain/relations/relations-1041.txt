@@ -1,0 +1,10 @@
+Left,1,building,3,palm 
+Right,2,tree,4,palm 
+Below,6,sky-blue,2,tree 
+Right,3,palm,1,building 
+Left,4,palm,2,tree 
+Below,5,sky-blue,4,palm 
+Above,5,sky-blue, 4,palm 
+Left,5,sky-blue,6,sky-blue 
+Above,6,sky-blue, 2,tree 
+Right,6,sky-blue,5,sky-blue 

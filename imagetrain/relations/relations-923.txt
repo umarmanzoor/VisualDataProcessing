@@ -1,0 +1,5 @@
+Above,1,child-boy,2,ground 
+Below,5,face-of-person,1,child-boy 
+Right,4,rock,5,face-of-person 
+Above,5,face-of-person, 1,child-boy 
+Left,5,face-of-person,4,rock 

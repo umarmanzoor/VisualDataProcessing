@@ -1,0 +1,30 @@
+Below,3,construction,1,ground 
+Left,1,ground,10,wood 
+Above,2,sky, 8,person 
+Above,3,construction, 1,ground 
+Below,5,child-girl,4,couple-of-persons 
+Below,6,child,4,couple-of-persons 
+Right,4,couple-of-persons,8,person 
+Right,4,couple-of-persons,9,group-of-persons 
+Above,4,couple-of-persons,10,wood 
+Left,4,couple-of-persons,10,wood 
+Above,5,child-girl, 4,couple-of-persons 
+Right,5,child-girl,6,child 
+Right,5,child-girl,7,child 
+Above,6,child, 4,couple-of-persons 
+Left,6,child,5,child-girl 
+Right,6,child,7,child 
+Above,6,child, 10,wood 
+Left,7,child,5,child-girl 
+Left,7,child,6,child 
+Above,7,child, 10,wood 
+Below,2,sky,8,person 
+Left,8,person,4,couple-of-persons 
+Right,8,person,9,group-of-persons 
+Left,9,group-of-persons,4,couple-of-persons 
+Left,9,group-of-persons,8,person 
+Left,10,wood,1,ground 
+Above,10,wood,4,couple-of-persons 
+Left,10,wood,4,couple-of-persons 
+Below,6,child,10,wood 
+Below,7,child,10,wood 

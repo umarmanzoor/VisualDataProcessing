@@ -1,0 +1,9 @@
+Above,1,child-boy, 2,hand-of-person 
+Above,1,child-boy,5,wall 
+Below,1,child-boy,2,hand-of-person 
+Right,2,hand-of-person,4,couple-of-persons 
+Below,5,wall,2,hand-of-person 
+Right,3,group-of-persons,4,couple-of-persons 
+Left,4,couple-of-persons,2,hand-of-person 
+Left,4,couple-of-persons,3,group-of-persons 
+Above,5,wall, 2,hand-of-person 

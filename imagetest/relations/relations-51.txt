@@ -1,0 +1,28 @@
+Above,1,sky-blue, 5,palm 
+Above,1,sky-blue, 6,palm 
+Above,2,building,5,palm 
+Above,2,building, 7,window 
+Left,2,building,8,edifice 
+Right,3,trees,4,palm 
+Left,3,trees,8,edifice 
+Left,4,palm,3,trees 
+Left,4,palm,5,palm 
+Left,4,palm,6,palm 
+Left,4,palm,8,edifice 
+Below,1,sky-blue,5,palm 
+Above,5,palm,2,building 
+Right,5,palm,4,palm 
+Above,5,palm, 6,palm 
+Left,5,palm,8,edifice 
+Below,1,sky-blue,6,palm 
+Right,6,palm,4,palm 
+Below,5,palm,6,palm 
+Left,6,palm,8,edifice 
+Below,2,building,7,window 
+Left,7,window,8,edifice 
+Right,8,edifice,2,building 
+Right,8,edifice,3,trees 
+Right,8,edifice,4,palm 
+Right,8,edifice,5,palm 
+Right,8,edifice,6,palm 
+Right,8,edifice,7,window 

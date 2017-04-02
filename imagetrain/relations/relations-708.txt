@@ -1,0 +1,108 @@
+Left,1,woman,2,woman 
+Above,1,woman,5,woman 
+Below,6,man,1,woman 
+Below,12,balloon,1,woman 
+Left,1,woman,14,floor-other 
+Left,2,woman,1,woman 
+Left,2,woman,3,man 
+Left,2,woman,4,group-of-persons 
+Below,8,window,2,woman 
+Left,2,woman,9,woman 
+Above,2,woman,17,face-of-person 
+Right,3,man,2,woman 
+Left,3,man,4,group-of-persons 
+Left,3,man,5,woman 
+Above,3,man,6,man 
+Left,3,man,9,woman 
+Below,11,balloon,3,man 
+Below,15,wall,3,man 
+Right,4,group-of-persons,2,woman 
+Right,4,group-of-persons,3,man 
+Right,4,group-of-persons,5,woman 
+Right,4,group-of-persons,9,woman 
+Below,13,balloon,4,group-of-persons 
+Below,16,wall,4,group-of-persons 
+Above,5,woman,1,woman 
+Left,5,woman,3,man 
+Left,5,woman,4,group-of-persons 
+Above,5,woman,6,man 
+Left,5,woman,9,woman 
+Below,12,balloon,5,woman 
+Above,6,man, 1,woman 
+Above,6,man,5,woman 
+Below,12,balloon,6,man 
+Below,15,wall,6,man 
+Right,6,man,17,face-of-person 
+Right,7,painting,8,window 
+Above,7,painting, 9,woman 
+Above,7,painting, 10,balloon 
+Right,7,painting,10,balloon 
+Right,7,painting,11,balloon 
+Left,7,painting,13,balloon 
+Above,7,painting, 14,floor-other 
+Right,7,painting,15,wall 
+Left,7,painting,16,wall 
+Above,8,window, 2,woman 
+Left,8,window,7,painting 
+Left,8,window,10,balloon 
+Left,8,window,11,balloon 
+Left,8,window,12,balloon 
+Left,8,window,13,balloon 
+Left,8,window,15,wall 
+Right,9,woman,2,woman 
+Right,9,woman,3,man 
+Left,9,woman,4,group-of-persons 
+Right,9,woman,5,woman 
+Below,7,painting,9,woman 
+Below,10,balloon,9,woman 
+Below,7,painting,10,balloon 
+Left,10,balloon,7,painting 
+Right,10,balloon,8,window 
+Above,10,balloon, 9,woman 
+Right,10,balloon,11,balloon 
+Right,10,balloon,12,balloon 
+Left,10,balloon,13,balloon 
+Left,10,balloon,15,wall 
+Right,10,balloon,17,face-of-person 
+Above,11,balloon, 3,man 
+Left,11,balloon,7,painting 
+Right,11,balloon,8,window 
+Left,11,balloon,10,balloon 
+Right,11,balloon,12,balloon 
+Left,11,balloon,13,balloon 
+Below,15,wall,11,balloon 
+Right,11,balloon,17,face-of-person 
+Above,12,balloon, 1,woman 
+Above,12,balloon, 5,woman 
+Above,12,balloon, 6,man 
+Right,12,balloon,8,window 
+Left,12,balloon,10,balloon 
+Left,12,balloon,11,balloon 
+Left,12,balloon,13,balloon 
+Right,12,balloon,17,face-of-person 
+Above,13,balloon, 4,group-of-persons 
+Right,13,balloon,7,painting 
+Right,13,balloon,8,window 
+Right,13,balloon,10,balloon 
+Right,13,balloon,11,balloon 
+Right,13,balloon,12,balloon 
+Right,13,balloon,15,wall 
+Below,16,wall,13,balloon 
+Right,14,floor-other,1,woman 
+Below,7,painting,14,floor-other 
+Above,15,wall, 3,man 
+Above,15,wall, 6,man 
+Left,15,wall,7,painting 
+Right,15,wall,8,window 
+Left,15,wall,10,balloon 
+Above,15,wall, 11,balloon 
+Left,15,wall,13,balloon 
+Left,15,wall,16,wall 
+Above,16,wall, 4,group-of-persons 
+Right,16,wall,7,painting 
+Above,16,wall, 13,balloon 
+Right,16,wall,15,wall 
+Left,17,face-of-person,6,man 
+Left,17,face-of-person,10,balloon 
+Left,17,face-of-person,11,balloon 
+Left,17,face-of-person,12,balloon 

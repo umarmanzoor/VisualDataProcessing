@@ -1,0 +1,4 @@
+Below,4,sand-dessert,1,lizard 
+Right,2,lizard,4,sand-dessert 
+Above,4,sand-dessert, 1,lizard 
+Left,4,sand-dessert,2,lizard 

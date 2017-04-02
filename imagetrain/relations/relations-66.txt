@@ -1,0 +1,2 @@
+Left,1,water,3,rock 
+Left,3,rock,1,water 

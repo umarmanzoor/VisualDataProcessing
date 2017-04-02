@@ -1,0 +1,9 @@
+Below,2,sky,1,child-boy 
+Above,1,child-boy,3,ground 
+Above,2,sky, 1,child-boy 
+Above,3,ground,1,child-boy 
+Above,3,ground,2,sky 
+Left,3,ground,5,rock 
+Right,4,rock,5,rock 
+Left,5,rock,3,ground 
+Left,5,rock,4,rock 

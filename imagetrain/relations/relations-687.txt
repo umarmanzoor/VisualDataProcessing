@@ -1,0 +1,20 @@
+Above,1,sky-blue, 3,city 
+Above,1,sky-blue, 5,roof 
+Above,1,sky-blue, 7,house 
+Above,2,hill,1,sky-blue 
+Left,2,hill,4,edifice 
+Above,2,hill, 5,roof 
+Below,1,sky-blue,3,city 
+Above,3,city,2,hill 
+Below,5,roof,3,city 
+Left,4,edifice,2,hill 
+Above,4,edifice,8,house 
+Below,1,sky-blue,5,roof 
+Below,2,hill,5,roof 
+Above,5,roof, 3,city 
+Right,5,roof,6,roof 
+Left,6,roof,5,roof 
+Below,1,sky-blue,7,house 
+Left,7,house,8,house 
+Above,8,house,4,edifice 
+Right,8,house,7,house 

@@ -1,0 +1,12 @@
+Above,1,stairs,3,building 
+Above,1,stairs,5,sidewalk 
+Left,1,stairs,5,sidewalk 
+Above,3,building,1,stairs 
+Above,3,building,5,sidewalk 
+Left,4,street,5,sidewalk 
+Below,6,column,4,street 
+Above,5,sidewalk,1,stairs 
+Left,5,sidewalk,1,stairs 
+Above,5,sidewalk,3,building 
+Left,5,sidewalk,4,street 
+Above,6,column, 4,street 

@@ -1,0 +1,24 @@
+Above,1,sky-blue, 4,grass 
+Above,1,sky-blue,8,flag 
+Left,1,sky-blue,8,flag 
+Above,2,cloud, 4,grass 
+Above,2,cloud,8,flag 
+Left,2,cloud,8,flag 
+Left,3,fountain,6,trees 
+Left,3,fountain,9,trees 
+Below,1,sky-blue,4,grass 
+Below,2,cloud,4,grass 
+Above,4,grass,8,flag 
+Left,5,building,7,flag 
+Right,6,trees,3,fountain 
+Above,6,trees,7,flag 
+Right,6,trees,9,trees 
+Right,7,flag,5,building 
+Above,7,flag,6,trees 
+Above,8,flag,1,sky-blue 
+Left,8,flag,1,sky-blue 
+Above,8,flag,2,cloud 
+Left,8,flag,2,cloud 
+Above,8,flag,4,grass 
+Left,9,trees,3,fountain 
+Left,9,trees,6,trees 

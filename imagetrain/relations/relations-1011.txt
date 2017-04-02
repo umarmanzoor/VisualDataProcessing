@@ -1,0 +1,4 @@
+Above,1,child-girl,2,cloth 
+Above,2,cloth,1,child-girl 
+Below,3,face-of-person,2,cloth 
+Above,3,face-of-person, 2,cloth 

@@ -1,0 +1,44 @@
+Left,1,window,2,window 
+Above,1,window,3,wall 
+Above,1,window, 8,man 
+Above,1,window, 10,person 
+Right,2,window,1,window 
+Above,3,wall,1,window 
+Left,3,wall,4,wood 
+Above,3,wall, 8,man 
+Above,3,wall,10,person 
+Left,4,wood,3,wall 
+Above,4,wood, 6,person 
+Above,4,wood,7,man 
+Above,4,wood, 12,head-of-person 
+Left,5,woman,7,man 
+Left,5,woman,9,woman 
+Left,5,woman,10,person 
+Below,4,wood,6,person 
+Above,6,person,7,man 
+Left,6,person,8,man 
+Above,6,person,12,head-of-person 
+Above,7,man,4,wood 
+Right,7,man,5,woman 
+Left,7,man,9,woman 
+Left,7,man,10,person 
+Left,7,man,12,head-of-person 
+Below,1,window,8,man 
+Below,3,wall,8,man 
+Right,8,man,6,person 
+Below,10,person,8,man 
+Right,8,man,12,head-of-person 
+Right,9,woman,5,woman 
+Right,9,woman,7,man 
+Right,9,woman,12,head-of-person 
+Below,1,window,10,person 
+Above,10,person,3,wall 
+Right,10,person,5,woman 
+Right,10,person,7,man 
+Above,10,person, 8,man 
+Above,11,floor,9,woman 
+Above,11,floor,12,head-of-person 
+Below,4,wood,12,head-of-person 
+Right,12,head-of-person,7,man 
+Left,12,head-of-person,8,man 
+Left,12,head-of-person,9,woman 

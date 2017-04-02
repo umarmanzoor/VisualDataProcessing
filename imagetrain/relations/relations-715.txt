@@ -1,0 +1,40 @@
+Below,5,toy,1,group-of-persons 
+Above,1,group-of-persons, 6,child-girl 
+Above,1,group-of-persons,7,floor-other 
+Above,1,group-of-persons,8,wall 
+Above,1,group-of-persons,9,wall 
+Right,2,child-boy,3,child-girl 
+Right,2,child-boy,6,child-girl 
+Left,3,child-girl,2,child-boy 
+Above,3,child-girl, 4,child-boy 
+Left,3,child-girl,6,child-girl 
+Below,3,child-girl,4,child-boy 
+Left,4,child-boy,5,toy 
+Above,5,toy, 1,group-of-persons 
+Right,5,toy,4,child-boy 
+Below,6,child-girl,5,toy 
+Above,5,toy, 7,floor-other 
+Below,8,wall,5,toy 
+Below,9,wall,5,toy 
+Below,1,group-of-persons,6,child-girl 
+Left,6,child-girl,2,child-boy 
+Right,6,child-girl,3,child-girl 
+Above,6,child-girl, 5,toy 
+Above,6,child-girl, 7,floor-other 
+Below,8,wall,6,child-girl 
+Below,9,wall,6,child-girl 
+Above,7,floor-other,1,group-of-persons 
+Below,5,toy,7,floor-other 
+Below,6,child-girl,7,floor-other 
+Below,8,wall,7,floor-other 
+Below,9,wall,7,floor-other 
+Above,8,wall, 5,toy 
+Above,8,wall, 6,child-girl 
+Above,8,wall, 7,floor-other 
+Above,8,wall,9,wall 
+Left,8,wall,9,wall 
+Above,9,wall, 5,toy 
+Above,9,wall, 6,child-girl 
+Above,9,wall, 7,floor-other 
+Above,9,wall,8,wall 
+Left,9,wall,8,wall 

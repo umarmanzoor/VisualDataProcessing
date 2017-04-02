@@ -1,0 +1,6 @@
+Above,1,sky-blue,2,edifice 
+Above,1,sky-blue, 3,grass 
+Above,2,edifice,1,sky-blue 
+Above,2,edifice, 3,grass 
+Below,1,sky-blue,3,grass 
+Below,2,edifice,3,grass 

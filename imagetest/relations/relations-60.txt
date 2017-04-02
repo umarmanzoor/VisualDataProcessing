@@ -1,0 +1,55 @@
+Above,1,sky-light, 5,car 
+Above,1,sky-light, 8,couple-of-persons 
+Right,2,building,3,building 
+Above,2,building, 4,street 
+Above,2,building,7,sidewalk 
+Left,3,building,2,building 
+Above,3,building,9,group-of-persons 
+Below,2,building,4,street 
+Right,4,street,6,sidewalk 
+Above,4,street,7,sidewalk 
+Below,1,sky-light,5,car 
+Left,5,car,7,sidewalk 
+Left,5,car,8,couple-of-persons 
+Right,5,car,9,group-of-persons 
+Above,5,car,11,group-of-persons 
+Left,5,car,11,group-of-persons 
+Below,12,branch,5,car 
+Left,6,sidewalk,4,street 
+Below,9,group-of-persons,6,sidewalk 
+Below,10,public-sign,6,sidewalk 
+Below,11,group-of-persons,6,sidewalk 
+Below,12,branch,6,sidewalk 
+Above,7,sidewalk,2,building 
+Above,7,sidewalk,4,street 
+Left,7,sidewalk,5,car 
+Left,7,sidewalk,8,couple-of-persons 
+Right,7,sidewalk,9,group-of-persons 
+Right,7,sidewalk,11,group-of-persons 
+Below,1,sky-light,8,couple-of-persons 
+Right,8,couple-of-persons,5,car 
+Left,8,couple-of-persons,7,sidewalk 
+Right,8,couple-of-persons,9,group-of-persons 
+Right,8,couple-of-persons,11,group-of-persons 
+Left,9,group-of-persons,5,car 
+Above,9,group-of-persons, 6,sidewalk 
+Left,9,group-of-persons,7,sidewalk 
+Left,9,group-of-persons,8,couple-of-persons 
+Below,10,public-sign,9,group-of-persons 
+Left,9,group-of-persons,11,group-of-persons 
+Above,10,public-sign, 6,sidewalk 
+Above,10,public-sign, 9,group-of-persons 
+Above,10,public-sign, 11,group-of-persons 
+Above,10,public-sign, 12,branch 
+Above,11,group-of-persons,5,car 
+Left,11,group-of-persons,5,car 
+Above,11,group-of-persons, 6,sidewalk 
+Left,11,group-of-persons,7,sidewalk 
+Left,11,group-of-persons,8,couple-of-persons 
+Right,11,group-of-persons,9,group-of-persons 
+Below,10,public-sign,11,group-of-persons 
+Below,12,branch,11,group-of-persons 
+Above,12,branch, 5,car 
+Above,12,branch, 6,sidewalk 
+Below,10,public-sign,12,branch 
+Above,12,branch, 11,group-of-persons 

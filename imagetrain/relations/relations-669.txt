@@ -1,0 +1,12 @@
+Left,1,child-girl,2,couple-of-persons 
+Left,1,child-girl,5,hand-of-person 
+Left,2,couple-of-persons,1,child-girl 
+Above,2,couple-of-persons, 3,face-of-person 
+Above,2,couple-of-persons,4,head-of-person 
+Below,2,couple-of-persons,3,face-of-person 
+Left,3,face-of-person,4,head-of-person 
+Above,4,head-of-person,2,couple-of-persons 
+Left,4,head-of-person,3,face-of-person 
+Left,4,head-of-person,5,hand-of-person 
+Left,5,hand-of-person,1,child-girl 
+Right,5,hand-of-person,4,head-of-person 

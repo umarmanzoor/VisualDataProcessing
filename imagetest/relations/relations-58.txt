@@ -1,0 +1,27 @@
+Left,1,flowerbed,2,grass 
+Left,1,flowerbed,3,bush 
+Below,9,window,1,flowerbed 
+Left,2,grass,1,flowerbed 
+Left,2,grass,3,bush 
+Below,5,building,2,grass 
+Below,6,cloud,2,grass 
+Right,3,bush,1,flowerbed 
+Left,3,bush,2,grass 
+Right,3,bush,4,bush 
+Right,3,bush,7,bush 
+Below,8,column,3,bush 
+Left,4,bush,3,bush 
+Right,4,bush,7,bush 
+Above,5,building, 2,grass 
+Above,5,building,6,cloud 
+Left,5,building,9,window 
+Above,6,cloud, 2,grass 
+Left,7,bush,3,bush 
+Left,7,bush,4,bush 
+Above,8,column, 3,bush 
+Right,8,column,9,window 
+Below,10,flag,8,column 
+Above,9,window, 1,flowerbed 
+Right,9,window,5,building 
+Left,9,window,8,column 
+Above,10,flag, 8,column 

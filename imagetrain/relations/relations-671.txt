@@ -1,0 +1,6 @@
+Above,2,woman,3,person 
+Left,2,woman,4,food 
+Left,3,person,5,wall 
+Left,4,food,2,woman 
+Above,4,food,5,wall 
+Left,5,wall,3,person 

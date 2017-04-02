@@ -1,0 +1,16 @@
+1,4,x-aligned,child-girl,face-of-person
+2,6,x-aligned,paper,wall
+2,7,x-aligned,paper,non-wooden-furniture
+3,5,y-aligned,window,wood
+3,7,x-aligned,window,non-wooden-furniture
+4,1,x-aligned,face-of-person,child-girl
+4,7,y-aligned,face-of-person,non-wooden-furniture
+5,3,y-aligned,wood,window
+5,6,y-aligned,wood,wall
+6,2,x-aligned,wall,paper
+6,5,y-aligned,wall,wood
+6,7,x-aligned,wall,non-wooden-furniture
+7,2,x-aligned,non-wooden-furniture,paper
+7,3,x-aligned,non-wooden-furniture,window
+7,4,y-aligned,non-wooden-furniture,face-of-person
+7,6,x-aligned,non-wooden-furniture,wall

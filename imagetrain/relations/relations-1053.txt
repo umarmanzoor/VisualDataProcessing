@@ -1,0 +1,4 @@
+Left,1,bed,2,wooden-furniture 
+Left,2,wooden-furniture,1,bed 
+Below,3,lamp,2,wooden-furniture 
+Above,3,lamp, 2,wooden-furniture 

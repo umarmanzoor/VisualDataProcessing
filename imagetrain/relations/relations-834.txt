@@ -1,0 +1,9 @@
+Below,2,child-girl,1,table 
+Left,1,table,4,ground 
+Below,5,construction,1,table 
+Above,2,child-girl, 1,table 
+Above,2,child-girl,5,construction 
+Right,3,ground,4,ground 
+Left,4,ground,1,table 
+Left,4,ground,3,ground 
+Above,5,construction, 1,table 

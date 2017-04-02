@@ -1,0 +1,5 @@
+Above,1,child,2,wall 
+Above,1,child,4,hat 
+Above,2,wall,4,hat 
+Left,2,wall,4,hat 
+Left,4,hat,2,wall 

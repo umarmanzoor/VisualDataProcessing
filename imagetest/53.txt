@@ -1,0 +1,6 @@
+1,2,x-aligned,sky-blue,edifice
+1,3,x-aligned,sky-blue,grass
+2,1,x-aligned,edifice,sky-blue
+2,3,x-aligned,edifice,grass
+3,1,x-aligned,grass,sky-blue
+3,2,x-aligned,grass,edifice

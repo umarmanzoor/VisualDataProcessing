@@ -1,0 +1,88 @@
+Right,1,child-boy,2,couple-of-persons 
+Right,1,child-boy,3,wooden-furniture 
+Right,1,child-boy,4,book 
+Left,1,child-boy,5,child 
+Above,1,child-boy,9,group-of-persons 
+Right,1,child-boy,10,head-of-person 
+Below,13,door,1,child-boy 
+Left,1,child-boy,14,wooden-furniture 
+Left,1,child-boy,15,face-of-person 
+Left,2,couple-of-persons,1,child-boy 
+Left,2,couple-of-persons,3,wooden-furniture 
+Left,2,couple-of-persons,4,book 
+Left,2,couple-of-persons,5,child 
+Above,2,couple-of-persons,8,couple-of-persons 
+Left,2,couple-of-persons,10,head-of-person 
+Left,2,couple-of-persons,14,wooden-furniture 
+Left,2,couple-of-persons,15,face-of-person 
+Left,3,wooden-furniture,1,child-boy 
+Left,3,wooden-furniture,2,couple-of-persons 
+Left,3,wooden-furniture,5,child 
+Below,6,group-of-persons,3,wooden-furniture 
+Below,7,man,3,wooden-furniture 
+Below,10,head-of-person,3,wooden-furniture 
+Below,11,wall,3,wooden-furniture 
+Left,4,book,1,child-boy 
+Right,4,book,2,couple-of-persons 
+Left,4,book,5,child 
+Below,6,group-of-persons,4,book 
+Below,10,head-of-person,4,book 
+Below,11,wall,4,book 
+Left,5,child,1,child-boy 
+Right,5,child,2,couple-of-persons 
+Left,5,child,3,wooden-furniture 
+Above,5,child,4,book 
+Left,5,child,4,book 
+Above,6,group-of-persons, 3,wooden-furniture 
+Above,6,group-of-persons, 4,book 
+Above,6,group-of-persons, 10,head-of-person 
+Above,6,group-of-persons,11,wall 
+Above,7,man, 3,wooden-furniture 
+Right,7,man,8,couple-of-persons 
+Above,7,man, 10,head-of-person 
+Below,11,wall,7,man 
+Left,8,couple-of-persons,7,man 
+Left,8,couple-of-persons,9,group-of-persons 
+Above,9,group-of-persons,1,child-boy 
+Right,9,group-of-persons,8,couple-of-persons 
+Right,9,group-of-persons,10,head-of-person 
+Below,12,window,9,group-of-persons 
+Right,9,group-of-persons,14,wooden-furniture 
+Above,9,group-of-persons, 15,face-of-person 
+Right,9,group-of-persons,15,face-of-person 
+Left,10,head-of-person,1,child-boy 
+Right,10,head-of-person,2,couple-of-persons 
+Above,10,head-of-person, 3,wooden-furniture 
+Above,10,head-of-person, 4,book 
+Below,6,group-of-persons,10,head-of-person 
+Below,7,man,10,head-of-person 
+Left,10,head-of-person,9,group-of-persons 
+Below,11,wall,10,head-of-person 
+Left,10,head-of-person,14,wooden-furniture 
+Left,10,head-of-person,15,face-of-person 
+Above,11,wall, 3,wooden-furniture 
+Above,11,wall, 4,book 
+Above,11,wall,6,group-of-persons 
+Above,11,wall, 7,man 
+Above,11,wall, 10,head-of-person 
+Left,11,wall,12,window 
+Above,12,window, 9,group-of-persons 
+Left,12,window,11,wall 
+Right,12,window,13,door 
+Above,13,door, 1,child-boy 
+Left,13,door,12,window 
+Above,13,door, 14,wooden-furniture 
+Above,13,door, 15,face-of-person 
+Left,14,wooden-furniture,1,child-boy 
+Right,14,wooden-furniture,2,couple-of-persons 
+Left,14,wooden-furniture,9,group-of-persons 
+Right,14,wooden-furniture,10,head-of-person 
+Below,13,door,14,wooden-furniture 
+Left,14,wooden-furniture,15,face-of-person 
+Right,15,face-of-person,1,child-boy 
+Right,15,face-of-person,2,couple-of-persons 
+Below,9,group-of-persons,15,face-of-person 
+Left,15,face-of-person,9,group-of-persons 
+Right,15,face-of-person,10,head-of-person 
+Below,13,door,15,face-of-person 
+Right,15,face-of-person,14,wooden-furniture 

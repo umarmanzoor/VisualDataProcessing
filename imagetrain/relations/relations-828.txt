@@ -1,0 +1,23 @@
+Below,4,face-of-person,1,child-boy 
+Below,6,window,2,wooden-furniture 
+Below,9,wall,2,wooden-furniture 
+Above,3,paper,8,group-of-persons 
+Below,9,wall,3,paper 
+Above,4,face-of-person, 1,child-boy 
+Right,4,face-of-person,7,couple-of-persons 
+Left,4,face-of-person,8,group-of-persons 
+Left,5,window,6,window 
+Above,5,window, 7,couple-of-persons 
+Above,6,window, 2,wooden-furniture 
+Right,6,window,5,window 
+Above,6,window, 9,wall 
+Left,7,couple-of-persons,4,face-of-person 
+Below,5,window,7,couple-of-persons 
+Left,7,couple-of-persons,8,group-of-persons 
+Right,8,group-of-persons,4,face-of-person 
+Right,8,group-of-persons,7,couple-of-persons 
+Above,8,group-of-persons,9,wall 
+Above,9,wall, 2,wooden-furniture 
+Above,9,wall, 3,paper 
+Below,6,window,9,wall 
+Above,9,wall,8,group-of-persons 

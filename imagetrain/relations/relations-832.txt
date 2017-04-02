@@ -1,0 +1,4 @@
+Left,1,child-girl,3,wooden-furniture 
+Below,4,face-of-person,1,child-girl 
+Left,3,wooden-furniture,1,child-girl 
+Above,4,face-of-person, 1,child-girl 

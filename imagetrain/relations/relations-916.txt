@@ -1,0 +1,4 @@
+Below,2,face-of-person,1,child-boy 
+Left,1,child-boy,3,head-of-person 
+Above,2,face-of-person, 1,child-boy 
+Right,3,head-of-person,1,child-boy 

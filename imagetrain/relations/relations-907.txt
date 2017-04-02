@@ -1,0 +1,6 @@
+Right,2,ground,3,ground 
+Right,2,ground,5,face-of-person 
+Left,3,ground,2,ground 
+Left,3,ground,5,face-of-person 
+Left,5,face-of-person,2,ground 
+Right,5,face-of-person,3,ground 

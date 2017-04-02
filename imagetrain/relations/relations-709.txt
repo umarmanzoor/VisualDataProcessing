@@ -1,0 +1,12 @@
+Above,1,sky-blue, 3,ancent-building 
+Above,1,sky-blue, 5,rock 
+Above,2,house, 4,ground 
+Left,2,house,6,house 
+Below,1,sky-blue,3,ancent-building 
+Above,3,ancent-building,5,rock 
+Below,2,house,4,ground 
+Below,1,sky-blue,5,rock 
+Above,5,rock,3,ancent-building 
+Below,6,house,5,rock 
+Left,6,house,2,house 
+Above,6,house, 5,rock 

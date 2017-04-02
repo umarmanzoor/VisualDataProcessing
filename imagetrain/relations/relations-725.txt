@@ -1,0 +1,2 @@
+Right,2,face-of-person,3,face-of-person 
+Left,3,face-of-person,2,face-of-person 

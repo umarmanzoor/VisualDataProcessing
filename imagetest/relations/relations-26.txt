@@ -1,0 +1,16 @@
+Left,1,building,3,trees 
+Above,1,building, 5,group-of-persons 
+Above,2,cloud,7,palm 
+Left,3,trees,1,building 
+Above,3,trees, 6,group-of-persons 
+Left,3,trees,7,palm 
+Left,4,car,5,group-of-persons 
+Left,4,car,6,group-of-persons 
+Below,1,building,5,group-of-persons 
+Left,5,group-of-persons,4,car 
+Left,5,group-of-persons,6,group-of-persons 
+Below,3,trees,6,group-of-persons 
+Right,6,group-of-persons,4,car 
+Right,6,group-of-persons,5,group-of-persons 
+Above,7,palm,2,cloud 
+Left,7,palm,3,trees 

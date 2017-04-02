@@ -1,0 +1,6 @@
+1,2,y-aligned,church,building
+1,3,x-aligned,church,sky-blue
+2,1,y-aligned,building,church
+2,4,x-aligned,building,sky-blue
+3,1,x-aligned,sky-blue,church
+4,2,x-aligned,sky-blue,building

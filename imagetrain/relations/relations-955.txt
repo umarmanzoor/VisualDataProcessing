@@ -1,0 +1,8 @@
+Above,2,face-of-person,3,jewelry 
+Above,2,face-of-person,5,hat 
+Above,3,jewelry,2,face-of-person 
+Below,5,hat,3,jewelry 
+Left,4,ground,5,hat 
+Above,5,hat,2,face-of-person 
+Above,5,hat, 3,jewelry 
+Left,5,hat,4,ground 

@@ -1,0 +1,13 @@
+Below,6,face-of-person,1,child-boy 
+Above,2,group-of-persons,4,wall 
+Left,2,group-of-persons,5,wall 
+Left,3,window,4,wall 
+Above,3,window, 5,wall 
+Left,4,wall,3,window 
+Right,5,wall,2,group-of-persons 
+Below,3,window,5,wall 
+Right,5,wall,6,face-of-person 
+Above,5,wall, 7,wooden-furniture 
+Above,6,face-of-person, 1,child-boy 
+Left,6,face-of-person,5,wall 
+Below,5,wall,7,wooden-furniture 

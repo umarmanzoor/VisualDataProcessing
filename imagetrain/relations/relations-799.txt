@@ -1,0 +1,3 @@
+Above,1,child-girl,2,sky-blue 
+Above,2,sky-blue, 4,face-of-person 
+Below,2,sky-blue,4,face-of-person 

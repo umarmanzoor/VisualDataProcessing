@@ -1,0 +1,4 @@
+1,2,x-aligned,child-boy,face-of-person
+2,1,x-aligned,face-of-person,child-boy
+3,4,y-aligned,child-boy,person
+4,3,y-aligned,person,child-boy

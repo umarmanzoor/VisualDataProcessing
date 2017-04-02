@@ -1,0 +1,12 @@
+1,3,x-aligned,sky-blue,ancent-building
+1,5,x-aligned,sky-blue,rock
+2,4,x-aligned,house,ground
+2,6,y-aligned,house,house
+3,1,x-aligned,ancent-building,sky-blue
+3,5,x-aligned,ancent-building,rock
+4,2,x-aligned,ground,house
+5,1,x-aligned,rock,sky-blue
+5,3,x-aligned,rock,ancent-building
+5,6,x-aligned,rock,house
+6,2,y-aligned,house,house
+6,5,x-aligned,house,rock

@@ -1,0 +1,22 @@
+Right,1,tree,3,tree 
+Above,1,tree,6,edifice 
+Left,1,tree,8,sky-blue 
+Above,2,house,3,tree 
+Left,2,house,4,church 
+Left,3,tree,1,tree 
+Above,3,tree,2,house 
+Left,3,tree,8,sky-blue 
+Left,3,tree,9,cloud 
+Left,4,church,2,house 
+Below,9,cloud,4,church 
+Left,5,edifice,6,edifice 
+Above,6,edifice,1,tree 
+Right,6,edifice,5,edifice 
+Below,8,sky-blue,7,street 
+Below,9,cloud,7,street 
+Left,8,sky-blue,1,tree 
+Left,8,sky-blue,3,tree 
+Above,8,sky-blue, 7,street 
+Right,9,cloud,3,tree 
+Above,9,cloud, 4,church 
+Above,9,cloud, 7,street 

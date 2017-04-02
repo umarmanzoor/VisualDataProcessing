@@ -1,0 +1,58 @@
+Left,1,group-of-persons,2,child-boy 
+Right,1,group-of-persons,3,child-girl 
+Right,1,group-of-persons,6,child-girl 
+Above,1,group-of-persons,9,house 
+Below,10,hill,1,group-of-persons 
+Left,2,child-boy,1,group-of-persons 
+Right,2,child-boy,3,child-girl 
+Right,2,child-boy,5,child-boy 
+Right,2,child-boy,6,child-girl 
+Above,2,child-boy,8,house 
+Below,14,clock,2,child-boy 
+Left,3,child-girl,1,group-of-persons 
+Left,3,child-girl,2,child-boy 
+Right,3,child-girl,4,child-girl 
+Left,3,child-girl,5,child-boy 
+Below,6,child-girl,3,child-girl 
+Right,3,child-girl,6,child-girl 
+Below,11,tree,3,child-girl 
+Left,4,child-girl,3,child-girl 
+Left,4,child-girl,6,child-girl 
+Below,12,tree,4,child-girl 
+Left,5,child-boy,2,child-boy 
+Right,5,child-boy,3,child-girl 
+Right,5,child-boy,6,child-girl 
+Above,5,child-boy, 7,floor-other 
+Below,10,hill,5,child-boy 
+Left,6,child-girl,1,group-of-persons 
+Left,6,child-girl,2,child-boy 
+Above,6,child-girl, 3,child-girl 
+Left,6,child-girl,3,child-girl 
+Right,6,child-girl,4,child-girl 
+Left,6,child-girl,5,child-boy 
+Below,11,tree,6,child-girl 
+Below,5,child-boy,7,floor-other 
+Left,8,house,9,house 
+Above,8,house,14,clock 
+Left,8,house,14,clock 
+Left,9,house,8,house 
+Below,10,hill,9,house 
+Left,9,house,13,door 
+Left,9,house,14,clock 
+Above,10,hill, 1,group-of-persons 
+Above,10,hill, 5,child-boy 
+Above,10,hill, 9,house 
+Left,10,hill,11,tree 
+Above,11,tree, 3,child-girl 
+Above,11,tree, 6,child-girl 
+Left,11,tree,10,hill 
+Right,11,tree,12,tree 
+Above,12,tree, 4,child-girl 
+Left,12,tree,11,tree 
+Right,13,door,9,house 
+Right,13,door,14,clock 
+Above,14,clock, 2,child-boy 
+Above,14,clock,8,house 
+Left,14,clock,8,house 
+Right,14,clock,9,house 
+Left,14,clock,13,door 

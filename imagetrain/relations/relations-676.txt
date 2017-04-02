@@ -1,0 +1,29 @@
+Below,10,hand-of-person,1,couple-of-persons 
+Above,2,group-of-persons,3,wall 
+Below,4,window,2,group-of-persons 
+Above,3,wall,4,window 
+Above,3,wall, 7,child-boy 
+Left,3,wall,11,head-of-person 
+Above,4,window, 2,group-of-persons 
+Above,4,window,3,wall 
+Left,4,window,5,window 
+Above,4,window, 7,child-boy 
+Above,4,window, 8,child-boy 
+Left,4,window,9,head-of-person 
+Right,5,window,4,window 
+Right,5,window,9,head-of-person 
+Right,6,child-girl,7,child-boy 
+Right,6,child-girl,8,child-boy 
+Below,3,wall,7,child-boy 
+Below,4,window,7,child-boy 
+Left,7,child-boy,6,child-girl 
+Left,7,child-boy,8,child-boy 
+Below,4,window,8,child-boy 
+Left,8,child-boy,6,child-girl 
+Right,8,child-boy,7,child-boy 
+Right,9,head-of-person,4,window 
+Left,9,head-of-person,5,window 
+Above,9,head-of-person, 10,hand-of-person 
+Above,10,hand-of-person, 1,couple-of-persons 
+Below,9,head-of-person,10,hand-of-person 
+Left,11,head-of-person,3,wall 

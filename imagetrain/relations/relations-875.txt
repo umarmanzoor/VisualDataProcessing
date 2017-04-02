@@ -1,0 +1,8 @@
+Left,1,child-girl,2,child 
+Left,2,child,1,child-girl 
+Below,4,face-of-person,2,child 
+Left,3,child,5,face-of-person 
+Above,4,face-of-person, 2,child 
+Right,4,face-of-person,5,face-of-person 
+Right,5,face-of-person,3,child 
+Left,5,face-of-person,4,face-of-person 

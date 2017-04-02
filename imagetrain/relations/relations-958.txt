@@ -1,0 +1,8 @@
+Below,2,hat,1,child-girl 
+Above,1,child-girl, 3,jewelry 
+Right,1,child-girl,3,jewelry 
+Above,2,hat, 1,child-girl 
+Above,2,hat, 3,jewelry 
+Below,1,child-girl,3,jewelry 
+Left,3,jewelry,1,child-girl 
+Below,2,hat,3,jewelry 

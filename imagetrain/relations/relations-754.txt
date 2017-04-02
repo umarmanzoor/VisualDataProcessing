@@ -1,0 +1,14 @@
+Above,1,group-of-persons,4,sidewalk 
+Right,2,woman,3,man 
+Right,2,woman,6,man 
+Left,3,man,2,woman 
+Left,3,man,6,man 
+Above,3,man,7,construction 
+Above,4,sidewalk,1,group-of-persons 
+Above,4,sidewalk,7,construction 
+Below,6,man,5,ground 
+Left,6,man,2,woman 
+Left,6,man,3,man 
+Above,6,man, 5,ground 
+Above,7,construction,3,man 
+Above,7,construction,4,sidewalk 

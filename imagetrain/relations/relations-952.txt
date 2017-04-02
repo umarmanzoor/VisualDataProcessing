@@ -1,0 +1,3 @@
+Left,1,child-girl,3,face-of-person 
+Right,3,face-of-person,1,child-girl 
+Above,3,face-of-person,2,hat 

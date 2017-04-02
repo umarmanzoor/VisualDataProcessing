@@ -1,0 +1,14 @@
+Left,2,ground,3,ground 
+Left,2,ground,7,face-of-person 
+Right,3,ground,2,ground 
+Right,3,ground,4,rock 
+Right,3,ground,7,face-of-person 
+Left,4,rock,3,ground 
+Left,4,rock,6,rock 
+Left,4,rock,7,face-of-person 
+Below,6,rock,5,rock 
+Right,6,rock,4,rock 
+Above,6,rock, 5,rock 
+Right,7,face-of-person,2,ground 
+Left,7,face-of-person,3,ground 
+Right,7,face-of-person,4,rock 

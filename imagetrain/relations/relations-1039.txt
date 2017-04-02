@@ -1,0 +1,10 @@
+Right,1,bed,3,table 
+Right,2,curtain,7,lamp 
+Right,2,curtain,8,table 
+Left,3,table,1,bed 
+Above,3,table,6,curtain 
+Above,4,floor-carpet,8,table 
+Right,5,wall,6,curtain 
+Left,6,curtain,5,wall 
+Left,7,lamp,2,curtain 
+Left,8,table,2,curtain 

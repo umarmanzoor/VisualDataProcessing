@@ -1,0 +1,4 @@
+1,4,x-aligned,cloud,couple-of-persons
+3,4,x-aligned,vegetation,couple-of-persons
+4,1,x-aligned,couple-of-persons,cloud
+4,3,x-aligned,couple-of-persons,vegetation

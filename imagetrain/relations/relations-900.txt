@@ -1,0 +1,6 @@
+Left,2,face-of-person,3,group-of-persons 
+Right,2,face-of-person,4,head-of-person 
+Right,3,group-of-persons,2,face-of-person 
+Right,3,group-of-persons,4,head-of-person 
+Left,4,head-of-person,2,face-of-person 
+Left,4,head-of-person,3,group-of-persons 

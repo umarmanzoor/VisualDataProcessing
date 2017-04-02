@@ -1,0 +1,6 @@
+1,2,x-aligned,child-boy,face-of-person
+1,5,x-aligned,child-boy,wall
+2,1,x-aligned,face-of-person,child-boy
+2,5,x-aligned,face-of-person,wall
+5,1,x-aligned,wall,child-boy
+5,2,x-aligned,wall,face-of-person

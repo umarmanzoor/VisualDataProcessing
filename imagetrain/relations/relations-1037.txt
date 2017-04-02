@@ -1,0 +1,20 @@
+Left,1,bed,5,bench 
+Below,7,wall,1,bed 
+Left,1,bed,8,floor-carpet 
+Right,2,bed,4,telephone 
+Above,3,lamp, 4,telephone 
+Left,3,lamp,6,curtain 
+Left,3,lamp,7,wall 
+Left,4,telephone,2,bed 
+Below,3,lamp,4,telephone 
+Right,5,bench,1,bed 
+Right,5,bench,8,floor-carpet 
+Right,6,curtain,3,lamp 
+Right,6,curtain,7,wall 
+Above,6,curtain, 8,floor-carpet 
+Above,7,wall, 1,bed 
+Right,7,wall,3,lamp 
+Left,7,wall,6,curtain 
+Right,8,floor-carpet,1,bed 
+Left,8,floor-carpet,5,bench 
+Below,6,curtain,8,floor-carpet 

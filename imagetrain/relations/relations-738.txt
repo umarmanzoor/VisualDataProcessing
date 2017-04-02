@@ -1,0 +1,20 @@
+Right,1,child-girl,5,wooden-furniture 
+Left,1,child-girl,7,book 
+Left,2,group-of-persons,3,child-girl 
+Left,2,group-of-persons,6,child-girl 
+Right,3,child-girl,2,group-of-persons 
+Above,3,child-girl,6,child-girl 
+Above,4,child-boy, 5,wooden-furniture 
+Left,4,child-boy,6,child-girl 
+Left,5,wooden-furniture,1,child-girl 
+Below,4,child-boy,5,wooden-furniture 
+Left,5,wooden-furniture,7,book 
+Right,6,child-girl,2,group-of-persons 
+Above,6,child-girl,3,child-girl 
+Right,6,child-girl,4,child-boy 
+Above,6,child-girl, 7,book 
+Right,7,book,1,child-girl 
+Right,7,book,5,wooden-furniture 
+Below,6,child-girl,7,book 
+Right,7,book,8,face-of-person 
+Left,8,face-of-person,7,book 

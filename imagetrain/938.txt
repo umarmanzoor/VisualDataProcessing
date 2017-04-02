@@ -1,0 +1,6 @@
+1,2,x-aligned,child-boy,cloth
+1,3,x-aligned,child-boy,cloth
+2,1,x-aligned,cloth,child-boy
+2,3,x-aligned,cloth,cloth
+3,1,x-aligned,cloth,child-boy
+3,2,x-aligned,cloth,cloth

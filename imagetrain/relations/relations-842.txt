@@ -1,0 +1,13 @@
+Below,5,window,1,child-boy 
+Below,6,face-of-person,1,child-boy 
+Left,2,woman,3,child-girl 
+Left,2,woman,6,face-of-person 
+Right,3,child-girl,2,woman 
+Above,3,child-girl,4,wall 
+Above,4,wall,3,child-girl 
+Above,5,window, 1,child-boy 
+Above,5,window, 6,face-of-person 
+Above,6,face-of-person, 1,child-boy 
+Right,6,face-of-person,2,woman 
+Left,6,face-of-person,3,child-girl 
+Below,5,window,6,face-of-person 

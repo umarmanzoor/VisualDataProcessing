@@ -1,0 +1,6 @@
+1,2,x-aligned,cloud,mountain
+2,1,x-aligned,mountain,cloud
+2,3,x-aligned,mountain,city
+3,2,x-aligned,city,mountain
+3,4,y-aligned,city,bush
+4,3,y-aligned,bush,city

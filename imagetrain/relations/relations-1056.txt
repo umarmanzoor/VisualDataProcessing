@@ -1,0 +1,48 @@
+Above,2,building, 3,sidewalk 
+Above,2,building,4,public-sign 
+Above,2,building, 6,flag 
+Above,2,building, 7,flag 
+Below,2,building,3,sidewalk 
+Below,4,public-sign,3,sidewalk 
+Below,5,flag,3,sidewalk 
+Below,6,flag,3,sidewalk 
+Above,4,public-sign,2,building 
+Above,4,public-sign, 3,sidewalk 
+Above,4,public-sign,5,flag 
+Left,4,public-sign,5,flag 
+Above,4,public-sign,6,flag 
+Left,4,public-sign,6,flag 
+Left,4,public-sign,7,flag 
+Left,4,public-sign,8,flag 
+Left,4,public-sign,9,flag 
+Above,5,flag, 3,sidewalk 
+Above,5,flag,4,public-sign 
+Left,5,flag,4,public-sign 
+Left,5,flag,6,flag 
+Left,5,flag,7,flag 
+Left,5,flag,8,flag 
+Left,5,flag,9,flag 
+Below,2,building,6,flag 
+Above,6,flag, 3,sidewalk 
+Above,6,flag,4,public-sign 
+Left,6,flag,4,public-sign 
+Right,6,flag,5,flag 
+Left,6,flag,7,flag 
+Left,6,flag,8,flag 
+Left,6,flag,9,flag 
+Below,2,building,7,flag 
+Left,7,flag,4,public-sign 
+Right,7,flag,5,flag 
+Right,7,flag,6,flag 
+Left,7,flag,8,flag 
+Left,7,flag,9,flag 
+Left,8,flag,4,public-sign 
+Right,8,flag,5,flag 
+Right,8,flag,6,flag 
+Right,8,flag,7,flag 
+Left,8,flag,9,flag 
+Left,9,flag,4,public-sign 
+Right,9,flag,5,flag 
+Right,9,flag,6,flag 
+Right,9,flag,7,flag 
+Right,9,flag,8,flag 

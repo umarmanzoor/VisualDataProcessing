@@ -1,0 +1,2 @@
+Below,3,cloth,2,face-of-person 
+Above,3,cloth, 2,face-of-person 

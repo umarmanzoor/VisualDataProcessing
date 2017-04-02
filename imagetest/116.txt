@@ -1,0 +1,10 @@
+1,2,y-aligned,man,man
+2,1,y-aligned,man,man
+2,3,x-aligned,man,ground
+2,4,x-aligned,man,rock
+3,2,x-aligned,ground,man
+3,4,x-aligned,ground,rock
+3,4,y-aligned,ground,rock
+4,2,x-aligned,rock,man
+4,3,x-aligned,rock,ground
+4,3,y-aligned,rock,ground

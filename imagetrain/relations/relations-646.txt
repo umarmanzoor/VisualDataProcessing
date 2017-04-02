@@ -1,0 +1,10 @@
+Left,1,person,2,group-of-persons 
+Left,1,person,3,group-of-persons 
+Below,5,sky-night,1,person 
+Left,2,group-of-persons,1,person 
+Left,2,group-of-persons,3,group-of-persons 
+Left,3,group-of-persons,1,person 
+Right,3,group-of-persons,2,group-of-persons 
+Below,6,public-sign,3,group-of-persons 
+Above,5,sky-night, 1,person 
+Above,6,public-sign, 3,group-of-persons 

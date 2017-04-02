@@ -1,0 +1,30 @@
+Above,1,sky-blue, 5,road 
+Above,1,sky-blue, 6,child-girl 
+Above,1,sky-blue, 8,road 
+Left,2,house,4,window 
+Left,2,house,7,group-of-persons 
+Right,3,door,6,child-girl 
+Right,3,door,7,group-of-persons 
+Right,4,window,2,house 
+Above,4,window, 5,road 
+Above,4,window, 6,child-girl 
+Above,4,window, 8,road 
+Below,1,sky-blue,5,road 
+Below,4,window,5,road 
+Above,5,road,6,child-girl 
+Above,5,road,8,road 
+Left,5,road,8,road 
+Below,1,sky-blue,6,child-girl 
+Left,6,child-girl,3,door 
+Below,4,window,6,child-girl 
+Above,6,child-girl,5,road 
+Right,6,child-girl,7,group-of-persons 
+Above,6,child-girl,8,road 
+Left,7,group-of-persons,2,house 
+Left,7,group-of-persons,3,door 
+Left,7,group-of-persons,6,child-girl 
+Below,1,sky-blue,8,road 
+Below,4,window,8,road 
+Above,8,road,5,road 
+Left,8,road,5,road 
+Above,8,road,6,child-girl 

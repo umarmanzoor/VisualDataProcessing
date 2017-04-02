@@ -1,0 +1,7 @@
+Above,1,paper,4,paper 
+Left,1,paper,5,wood 
+Left,2,can,3,paper 
+Left,3,paper,2,can 
+Above,4,paper, 5,wood 
+Left,5,wood,1,paper 
+Below,4,paper,5,wood 

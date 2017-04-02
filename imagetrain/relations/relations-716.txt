@@ -1,0 +1,48 @@
+Below,7,child-girl,1,child-boy 
+Below,9,wall,1,child-boy 
+Right,1,child-boy,11,paper 
+Above,2,group-of-persons,3,child-girl 
+Left,2,group-of-persons,3,child-girl 
+Left,2,group-of-persons,7,child-girl 
+Left,2,group-of-persons,8,child-girl 
+Above,2,group-of-persons, 11,paper 
+Left,2,group-of-persons,12,head-of-person 
+Above,3,child-girl,2,group-of-persons 
+Left,3,child-girl,2,group-of-persons 
+Left,3,child-girl,5,child 
+Left,3,child-girl,8,child-girl 
+Above,3,child-girl, 11,paper 
+Left,4,child-girl,5,child 
+Left,4,child-girl,6,child-girl 
+Below,8,child-girl,4,child-girl 
+Right,5,child,3,child-girl 
+Right,5,child,4,child-girl 
+Left,5,child,6,child-girl 
+Below,9,wall,5,child 
+Right,6,child-girl,4,child-girl 
+Right,6,child-girl,5,child 
+Below,10,paper,6,child-girl 
+Below,12,head-of-person,6,child-girl 
+Above,7,child-girl, 1,child-boy 
+Right,7,child-girl,2,group-of-persons 
+Right,7,child-girl,8,child-girl 
+Below,9,wall,7,child-girl 
+Left,7,child-girl,12,head-of-person 
+Right,8,child-girl,2,group-of-persons 
+Right,8,child-girl,3,child-girl 
+Above,8,child-girl, 4,child-girl 
+Left,8,child-girl,7,child-girl 
+Left,8,child-girl,12,head-of-person 
+Above,9,wall, 1,child-boy 
+Above,9,wall, 5,child 
+Above,9,wall, 7,child-girl 
+Above,10,paper, 6,child-girl 
+Above,10,paper, 12,head-of-person 
+Left,11,paper,1,child-boy 
+Below,2,group-of-persons,11,paper 
+Below,3,child-girl,11,paper 
+Right,12,head-of-person,2,group-of-persons 
+Above,12,head-of-person, 6,child-girl 
+Right,12,head-of-person,7,child-girl 
+Right,12,head-of-person,8,child-girl 
+Below,10,paper,12,head-of-person 

@@ -1,0 +1,6 @@
+Below,3,face-of-person,1,child-girl 
+Above,1,child-girl,4,hand-of-person 
+Above,3,face-of-person, 1,child-girl 
+Above,3,face-of-person, 4,hand-of-person 
+Above,4,hand-of-person,1,child-girl 
+Below,3,face-of-person,4,hand-of-person 

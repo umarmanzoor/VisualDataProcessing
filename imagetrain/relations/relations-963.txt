@@ -1,0 +1,3 @@
+Above,1,child-girl,3,hut 
+Below,3,hut,2,face-of-person 
+Above,3,hut, 2,face-of-person 

@@ -1,0 +1,6 @@
+Above,1,cloud,2,mountain 
+Above,2,mountain,1,cloud 
+Above,2,mountain,3,city 
+Above,3,city,2,mountain 
+Left,3,city,4,bush 
+Left,4,bush,3,city 

@@ -1,0 +1,16 @@
+Left,1,child-girl,2,child-girl 
+Right,1,child-girl,4,face-of-person 
+Right,1,child-girl,7,rock 
+Left,2,child-girl,1,child-girl 
+Left,2,child-girl,3,face-of-person 
+Right,2,child-girl,4,face-of-person 
+Right,3,face-of-person,2,child-girl 
+Right,3,face-of-person,4,face-of-person 
+Left,4,face-of-person,1,child-girl 
+Left,4,face-of-person,2,child-girl 
+Left,4,face-of-person,3,face-of-person 
+Right,6,ground,7,rock 
+Left,7,rock,1,child-girl 
+Left,7,rock,6,ground 
+Above,7,rock,8,woman 
+Above,8,woman,7,rock 

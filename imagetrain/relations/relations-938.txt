@@ -1,0 +1,5 @@
+Above,1,child-boy,2,cloth 
+Above,1,child-boy,3,cloth 
+Above,2,cloth, 3,cloth 
+Above,3,cloth,1,child-boy 
+Below,2,cloth,3,cloth 

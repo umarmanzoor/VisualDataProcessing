@@ -1,0 +1,7 @@
+Above,1,child-girl,2,hat 
+Above,1,child-girl,3,wood 
+Above,1,child-girl,4,face-of-person 
+Above,2,hat, 4,face-of-person 
+Above,3,wood,1,child-girl 
+Above,3,wood,4,face-of-person 
+Below,2,hat,4,face-of-person 

@@ -1,0 +1,5 @@
+Left,1,child-boy,3,group-of-persons 
+Above,2,group-of-persons,5,wall 
+Left,3,group-of-persons,1,child-boy 
+Left,4,window,5,wall 
+Left,5,wall,4,window 

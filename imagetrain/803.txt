@@ -1,0 +1,10 @@
+1,2,x-aligned,child-boy,hand-of-person
+1,5,x-aligned,child-boy,wall
+2,1,x-aligned,hand-of-person,child-boy
+2,4,y-aligned,hand-of-person,couple-of-persons
+2,5,x-aligned,hand-of-person,wall
+3,4,y-aligned,group-of-persons,couple-of-persons
+4,2,y-aligned,couple-of-persons,hand-of-person
+4,3,y-aligned,couple-of-persons,group-of-persons
+5,1,x-aligned,wall,child-boy
+5,2,x-aligned,wall,hand-of-person

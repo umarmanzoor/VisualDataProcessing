@@ -1,0 +1,4 @@
+Above,1,child-girl,3,wall 
+Left,1,child-girl,4,wooden-furniture 
+Above,3,wall,1,child-girl 
+Left,4,wooden-furniture,1,child-girl 
