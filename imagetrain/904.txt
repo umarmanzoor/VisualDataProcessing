@@ -1,2 +1,0 @@
-2,3,x-aligned,ground,rock
-3,2,x-aligned,rock,ground

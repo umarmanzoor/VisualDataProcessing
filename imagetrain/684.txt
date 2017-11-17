@@ -1,4 +1,0 @@
-1,2,y-aligned,child-boy,child-girl
-2,1,y-aligned,child-girl,child-boy
-2,3,x-aligned,child-girl,group-of-persons
-3,2,x-aligned,group-of-persons,child-girl

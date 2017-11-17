@@ -1,6 +1,0 @@
-Above,1,child-girl,2,ground,x-aligned 
-Above,2,ground,1,child-girl,x-aligned 
-Right,2,ground,5,face-of-person,y-aligned 
-Right,3,rock,4,rock,y-aligned 
-Left,4,rock,3,rock,y-aligned 
-Left,5,face-of-person,2,ground,y-aligned 

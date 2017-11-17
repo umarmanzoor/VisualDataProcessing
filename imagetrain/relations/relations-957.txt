@@ -1,3 +1,0 @@
-Above,1,child-girl,2,hat,x-aligned 
-Above,2,hat, 3,face-of-person,x-aligned 
-Below,2,hat,3,face-of-person,x-aligned 

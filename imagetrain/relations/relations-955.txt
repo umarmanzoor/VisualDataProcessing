@@ -1,8 +1,0 @@
-Above,2,face-of-person,3,jewelry,x-aligned 
-Above,2,face-of-person,5,hat,x-aligned 
-Above,3,jewelry,2,face-of-person,x-aligned 
-Below,5,hat,3,jewelry,x-aligned 
-Left,4,ground,5,hat,y-aligned 
-Above,5,hat,2,face-of-person,x-aligned 
-Above,5,hat, 3,jewelry,x-aligned 
-Left,5,hat,4,ground,y-aligned 

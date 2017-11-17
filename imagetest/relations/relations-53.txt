@@ -1,6 +1,0 @@
-Above,1,sky-blue,2,edifice,x-aligned 
-Above,1,sky-blue, 3,grass,x-aligned 
-Above,2,edifice,1,sky-blue,x-aligned 
-Above,2,edifice, 3,grass,x-aligned 
-Below,1,sky-blue,3,grass,x-aligned 
-Below,2,edifice,3,grass,x-aligned 

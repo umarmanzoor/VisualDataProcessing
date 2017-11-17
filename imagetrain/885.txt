@@ -1,4 +1,0 @@
-1,4,x-aligned,child-girl,face-of-person
-3,4,x-aligned,wall,face-of-person
-4,1,x-aligned,face-of-person,child-girl
-4,3,x-aligned,face-of-person,wall

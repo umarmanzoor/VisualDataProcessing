@@ -1,5 +1,0 @@
-Above,1,child,2,wall,x-aligned 
-Above,1,child,4,hat,x-aligned 
-Above,2,wall,4,hat,x-aligned 
-Left,2,wall,4,hat,y-aligned 
-Left,4,hat,2,wall,y-aligned 

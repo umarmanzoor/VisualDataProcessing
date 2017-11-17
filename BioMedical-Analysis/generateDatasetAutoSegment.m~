@@ -1,0 +1,13 @@
+function [schwann] = generateDatasetAutoSegment(folderPath) 
+%     %% Images
+%     imageDir = fullfile(folderPath);
+%     % Collection of images
+%     imgSet = imageSet(imageDir);
+%     methods(imgSet);
+    I = imread('Images/autoSegments/train/91-17 Myelin-0014.tif');
+    imshow(I); 
+    hold on;
+    [BW, cellMask] = segmentImage(I);
+    imshow(cellMask)
+    schwann = 1;
+end

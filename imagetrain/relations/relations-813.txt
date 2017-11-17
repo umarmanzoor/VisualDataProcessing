@@ -1,7 +1,0 @@
-Above,1,child-boy,2,cloud,x-aligned 
-Below,5,face-of-person,2,cloud,x-aligned 
-Right,2,cloud,5,face-of-person,y-aligned 
-Left,3,rock,4,rock,y-aligned 
-Right,4,rock,3,rock,y-aligned 
-Above,5,face-of-person, 2,cloud,x-aligned 
-Left,5,face-of-person,2,cloud,y-aligned 

@@ -1,6 +1,0 @@
-Right,2,ground,3,ground,y-aligned 
-Right,2,ground,5,face-of-person,y-aligned 
-Left,3,ground,2,ground,y-aligned 
-Left,3,ground,5,face-of-person,y-aligned 
-Left,5,face-of-person,2,ground,y-aligned 
-Right,5,face-of-person,3,ground,y-aligned 

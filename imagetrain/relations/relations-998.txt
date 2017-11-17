@@ -1,3 +1,0 @@
-Above,1,child-boy,3,wall,x-aligned 
-Above,3,wall,1,child-boy,x-aligned 
-Above,3,wall,2,face-of-person,x-aligned 

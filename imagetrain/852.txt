@@ -1,6 +1,0 @@
-1,2,x-aligned,child-girl,face-of-person
-1,5,y-aligned,child-girl,wooden-furniture
-2,1,x-aligned,face-of-person,child-girl
-2,3,x-aligned,face-of-person,window
-3,2,x-aligned,window,face-of-person
-5,1,y-aligned,wooden-furniture,child-girl

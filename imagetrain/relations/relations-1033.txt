@@ -1,8 +1,0 @@
-Above,1,edifice,3,sky-light,x-aligned 
-Above,1,edifice, 4,floor-other,x-aligned 
-Right,2,fountain,4,floor-other,y-aligned 
-Above,3,sky-light,1,edifice,x-aligned 
-Above,3,sky-light, 4,floor-other,x-aligned 
-Below,1,edifice,4,floor-other,x-aligned 
-Left,4,floor-other,2,fountain,y-aligned 
-Below,3,sky-light,4,floor-other,x-aligned 

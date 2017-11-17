@@ -1,8 +1,0 @@
-1,2,x-aligned,child,wall
-1,4,x-aligned,child,hat
-2,1,x-aligned,wall,child
-2,4,x-aligned,wall,hat
-2,4,y-aligned,wall,hat
-4,1,x-aligned,hat,child
-4,2,x-aligned,hat,wall
-4,2,y-aligned,hat,wall

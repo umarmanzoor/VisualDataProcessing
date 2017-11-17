@@ -1,4 +1,0 @@
-1,5,x-aligned,child-boy,hand-of-person
-1,5,y-aligned,child-boy,hand-of-person
-5,1,x-aligned,hand-of-person,child-boy
-5,1,y-aligned,hand-of-person,child-boy

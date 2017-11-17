@@ -1,4 +1,0 @@
-Right,2,face-of-person,4,person,y-aligned 
-Left,3,wall,4,person,y-aligned 
-Left,4,person,2,face-of-person,y-aligned 
-Left,4,person,3,wall,y-aligned 

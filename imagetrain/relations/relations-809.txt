@@ -1,2 +1,0 @@
-Below,2,child-girl,1,child-girl,x-aligned 
-Above,2,child-girl, 1,child-girl,x-aligned 

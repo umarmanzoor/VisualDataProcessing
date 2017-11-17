@@ -1,6 +1,0 @@
-Right,2,city,4,umbrella,y-aligned 
-Right,2,city,5,umbrella,y-aligned 
-Left,4,umbrella,2,city,y-aligned 
-Right,4,umbrella,5,umbrella,y-aligned 
-Left,5,umbrella,2,city,y-aligned 
-Left,5,umbrella,4,umbrella,y-aligned 

@@ -1,4 +1,0 @@
-Left,2,group-of-persons,3,child-girl,y-aligned 
-Left,2,group-of-persons,4,face-of-person,y-aligned 
-Right,3,child-girl,2,group-of-persons,y-aligned 
-Left,4,face-of-person,2,group-of-persons,y-aligned 

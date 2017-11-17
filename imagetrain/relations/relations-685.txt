@@ -1,7 +1,0 @@
-Above,1,paper,4,paper,x-aligned 
-Left,1,paper,5,wood,y-aligned 
-Left,2,can,3,paper,y-aligned 
-Left,3,paper,2,can,y-aligned 
-Above,4,paper, 5,wood,x-aligned 
-Left,5,wood,1,paper,y-aligned 
-Below,4,paper,5,wood,x-aligned 

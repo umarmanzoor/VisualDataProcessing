@@ -1,8 +1,0 @@
-1,2,x-aligned,child-girl,face-of-person
-2,1,x-aligned,face-of-person,child-girl
-2,3,y-aligned,face-of-person,wall
-3,2,y-aligned,wall,face-of-person
-3,4,y-aligned,wall,wood
-3,5,x-aligned,wall,window
-4,3,y-aligned,wood,wall
-5,3,x-aligned,window,wall

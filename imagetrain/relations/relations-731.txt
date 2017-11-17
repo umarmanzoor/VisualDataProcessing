@@ -1,6 +1,0 @@
-Above,1,cloud,2,mountain,x-aligned 
-Above,2,mountain,1,cloud,x-aligned 
-Above,2,mountain,3,city,x-aligned 
-Above,3,city,2,mountain,x-aligned 
-Left,3,city,4,bush,y-aligned 
-Left,4,bush,3,city,y-aligned 

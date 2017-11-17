@@ -1,5 +1,0 @@
-Left,1,child-boy,3,group-of-persons,y-aligned 
-Above,2,group-of-persons,5,wall,x-aligned 
-Left,3,group-of-persons,1,child-boy,y-aligned 
-Left,4,window,5,wall,y-aligned 
-Left,5,wall,4,window,y-aligned 

@@ -1,3 +1,0 @@
-Above,1,child-girl, 4,jewelry,x-aligned 
-Above,2,face-of-person,3,hat,x-aligned 
-Below,1,child-girl,4,jewelry,x-aligned 

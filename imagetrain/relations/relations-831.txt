@@ -1,4 +1,0 @@
-Above,1,child-girl,3,wall,x-aligned 
-Left,1,child-girl,4,wooden-furniture,y-aligned 
-Above,3,wall,1,child-girl,x-aligned 
-Left,4,wooden-furniture,1,child-girl,y-aligned 

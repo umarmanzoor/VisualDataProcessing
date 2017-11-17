@@ -1,5 +1,0 @@
-Above,1,child-boy,2,cloth,x-aligned 
-Above,1,child-boy,3,cloth,x-aligned 
-Above,2,cloth, 3,cloth,x-aligned 
-Above,3,cloth,1,child-boy,x-aligned 
-Below,2,cloth,3,cloth,x-aligned 

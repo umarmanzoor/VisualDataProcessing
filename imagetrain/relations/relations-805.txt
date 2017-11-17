@@ -1,2 +1,0 @@
-Below,2,face-of-person,1,child-girl,x-aligned 
-Above,2,face-of-person, 1,child-girl,x-aligned 

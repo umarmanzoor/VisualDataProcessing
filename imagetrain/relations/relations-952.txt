@@ -1,3 +1,0 @@
-Left,1,child-girl,3,face-of-person,y-aligned 
-Right,3,face-of-person,1,child-girl,y-aligned 
-Above,3,face-of-person,2,hat,x-aligned 

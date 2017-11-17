@@ -1,8 +1,0 @@
-Left,1,child-girl,3,wooden-furniture,y-aligned 
-Left,3,wooden-furniture,1,child-girl,y-aligned 
-Right,4,house,5,face-of-person,y-aligned 
-Right,4,house,6,hand-of-person,y-aligned 
-Left,5,face-of-person,4,house,y-aligned 
-Right,5,face-of-person,6,hand-of-person,y-aligned 
-Left,6,hand-of-person,4,house,y-aligned 
-Left,6,hand-of-person,5,face-of-person,y-aligned 

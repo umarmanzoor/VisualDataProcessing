@@ -1,5 +1,0 @@
-Above,2,grass,1,house,x-aligned 
-Left,2,grass,4,sidewalk,y-aligned 
-Below,6,window,2,grass,x-aligned 
-Right,4,sidewalk,2,grass,y-aligned 
-Above,6,window, 2,grass,x-aligned 

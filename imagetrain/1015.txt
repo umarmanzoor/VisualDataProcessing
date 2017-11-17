@@ -1,4 +1,0 @@
-1,4,x-aligned,lizard,sand-dessert
-2,4,y-aligned,lizard,sand-dessert
-4,1,x-aligned,sand-dessert,lizard
-4,2,y-aligned,sand-dessert,lizard

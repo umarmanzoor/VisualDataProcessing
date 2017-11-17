@@ -1,6 +1,0 @@
-1,4,y-aligned,child-boy,group-of-persons
-1,5,x-aligned,child-boy,wall
-2,3,x-aligned,wooden-furniture,group-of-persons
-3,2,x-aligned,group-of-persons,wooden-furniture
-4,1,y-aligned,group-of-persons,child-boy
-5,1,x-aligned,wall,child-boy

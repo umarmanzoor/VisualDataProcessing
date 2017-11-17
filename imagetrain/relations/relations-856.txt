@@ -1,6 +1,0 @@
-Above,1,child-boy,2,ground,x-aligned 
-Above,2,ground,1,child-boy,x-aligned 
-Left,2,ground,3,trash,y-aligned 
-Right,3,trash,2,ground,y-aligned 
-Left,3,trash,4,trash,y-aligned 
-Right,4,trash,3,trash,y-aligned 

@@ -1,2 +1,0 @@
-Left,2,face-of-person,3,wood,y-aligned 
-Right,3,wood,2,face-of-person,y-aligned 

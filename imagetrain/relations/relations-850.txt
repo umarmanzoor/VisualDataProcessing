@@ -1,8 +1,0 @@
-Above,1,child-girl,4,cloth,x-aligned 
-Left,1,child-girl,4,cloth,y-aligned 
-Left,2,face-of-person,3,wall,y-aligned 
-Above,2,face-of-person, 4,cloth,x-aligned 
-Left,3,wall,2,face-of-person,y-aligned 
-Above,4,cloth,1,child-girl,x-aligned 
-Left,4,cloth,1,child-girl,y-aligned 
-Below,2,face-of-person,4,cloth,x-aligned 

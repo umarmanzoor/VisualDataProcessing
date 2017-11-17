@@ -1,6 +1,0 @@
-Above,1,child-boy,3,wall,x-aligned 
-Above,2,face-of-person,3,wall,x-aligned 
-Above,2,face-of-person, 4,cloth,x-aligned 
-Above,3,wall,2,face-of-person,x-aligned 
-Below,2,face-of-person,4,cloth,x-aligned 
-Above,4,cloth,3,wall,x-aligned 

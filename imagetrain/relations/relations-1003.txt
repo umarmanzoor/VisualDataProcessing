@@ -1,9 +1,0 @@
-Above,1,child-girl,5,hat,x-aligned 
-Below,6,sky-light,1,child-girl,x-aligned 
-Below,5,hat,2,face-of-person,x-aligned 
-Below,6,sky-light,2,face-of-person,x-aligned 
-Left,3,cloth,4,cloth,y-aligned 
-Right,4,cloth,3,cloth,y-aligned 
-Above,5,hat, 2,face-of-person,x-aligned 
-Above,6,sky-light, 1,child-girl,x-aligned 
-Above,6,sky-light, 2,face-of-person,x-aligned 

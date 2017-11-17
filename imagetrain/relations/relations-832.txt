@@ -1,4 +1,0 @@
-Left,1,child-girl,3,wooden-furniture,y-aligned 
-Below,4,face-of-person,1,child-girl,x-aligned 
-Left,3,wooden-furniture,1,child-girl,y-aligned 
-Above,4,face-of-person, 1,child-girl,x-aligned 

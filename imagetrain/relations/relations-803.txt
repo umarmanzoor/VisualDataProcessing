@@ -1,9 +1,0 @@
-Above,1,child-boy, 2,hand-of-person,x-aligned 
-Above,1,child-boy,5,wall,x-aligned 
-Below,1,child-boy,2,hand-of-person,x-aligned 
-Right,2,hand-of-person,4,couple-of-persons,y-aligned 
-Below,5,wall,2,hand-of-person,x-aligned 
-Right,3,group-of-persons,4,couple-of-persons,y-aligned 
-Left,4,couple-of-persons,2,hand-of-person,y-aligned 
-Left,4,couple-of-persons,3,group-of-persons,y-aligned 
-Above,5,wall, 2,hand-of-person,x-aligned 

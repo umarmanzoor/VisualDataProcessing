@@ -1,2 +1,0 @@
-Left,2,face-of-person,3,head-of-person,y-aligned 
-Right,3,head-of-person,2,face-of-person,y-aligned 

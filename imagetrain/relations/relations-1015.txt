@@ -1,4 +1,0 @@
-Below,4,sand-dessert,1,lizard,x-aligned 
-Right,2,lizard,4,sand-dessert,y-aligned 
-Above,4,sand-dessert, 1,lizard,x-aligned 
-Left,4,sand-dessert,2,lizard,y-aligned 

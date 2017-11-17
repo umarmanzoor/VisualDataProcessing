@@ -1,9 +1,0 @@
-Below,2,sky,1,child-boy,x-aligned 
-Above,1,child-boy,3,ground,x-aligned 
-Above,2,sky, 1,child-boy,x-aligned 
-Above,3,ground,1,child-boy,x-aligned 
-Above,3,ground,2,sky,x-aligned 
-Left,3,ground,5,rock,y-aligned 
-Right,4,rock,5,rock,y-aligned 
-Left,5,rock,3,ground,y-aligned 
-Left,5,rock,4,rock,y-aligned 

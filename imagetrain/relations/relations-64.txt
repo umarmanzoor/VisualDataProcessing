@@ -1,9 +1,0 @@
-Above,1,vegetation,2,rock,x-aligned 
-Below,3,construction,1,vegetation,x-aligned 
-Below,3,construction,2,rock,x-aligned 
-Left,2,rock,4,water,y-aligned 
-Below,5,sky,2,rock,x-aligned 
-Above,3,construction, 1,vegetation,x-aligned 
-Above,3,construction, 2,rock,x-aligned 
-Left,4,water,2,rock,y-aligned 
-Above,5,sky, 2,rock,x-aligned 

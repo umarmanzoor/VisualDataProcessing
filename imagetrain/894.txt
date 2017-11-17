@@ -1,6 +1,0 @@
-1,4,x-aligned,child-girl,face-of-person
-2,3,y-aligned,group-of-persons,child-girl
-2,4,y-aligned,group-of-persons,face-of-person
-3,2,y-aligned,child-girl,group-of-persons
-4,1,x-aligned,face-of-person,child-girl
-4,2,y-aligned,face-of-person,group-of-persons
