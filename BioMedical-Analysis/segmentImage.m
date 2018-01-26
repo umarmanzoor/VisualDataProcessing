@@ -9,7 +9,7 @@ function [BW,maskedImage] = segmentImage(X)
 
 
 % Threshold image - adaptive threshold
-BW = imbinarize(X, 'adaptive', 'Sensitivity', 0.850000, 'ForegroundPolarity', 'bright');
+BW = imbinarize(X, 'adaptive', 'Sensitivity', 0.750000, 'ForegroundPolarity', 'bright');
 
 % Invert mask
 BW = imcomplement(BW);

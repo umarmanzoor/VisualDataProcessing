@@ -4,7 +4,7 @@ function generateDatasetManualSegment(folderPath, showImage)
     axonsCount = 1;
     myelinCount = 1;
     schwannCount = 1;
-    outputfile = 'Output/regionsInfoGridTest.txt';
+    outputfile = 'Output/regionsInfoGridTrain.txt';
     outputfid = fopen(outputfile,'w');
     cellSize = 100;
     global gridLabels;
@@ -169,26 +169,26 @@ function generateDatasetManualSegment(folderPath, showImage)
               row = 1;
               yPos = cellSize / 2;
               xPos = cellSize / 2;
-               rectX = 1;
-               rectY = 1;
+              rectX = 1;
+              rectY = 1;
               for x= 1: gridSize
                   if(xCount==xboxes)
                       row = row + 1;
                       xPos = ((row-1) * cellSize) + (cellSize / 2);
                       yPos = cellSize / 2;
-                      xCount = 0;
-                       rectY = 1; 
-                       rectX = rectX + cellSize;
+                      xCount = 1;
+                      rectY = 1; 
+                      rectX = rectX + cellSize;
                   end
                   label = gridLabels(x);
                   if(label==0)
-                     l = 'N';
+                     l = 'N'
                   elseif(label==1)
-                     l = 'A';
+                     l = 'A'
                   elseif(label==2)
-                     l = 'M';
+                     l = 'M'
                   else
-                     l = 'S';
+                     l = 'S'
                   end                 
                    text(xPos, yPos,l, 'Color','red');
                    yPos = yPos + cellSize;

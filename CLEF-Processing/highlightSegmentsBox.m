@@ -17,7 +17,8 @@ while ischar(tline)
    [imageWidth, imageHeight, dim] = size(I);
    imshow(I); hold on;
    colors=['b' 'g' 'r' 'c' 'm' 'y' 'w'];
-    for k=1:segmentCount
+
+   for k=1:segmentCount
       blackImage = 0 * I;
       BW = im2bw(blackImage);
       Mask = 'Images/segmentation_masks/';
@@ -27,27 +28,61 @@ while ischar(tline)
       Mask = strcat(Mask, '.mat'); 
       M = objMaskLoader(Mask);
       BW(~M)=255;
+      [r, c] = size(M);
+      minX = r + 1;
+      minY = c + 1;
+      maxX = -1;
+      maxY = -1;
+
+      % Calculate minX, MinY, MaxX, MaxY
+      for x=1:r
+          for y=1:c
+              if(M(x,y)==0)
+                  if(minX > x)
+                      minX = x;
+                      if(maxX==-1)
+                          maxX = x;
+                      end
+                  end
+                  if(maxX < x)
+                      maxX = x;
+                  end
+                  if(minY > y)
+                      minY = y;
+                      if(maxY==-1)
+                          maxY = y;
+                      end
+                  end
+                  if(maxY < y)
+                      maxY = y;
+                  end                  
+              end
+          end
+      end
+      
       [B,L,N,A] = bwboundaries(BW);
       boundary = B{1};
+%       
+%       X = boundary(:,2);
+%       Y = boundary(:,1);
+%       minX = min(X);
+%       maxX = max(X);
+%       minY = min(Y);
+%       maxY = max(Y);      
       
-      X = boundary(:,2);
-      Y = boundary(:,1);
-      minX = min(X);
-      maxX = max(X);
-      minY = min(Y);
-      maxY = max(Y);      
+      % Exchange X and Y because of Image Orientation
+      Xmin = minY; Xmax = maxY; Ymin = minX; Ymax = maxX;   
+      width = Xmax - Xmin;
+      height = Ymax - Ymin;
       
-      width = maxX - minX;
-      height = maxY - minY;
-      
-      fprintf(outputfid,'%s %d %d-%d-%d-%d %d-%d \r\n',fileName, k, minX, minY, width, height, imageWidth, imageHeight);
+      fprintf(outputfid,'%s %d %d-%d-%d-%d %d-%d \r\n',fileName, k, Xmin, Ymin, width, height, imageWidth, imageHeight);
       
       cidx = mod(k,length(colors))+1;
       
-      line([minX,maxX],[maxY,maxY],'Color', colors(cidx),'LineWidth',2)
-      line([minX,maxX],[minY,minY],'Color', colors(cidx),'LineWidth',2)
-      line([minX,minX],[minY,maxY],'Color', colors(cidx),'LineWidth',2)
-      line([maxX,maxX],[minY,maxY],'Color', colors(cidx),'LineWidth',2)      
+      line([Xmin,Xmax],[Ymax,Ymax],'Color', colors(cidx),'LineWidth',2)
+      line([Xmin,Xmax],[Ymin,Ymin],'Color', colors(cidx),'LineWidth',2)
+      line([Xmin,Xmin],[Ymin,Ymax],'Color', colors(cidx),'LineWidth',2)
+      line([Xmax,Xmax],[Ymin,Ymax],'Color', colors(cidx),'LineWidth',2)      
       
       plot(boundary(:,2), boundary(:,1),'Color', colors(cidx),'LineWidth',2);
     
@@ -63,7 +98,7 @@ while ischar(tline)
     end
     frame = getframe(1);
     im = frame2im(frame);
-    savingPath = 'Images/highlighted_segmented_images/';
+    savingPath = 'Images/highlighted_segmented_images_box/';
     savingPath = strcat(savingPath, fileName);
     savingPath = strcat(savingPath, '.jpg');
     imwrite(im, savingPath)
@@ -73,3 +108,4 @@ while ischar(tline)
 end
 fclose(fid);
 fclose(outputfid);
+disp('Finished');
