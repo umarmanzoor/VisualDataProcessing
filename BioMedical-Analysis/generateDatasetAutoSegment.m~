@@ -162,7 +162,7 @@ function [matched] = evaluateAutoSegmented(R1, segmentedRects)
     matched = 0;
     for i = 1:length(segmentedRects)
         R2 = [segmentedRects(i, 1) segmentedRects(i, 2) segmentedRects(i, 3) segmentedRects(i, 4)];
-        if(calculateOverlap(R1, R2)> 0.50)
+        if(calculateOverlap(R1, R2)> 0.60)
             matched = 1;
         end
     end

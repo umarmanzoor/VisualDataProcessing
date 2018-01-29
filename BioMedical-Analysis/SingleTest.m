@@ -1,10 +1,3 @@
-
-A = [1, 1; 3, 3];
-B = [2, 2];
-C = [A; B];
-
-D = C(:,1);
-
 colors=['b' 'g' 'r' 'c' 'm' 'y'];
 
 originalImage = imread('Images/autoSegments/train/MGF1-Cross-0009.tif');
