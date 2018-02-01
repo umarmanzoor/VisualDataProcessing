@@ -5,7 +5,11 @@ function generateDatasetAutoSegment(folderPath, showImage)
     pMyleinCount = 0;
     gtSchwannCount = 0;
     pSchwannCount = 0;
-  
+    gtAxonCount = 0;
+    pAxonCount = 0;
+    global segmentedRectanglesCount;
+    global segmentedRectangles;
+    
     % Iterating folder contents
     for k = 1 : size(MyFolderInfo)    
        if(MyFolderInfo(k).isdir)
@@ -23,44 +27,28 @@ function generateDatasetAutoSegment(folderPath, showImage)
                    filepath = strcat(ImageInfo(i).folder, "/");
                    filepath = strcat(filepath, ImageInfo(i).name);
                    originalImage = imread(char(filepath));               
-                   [rows, columns, numberOfColorChannels] = size(originalImage);
+                   [rows, cols, numberOfColorChannels] = size(originalImage);
                    if numberOfColorChannels > 1
-                       grayImage = rgb2gray(originalImage);
+                       grayImage = originalImage(:, :, 2); %rgb2gray(originalImage);
                    else
                        grayImage = originalImage;
                    end
+                   sumOfAllGrayLevels = (sum(sum(grayImage)))/(rows*cols);
+                   disp(fileName)
+                   disp(sumOfAllGrayLevels);
                    if(showImage)
-                       imshow(originalImage);
-                       hold on;
-                   end
-                    [BW, cellMask] = segmentImage(grayImage);
+                      imshow(grayImage);
+                      hold on;
+                   end                 
+                    [S1, S2] = segmentImage(grayImage);
                     % Remove small pixels
-                    BWfiltered = bwareaopen(BW, 200);
-                    %Generate Rectangles
-                    [B,L] = bwboundaries(BWfiltered);
+                    BWfiltered = bwareaopen(S1, 50);                                       
+                    [B1] = bwboundaries(S1);
+                    [B2] = bwboundaries(S2);
                     segmentedRectanglesCount = 1;
                     segmentedRectangles = zeros(4);
-                    for j = 1:length(B)               
-                       objectBoundary = B{j};
-                       x = objectBoundary(:,2);
-                       y = objectBoundary(:,1);
-                       minX = min(x);
-                       maxX = max(x);
-                       minY = min(y);
-                       maxY = max(y);
-                       width = maxX - minX;
-                       height = maxY - minY;
-                       area = width * height;                       
-                       if(area > 200 && area < 370000)
-                           %rectangle('Position',[minX minY width height], 'EdgeColor','r')
-                           segmentedRectangles(segmentedRectanglesCount, 1) = minX; 
-                           segmentedRectangles(segmentedRectanglesCount, 2) = minY;
-                           segmentedRectangles(segmentedRectanglesCount, 3) = width;
-                           segmentedRectangles(segmentedRectanglesCount, 4) = height;
-                           %segmentedRectangles(segmentedRectanglesCount, 5) = area;
-                           segmentedRectanglesCount = segmentedRectanglesCount + 1;                       
-                       end
-                    end
+                    predictedSegments(B1);
+                    predictedSegments(B2);
 %                     sortedSegmentedRectangles = sortrows(segmentedRectangles, 5);                    
 %                     disp('Removing Overlapping Rectangles');
 %                     s = length(sortedSegmentedRectangles);
@@ -90,6 +78,27 @@ function generateDatasetAutoSegment(folderPath, showImage)
 %                     end
                else
                    [row, col] = size(originalImage);
+                   if(strcmp(ImageInfo(i).name, "axons")==1)
+                       % Read all axons Masks
+                       axonspath = strcat(ImageInfo(i).folder, "/");
+                       axonspath = strcat(axonspath, ImageInfo(i).name);
+                       AxonInfo = dir(char(axonspath));
+                       for a = 1 : size(AxonInfo)
+                           if(~AxonInfo(a).isdir)
+                               D = ['Reading Axons ', AxonInfo(a).name];
+                               disp(D);                                                      
+                               axonFile = strcat(AxonInfo(a).folder, "/");
+                               axonFile = strcat(axonFile, AxonInfo(a).name);
+                               sROI = ReadImageJROI(char(axonFile));                             
+                               gtRect = generateRect(sROI.mnCoordinates(:,1),sROI.mnCoordinates(:,2));
+                               plot(sROI.mnCoordinates(:,1),sROI.mnCoordinates(:,2), 'Color', 'b', 'LineWidth', 1);
+                               if(evaluateAutoSegmented(gtRect, segmentedRectangles))
+                                   pAxonCount = pAxonCount + 1;
+                               end
+                               gtAxonCount = gtAxonCount + 1;                           
+                           end
+                       end
+                   end
                    % Reading Myelin
                    if(strcmp(ImageInfo(i).name, "myelin")==1)
                        % Read all myelin Masks
@@ -106,6 +115,7 @@ function generateDatasetAutoSegment(folderPath, showImage)
                                    myelinPairSecondFile = strcat(MyelinInfo(a).folder, "/");
                                    myelinPairSecondFile = strcat(myelinPairSecondFile, secondFileName);
                                    sROISecond = ReadImageJROI(char(myelinPairSecondFile));
+                                   plot(sROISecond.mnCoordinates(:,1),sROISecond.mnCoordinates(:,2), 'Color', 'g', 'LineWidth', 1);
                                    gtRect = generateRect(sROISecond.mnCoordinates(:,1),sROISecond.mnCoordinates(:,2));
                                    if(evaluateAutoSegmented(gtRect, segmentedRectangles))
                                        pMyleinCount = pMyleinCount + 1;
@@ -129,6 +139,7 @@ function generateDatasetAutoSegment(folderPath, showImage)
                                schwannFile = strcat(schwannFile, SchwannInfo(a).name);
                                sROI = ReadImageJROI(char(schwannFile));
                                gtRect = generateRect(sROI.mnCoordinates(:,1),sROI.mnCoordinates(:,2));
+                               plot(sROI.mnCoordinates(:,1),sROI.mnCoordinates(:,2), 'Color', 'r', 'LineWidth', 1);
                                if(evaluateAutoSegmented(gtRect, segmentedRectangles))
                                    pSchwannCount = pSchwannCount + 1;
                                end
@@ -138,31 +149,56 @@ function generateDatasetAutoSegment(folderPath, showImage)
                    end
                end            
            end           
-           if(showImage)
+               if(showImage)
                saveFigures(fileName);
                hold off;
                closeFigures();
            end
        end
     end
-    disp('Total Myleim');
-    disp(gtMyleinCount);
-    disp('Matched Myleim');
-    disp(pMyleinCount);
-    disp('Total Schwann');
-    disp(gtSchwannCount);
-    disp('Matched Schwann');
-    disp(pSchwannCount);
-
-
+    X = ['Total Myleim ', num2str(gtMyleinCount),' Matched ', num2str(pMyleinCount), 'Percentage ', num2str(pMyleinCount/gtMyleinCount)];
+    disp(X);
+    X = ['Total Schwann ', num2str(gtSchwannCount),' Matched ', num2str(pSchwannCount), 'Percentage ', num2str(pSchwannCount/gtSchwannCount)];
+    disp(X);
+    X = ['Total Axons ', num2str(gtAxonCount),' Matched ', num2str(pAxonCount), 'Percentage ', num2str(pAxonCount/gtAxonCount)];
+    disp(X);
 end
+
+function predictedSegments(B)
+    global segmentedRectangles;
+    global segmentedRectanglesCount;
+    for j = 1:length(B)
+       objectBoundary = B{j};
+       x = objectBoundary(:,2);
+       y = objectBoundary(:,1);
+       minX = min(x);
+       maxX = max(x);
+       minY = min(y);
+       maxY = max(y);
+       width = maxX - minX;
+       height = maxY - minY;
+       area = width * height;                       
+       if(area > 200 && area < 370000)
+           %rectangle('Position',[minX minY width height], 'EdgeColor','b')
+           segmentedRectangles(segmentedRectanglesCount, 1) = minX; 
+           segmentedRectangles(segmentedRectanglesCount, 2) = minY;
+           segmentedRectangles(segmentedRectanglesCount, 3) = width;
+           segmentedRectangles(segmentedRectanglesCount, 4) = height;
+           %segmentedRectangles(segmentedRectanglesCount, 5) = area;
+           segmentedRectanglesCount = segmentedRectanglesCount + 1;                       
+       end
+    end
+end
+
+
 
 function [matched] = evaluateAutoSegmented(R1, segmentedRects)
     disp('Matching in Progress...')
     matched = 0;
     for i = 1:length(segmentedRects)
         R2 = [segmentedRects(i, 1) segmentedRects(i, 2) segmentedRects(i, 3) segmentedRects(i, 4)];
-        if(calculateOverlap(R1, R2)> 0.50)
+        if(calculateOverlap(R1, R2)> 0.60)
+            rectangle('Position',R2, 'EdgeColor','y')
             matched = 1;
         end
     end
@@ -205,51 +241,17 @@ function saveFigures(fileName)
     frame = getframe(1);
     im = frame2im(frame);
     imshow(im);
-    savingPath = 'Images/autoSegmented/';
+    savingPath = 'Images/pixelsize/20um/Output/Gray/';
     savingPath = strcat(savingPath, fileName);
     imwrite(im, savingPath)
 end
 
 function [overlapRatio] = calculateOverlap(bb1, bb2)
     areaIntersection = rectint(bb1,bb2);
-    bb1Xmin = bb1(1);
-    bb1Xmax = bb1(1) + bb1(3);
-    bb1Ymin = bb1(2);
-    bb1Ymax = bb1(2) + bb1(4);
+    areabb1 = bb1(3)*bb1(4);
+    areabb2 = bb2(3)*bb2(4);
     
-    bb2Xmin = bb2(1);
-    bb2Xmax = bb2(1) + bb2(3);
-    bb2Ymin = bb2(2);
-    bb2Ymax = bb2(2) + bb2(4);
-    if(bb1Xmin < bb2Xmin)
-        Xmin = bb1Xmin;
-    else
-        Xmin = bb2Xmin;
-    end
-    
-    if(bb1Xmax < bb2Xmax)
-        Xmax = bb1Xmax;
-    else
-        Xmax = bb2Xmax;
-    end
-
-    if(bb1Ymin < bb2Ymin)
-        Ymin = bb1Ymin;
-    else
-        Ymin = bb2Ymin;
-    end
-    
-    if(bb1Ymax < bb2Ymax)
-        Ymax = bb1Ymax;
-    else
-        Ymax = bb2Ymax;
-    end
-    
-    X_width = Xmax - Xmin;
-    X_height = Ymax - Ymin;
-    
-    areaUnion = X_width * X_height;
-    overlapRatio = areaIntersection / areaUnion;
+    overlapRatio = areaIntersection / (areabb1 + areabb2 - areaIntersection);
 end
 
 function [rectDim] = generateRect(X, Y)
@@ -260,5 +262,5 @@ function [rectDim] = generateRect(X, Y)
     width = maxX - minX;
     height = maxY - minY;
     rectDim = [minX minY width height];
-    rectangle('Position',rectDim, 'EdgeColor','y')
+    %rectangle('Position',rectDim, 'EdgeColor','y')
 end

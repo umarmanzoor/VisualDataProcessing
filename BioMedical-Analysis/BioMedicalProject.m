@@ -3,7 +3,7 @@
 % Created by Umar Manzoor
 
 %Generating Segments
-generateDatasetAutoSegment(char('Images/test'), 1);
+generateDatasetAutoSegment(char('Images/pixelsize/20um'), 0);
 
 %load segments
 %generateDatasetManualSegment(char('Images/train'));
